@@ -1,0 +1,132 @@
+{
+  "houses": [
+    {
+      "house": "Grifinória",
+      "emoji": "🦁",
+      "founder": "Godric Grifinória",
+      "colors": {
+        "name": [
+          "vermelho",
+          "dourado"
+        ],
+        "hex": [
+          "#7F0909",
+          "#FFC500"
+        ]
+      },
+      "animal": "Leão",
+      "id": "gryffindor",
+      "element": "Fogo",
+      "traits": [
+        "Coragem",
+        "Bravura",
+        "Determinação",
+        "Cavalheirismo"
+      ],
+      "description": "Lar dos nobres e audaciosos, valoriza atos de heroísmo e a firmeza moral em momentos críticos.",
+      "ghost": "Nick Quase Sem Cabeça",
+      "relic": "Espada de Godric Grifinória",
+      "common_room": {
+        "location": "Torre da Grifinória (7º andar)",
+        "access": "Senha falada ao retrato da Mulher Gorda"
+      },
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/houses/gryffindor.png"
+    },
+    {
+      "house": "Lufa-lufa",
+      "emoji": "🦡",
+      "founder": "Helga Lufa-Lufa",
+      "colors": {
+        "name": [
+          "amarelo",
+          "preto"
+        ],
+        "hex": [
+          "#ECB939",
+          "#000000"
+        ]
+      },
+      "animal": "Texugo",
+      "id": "hufflepuff",
+      "element": "Terra",
+      "traits": [
+        "Lealdade",
+        "Trabalho árduo",
+        "Paciência",
+        "Justiça"
+      ],
+      "description": "Acolhe os justos e fiéis, priorizando a constância, o companheirismo e o esforço honesto.",
+      "ghost": "Frei Gorducho",
+      "relic": "Taça de Helga Lufa-Lufa",
+      "common_room": {
+        "location": "Perto das cozinhas de Hogwarts",
+        "access": "Batida rítmica no barril correto (ritmo de 'Helga Hufflepuff')"
+      },
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/houses/hufflepuff.png"
+    },
+    {
+      "house": "Corvinal",
+      "emoji": "🦅",
+      "founder": "Rowena Corvinal",
+      "colors": {
+        "name": [
+          "azul",
+          "bronze"
+        ],
+        "hex": [
+          "#0E1A40",
+          "#946B2D"
+        ]
+      },
+      "animal": "Águia",
+      "id": "ravenclaw",
+      "element": "Ar",
+      "traits": [
+        "Inteligência",
+        "Sabedoria",
+        "Criatividade",
+        "Curiosidade"
+      ],
+      "description": "Espaço dos pensadores e inquisitivos, celebra a mente afiada, a originalidade e o intelecto aberto.",
+      "ghost": "Dama Cinzenta (Helena Corvinal)",
+      "relic": "Diadema de Rowena Corvinal",
+      "common_room": {
+        "location": "Torre da Corvinal (Lado Oeste)",
+        "access": "Responder corretamente a um enigma filosófico da aldrava de águia"
+      },
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/houses/ravenclaw.png"
+    },
+    {
+      "house": "Sonserina",
+      "emoji": "🐍",
+      "founder": "Salazar Sonserina",
+      "colors": {
+        "name": [
+          "verde",
+          "prata"
+        ],
+        "hex": [
+          "#1A472A",
+          "#AAAAAA"
+        ]
+      },
+      "animal": "Cobra",
+      "id": "slytherin",
+      "element": "Água",
+      "traits": [
+        "Ambição",
+        "Astúcia",
+        "Liderança",
+        "Autopreservação"
+      ],
+      "description": "Destinada aos decididos e estratégicos, onde a desenvoltura e a busca por grandeza moldam o caminho.",
+      "ghost": "Barão Sangrento",
+      "relic": "Medalhão de Salazar Sonserina",
+      "common_room": {
+        "location": "Masmorras (Abaixo do Lago Negro)",
+        "access": "Senha dita diante de uma parede de pedra nua"
+      },
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/houses/slytherin.png"
+    }
+  ]
+}

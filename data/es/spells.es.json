@@ -1,0 +1,724 @@
+{
+  "spells": [
+    {
+      "spell": "Accio",
+      "use": "Encanto de invocación",
+      "id": "accio",
+      "name": "Hechizo Accio",
+      "incantation": "Accio",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Glisseo",
+      "use": "Convierte una escalera en un tobogán",
+      "id": "glisseo",
+      "name": "Hechizo Glisseo",
+      "incantation": "Glisseo",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Impervius",
+      "use": "Protege al lanzador de una variedad de sustancias, incluidos el agua y el fuego",
+      "id": "impervius",
+      "name": "Hechizo Impervius",
+      "incantation": "Impervius",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Wingardium Leviosa/Locomotor",
+      "use": "Levita objetos",
+      "id": "wingardium_leviosa",
+      "name": "Hechizo Wingardium Leviosa/Locomotor",
+      "incantation": "Wingardium Leviosa/Locomotor",
+      "category": "Encantamiento",
+      "creator": "Jarlev Forge (1544)",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Scourgify",
+      "use": "Limpia cosas",
+      "id": "scourgify",
+      "name": "Hechizo Scourgify",
+      "incantation": "Scourgify",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Portus",
+      "use": "Crea un traslador",
+      "id": "portus",
+      "name": "Hechizo Portus",
+      "incantation": "Portus",
+      "category": "Encantamiento",
+      "creator": "Desconocido (Regulado pelo Ministério)",
+      "light_color": "Azul"
+    },
+    {
+      "spell": "Orchideous",
+      "use": "Crece flores desde el final de la varita",
+      "id": "orchideous",
+      "name": "Hechizo Orchideous",
+      "incantation": "Orchideous",
+      "category": "Conjuración",
+      "creator": "Desconocido",
+      "light_color": "Rosa"
+    },
+    {
+      "spell": "Lumos",
+      "use": "Hace que la varita emita luz",
+      "id": "lumos",
+      "name": "Hechizo Lumos",
+      "incantation": "Lumos",
+      "category": "Encantamiento",
+      "creator": "Levina Monkstanley (1772)",
+      "light_color": "Blanca"
+    },
+    {
+      "spell": "Reparo",
+      "use": "Repara objetos rotos",
+      "id": "reparo",
+      "name": "Hechizo Reparo",
+      "incantation": "Reparo",
+      "category": "Encantamiento",
+      "creator": "Orabella Nuttley (1754)",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Reducio",
+      "use": "Contrae objetos",
+      "id": "reducio",
+      "name": "Hechizo Reducio",
+      "incantation": "Reducio",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Morada"
+    },
+    {
+      "spell": "Pack",
+      "use": "Empaca baúles y equipaje",
+      "id": "pack",
+      "name": "Hechizo Pack",
+      "incantation": "Pack",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Riddikulus",
+      "use": "Transforma los Boggarts en una forma divertida",
+      "id": "riddikulus",
+      "name": "Hechizo Riddikulus",
+      "incantation": "Riddikulus",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Protego",
+      "use": "Protege al lanzador de las maldiciones",
+      "id": "protego",
+      "name": "Hechizo Protego",
+      "incantation": "Protego",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Azul"
+    },
+    {
+      "spell": "Muffliato",
+      "use": "Evita que otras personas cercanas escuchen conversaciones",
+      "id": "muffliato",
+      "name": "Hechizo Muffliato",
+      "incantation": "Muffliato",
+      "category": "Encantamiento",
+      "creator": "Severus Snape",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Silencio/Langlock",
+      "use": "Evita que alguien hable (pegando la lengua al paladar)",
+      "id": "langlock",
+      "name": "Hechizo Silencio/Langlock",
+      "incantation": "Silencio/Langlock",
+      "category": "Maleficio",
+      "creator": "Severus Snape",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Expelliarmus",
+      "use": "Encanto de desarme",
+      "id": "expelliarmus",
+      "name": "Hechizo Expelliarmus",
+      "incantation": "Expelliarmus",
+      "category": "Encantamiento",
+      "creator": "Elizabeth Smudgling (1379)",
+      "light_color": "Roja"
+    },
+    {
+      "spell": "Oblivate",
+      "use": "Borra recuerdos",
+      "id": "obliviate",
+      "name": "Hechizo Oblivate",
+      "incantation": "Oblivate",
+      "category": "Encantamiento",
+      "creator": "Mnemone Radford",
+      "light_color": "Verde"
+    },
+    {
+      "spell": "Episkey",
+      "use": "Cura heridas leves",
+      "id": "episkey",
+      "name": "Hechizo Episkey",
+      "incantation": "Episkey",
+      "category": "Hechizo de curación",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Tergeo",
+      "use": "Limpia superficies",
+      "id": "tergeo",
+      "name": "Hechizo Tergeo",
+      "incantation": "Tergeo",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Relashio",
+      "use": "Obliga al objetivo a soltar lo que sea que esté sosteniendo",
+      "id": "relashio",
+      "name": "Hechizo Relashio",
+      "incantation": "Relashio",
+      "category": "Maleficio",
+      "creator": "Desconocido",
+      "light_color": "Morada"
+    },
+    {
+      "spell": "Confundo",
+      "use": "Causa confusiones y hace que otros sean fácilmente susceptibles a la influencia",
+      "id": "confundo",
+      "name": "Hechizo Confundo",
+      "incantation": "Confundo",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Rosa"
+    },
+    {
+      "spell": "Expecto Patronum",
+      "use": "Encanto Patronus",
+      "id": "expecto_patronum",
+      "name": "Hechizo Expecto Patronum",
+      "incantation": "Expecto Patronum",
+      "category": "Encantamiento",
+      "creator": "Desconocido (Magia Antiga)",
+      "light_color": "Plateada"
+    },
+    {
+      "spell": "Ferula",
+      "use": "Conjura vendajes",
+      "id": "ferula",
+      "name": "Hechizo Ferula",
+      "incantation": "Ferula",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Evanesco",
+      "use": "Hechizo de desaparición",
+      "id": "evanesco",
+      "name": "Hechizo Evanesco",
+      "incantation": "Evanesco",
+      "category": "Transfiguración",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Alohomora",
+      "use": "Abre cerraduras",
+      "id": "alohomora",
+      "name": "Hechizo Alohomora",
+      "incantation": "Alohomora",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Azul"
+    },
+    {
+      "spell": "Nox",
+      "use": "Apaga lumos",
+      "id": "nox",
+      "name": "Hechizo Nox",
+      "incantation": "Nox",
+      "category": "Encantamiento",
+      "creator": "Levina Monkstanley (presumido)",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Quietus",
+      "use": "Silencia la voz mágicamente amplificada",
+      "id": "quietus",
+      "name": "Hechizo Quietus",
+      "incantation": "Quietus",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Incendio",
+      "use": "Crea fuego",
+      "id": "incendio",
+      "name": "Hechizo Incendio",
+      "incantation": "Incendio",
+      "category": "Conjuración",
+      "creator": "Desconocido",
+      "light_color": "Naranja"
+    },
+    {
+      "spell": "Homenum Revelio",
+      "use": "Revelar personas cercanas",
+      "id": "homenum_revelio",
+      "name": "Hechizo Homenum Revelio",
+      "incantation": "Homenum Revelio",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Prior Incantato",
+      "use": "Revela el último hechizo lanzado",
+      "id": "prior_incantato",
+      "name": "Hechizo Prior Incantato",
+      "incantation": "Prior Incantato",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Dorada"
+    },
+    {
+      "spell": "Finite Incantatem",
+      "use": "Niega los efectos de muchos hechizos",
+      "id": "finite_incantatem",
+      "name": "Hechizo Finite Incantatem",
+      "incantation": "Finite Incantatem",
+      "category": "Contrahechizo",
+      "creator": "Desconocido",
+      "light_color": "Roja"
+    },
+    {
+      "spell": "Erecto",
+      "use": "Levanta carpas u otras estructuras",
+      "id": "erecto",
+      "name": "Hechizo Erecto",
+      "incantation": "Erecto",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Diffindo",
+      "use": "Corta o rasga material",
+      "id": "diffindo",
+      "name": "Hechizo Diffindo",
+      "incantation": "Diffindo",
+      "category": "Encantamiento",
+      "creator": "Delfina Crimp (1400s)",
+      "light_color": "Rosa"
+    },
+    {
+      "spell": "Stupefy",
+      "use": "Aturde al objetivo",
+      "id": "stupefy",
+      "name": "Hechizo Stupefy",
+      "incantation": "Stupefy",
+      "category": "Hechizo de combate",
+      "creator": "Desconocido",
+      "light_color": "Roja"
+    },
+    {
+      "spell": "Repelo Muggletum",
+      "use": "Repele Muggles",
+      "id": "repello_muggletum",
+      "name": "Hechizo Repelo Muggletum",
+      "incantation": "Repelo Muggletum",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Avada Kedavra",
+      "use": "La maldición asesina",
+      "id": "avada_kedavra",
+      "name": "Hechizo Avada Kedavra",
+      "incantation": "Avada Kedavra",
+      "category": "Maldición imperdonable",
+      "creator": "Desconocido",
+      "light_color": "Verde"
+    },
+    {
+      "spell": "Aguamenti",
+      "use": "Dispara agua con la varita",
+      "id": "aguamenti",
+      "name": "Hechizo Aguamenti",
+      "incantation": "Aguamenti",
+      "category": "Conjuración",
+      "creator": "Desconocido",
+      "light_color": "Azul"
+    },
+    {
+      "spell": "Geminio",
+      "use": "Crea un duplicado temporal y sin valor de cualquier objeto",
+      "id": "geminio",
+      "name": "Hechizo Geminio",
+      "incantation": "Geminio",
+      "category": "Encantamiento",
+      "creator": "Heliodor Fontanis (presumido)",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Locomotor Mortis",
+      "use": "Maldición de bloqueo de piernas",
+      "id": "locomotor_mortis",
+      "name": "Hechizo Locomotor Mortis",
+      "incantation": "Locomotor Mortis",
+      "category": "Maldición",
+      "creator": "Desconocido",
+      "light_color": "Morada"
+    },
+    {
+      "spell": "Anapneo",
+      "use": "Limpia las vías respiratorias de alguien",
+      "id": "anapneo",
+      "name": "Hechizo Anapneo",
+      "incantation": "Anapneo",
+      "category": "Hechizo de curación",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Reducto",
+      "use": "Explota objeto",
+      "id": "reducto",
+      "name": "Hechizo Reducto",
+      "incantation": "Reducto",
+      "category": "Maldición",
+      "creator": "Desconocido",
+      "light_color": "Azul"
+    },
+    {
+      "spell": "Obscuro",
+      "use": "Objetivo con los ojos vendados",
+      "id": "obscuro",
+      "name": "Hechizo Obscuro",
+      "incantation": "Obscuro",
+      "category": "Conjuración",
+      "creator": "Desconocido",
+      "light_color": "Negra"
+    },
+    {
+      "spell": "Impedimenta",
+      "use": "Congela a alguien que avanza hacia ti",
+      "id": "impedimenta",
+      "name": "Hechizo Impedimenta",
+      "incantation": "Impedimenta",
+      "category": "Maleficio",
+      "creator": "Desconocido",
+      "light_color": "Azul"
+    },
+    {
+      "spell": "Cave Inimicum/Protego Totalum",
+      "use": "Fortalece las defensas de un área",
+      "id": "cave_inimicum",
+      "name": "Hechizo Cave Inimicum/Protego Totalum",
+      "incantation": "Cave Inimicum/Protego Totalum",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Meteolojinx Recanto",
+      "use": "Acaba con los efectos de los hechizos meteorológicos",
+      "id": "meteolojinx_recanto",
+      "name": "Hechizo Meteolojinx Recanto",
+      "incantation": "Meteolojinx Recanto",
+      "category": "Contrahechizo",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Specialis Revelio",
+      "use": "Revela propiedades mágicas ocultas en un objeto",
+      "id": "specialis_revelio",
+      "name": "Hechizo Specialis Revelio",
+      "incantation": "Specialis Revelio",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Descendo",
+      "use": "Mueve objetos hacia abajo",
+      "id": "descendo",
+      "name": "Hechizo Descendo",
+      "incantation": "Descendo",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Azul"
+    },
+    {
+      "spell": "Defodio",
+      "use": "Talla a través de la piedra y el acero",
+      "id": "defodio",
+      "name": "Hechizo Defodio",
+      "incantation": "Defodio",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Aparecium",
+      "use": "Hacer aparecer tinta invisible",
+      "id": "aparecium",
+      "name": "Hechizo Aparecium",
+      "incantation": "Aparecium",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Piertotum Locomotor",
+      "use": "Anima estatuas",
+      "id": "piertotum_locomotor",
+      "name": "Hechizo Piertotum Locomotor",
+      "incantation": "Piertotum Locomotor",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Blanca"
+    },
+    {
+      "spell": "Imperio",
+      "use": "Hace que el objetivo obedezca cada orden",
+      "id": "imperio",
+      "name": "Hechizo Imperio",
+      "incantation": "Imperio",
+      "category": "Maldición imperdonable",
+      "creator": "Desconocido",
+      "light_color": "Verde"
+    },
+    {
+      "spell": "Fidelius Charm",
+      "use": "Une un secreto al alma de un Guardián de Secretos",
+      "id": "fidelius",
+      "name": "Hechizo Fidelius Charm",
+      "incantation": "Fidelius Charm",
+      "category": "Encantamiento complejo",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Avis/Oppugno",
+      "use": "Dispara bandada de pájaros con varita",
+      "id": "avis",
+      "name": "Hechizo Avis/Oppugno",
+      "incantation": "Avis/Oppugno",
+      "category": "Conjuración",
+      "creator": "Desconocido",
+      "light_color": "Azul"
+    },
+    {
+      "spell": "Expulso",
+      "use": "Explota objetos",
+      "id": "expulso",
+      "name": "Hechizo Expulso",
+      "incantation": "Expulso",
+      "category": "Maldición",
+      "creator": "Desconocido",
+      "light_color": "Azul"
+    },
+    {
+      "spell": "Legilimens",
+      "use": "Revela recuerdos y pensamientos del objetivo",
+      "id": "legilimens",
+      "name": "Hechizo Legilimens",
+      "incantation": "Legilimens",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Blanca"
+    },
+    {
+      "spell": "Duro",
+      "use": "Endurece los objetos",
+      "id": "duro",
+      "name": "Hechizo Duro",
+      "incantation": "Duro",
+      "category": "Transfiguración",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Sonorus",
+      "use": "Amplifica la voz de uno",
+      "id": "sonorus",
+      "name": "Hechizo Sonorus",
+      "incantation": "Sonorus",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Deprimo",
+      "use": "Crea una gran presión hacia abajo",
+      "id": "deprimo",
+      "name": "Hechizo Deprimo",
+      "incantation": "Deprimo",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Verde"
+    },
+    {
+      "spell": "Levicorpus",
+      "use": "Levita el objetivo por el tobillo",
+      "id": "levicorpus",
+      "name": "Hechizo Levicorpus",
+      "incantation": "Levicorpus",
+      "category": "Maleficio",
+      "creator": "Severus Snape",
+      "light_color": "Verde"
+    },
+    {
+      "spell": "Liberacorpus",
+      "use": "Reduce el objetivo de levicorpus",
+      "id": "liberacorpus",
+      "name": "Hechizo Liberacorpus",
+      "incantation": "Liberacorpus",
+      "category": "Contrahechizo",
+      "creator": "Severus Snape",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Mobilicorpus",
+      "use": "Mueve cuerpos",
+      "id": "mobilicorpus",
+      "name": "Hechizo Mobilicorpus",
+      "incantation": "Mobilicorpus",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Confringo",
+      "use": "Explota objetos en llamas",
+      "id": "confringo",
+      "name": "Hechizo Confringo",
+      "incantation": "Confringo",
+      "category": "Maldición",
+      "creator": "Desconocido",
+      "light_color": "Naranja"
+    },
+    {
+      "spell": "Densaugeo",
+      "use": "Hace que los dientes crezcan rápidamente",
+      "id": "densaugeo",
+      "name": "Hechizo Densaugeo",
+      "incantation": "Densaugeo",
+      "category": "Maleficio",
+      "creator": "Desconocido",
+      "light_color": "Morada"
+    },
+    {
+      "spell": "Incarcarous",
+      "use": "Ata a alguien con cuerdas",
+      "id": "incarcerous",
+      "name": "Hechizo Incarcarous",
+      "incantation": "Incarcarous",
+      "category": "Conjuración",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Deletrius",
+      "use": "Descarta los efectos de Prior Incantato",
+      "id": "deletrius",
+      "name": "Hechizo Deletrius",
+      "incantation": "Deletrius",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Rictusempra",
+      "use": "Encanto de cosquillas",
+      "id": "rictusempra",
+      "name": "Hechizo Rictusempra",
+      "incantation": "Rictusempra",
+      "category": "Encantamiento",
+      "creator": "Desconocido",
+      "light_color": "Plateada"
+    },
+    {
+      "spell": "Petrificus Totalus",
+      "use": "El objetivo de renderizado está completamente inmóvil",
+      "id": "petrificus_totalus",
+      "name": "Hechizo Petrificus Totalus",
+      "incantation": "Petrificus Totalus",
+      "category": "Maldición",
+      "creator": "Desconocido",
+      "light_color": "Blanca"
+    },
+    {
+      "spell": "Fiendfyre Curse",
+      "use": "Hace fuego maldito",
+      "id": "fiendfyre",
+      "name": "Hechizo Fiendfyre Curse",
+      "incantation": "Fiendfyre Curse",
+      "category": "Maldición avanzada",
+      "creator": "Desconocido",
+      "light_color": "Incoloro"
+    },
+    {
+      "spell": "Tarantallegra",
+      "use": "Obliga al objetivo a bailar",
+      "id": "tarantallegra",
+      "name": "Hechizo Tarantallegra",
+      "incantation": "Tarantallegra",
+      "category": "Encantamiento",
+      "creator": "Inventado na Itália (79 d.C.)",
+      "light_color": "Azul"
+    },
+    {
+      "spell": "Morsmordre",
+      "use": "Conjura la Marca Tenebrosa",
+      "id": "morsmordre",
+      "name": "Hechizo Morsmordre",
+      "incantation": "Morsmordre",
+      "category": "Magia oscura",
+      "creator": "Lord Voldemort",
+      "light_color": "Verde"
+    },
+    {
+      "spell": "Sectumsempra",
+      "use": "Provoca laceraciones graves",
+      "id": "sectumsempra",
+      "name": "Hechizo Sectumsempra",
+      "incantation": "Sectumsempra",
+      "category": "Maldición",
+      "creator": "Severus Snape",
+      "light_color": "Blanca"
+    },
+    {
+      "spell": "Crucio",
+      "use": "Causa un dolor inmenso",
+      "id": "crucio",
+      "name": "Hechizo Crucio",
+      "incantation": "Crucio",
+      "category": "Maldición imperdonable",
+      "creator": "Desconocido",
+      "light_color": "Roja"
+    }
+  ]
+}

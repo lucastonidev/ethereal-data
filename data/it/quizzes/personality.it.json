@@ -1,0 +1,453 @@
+{
+  "metadata": {
+    "id": "character-personality",
+    "title": "Quale personaggio sei?",
+    "category": "character",
+    "badge": "Personalità",
+    "questionCount": 20,
+    "difficulty": "Divertente",
+    "description": "Você é mais estratégico como a Hermione, leal como o Rony ou impulsivo como o Harry? Descubra qual bruxo ou bruxa compartilha sua essência."
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Você se depara com um feitiço complexo que não consegue realizar de jeito nenhum. O que você faz?",
+      "answers": [
+        {
+          "text": "Tento repetidas vezes na marra até conseguir.",
+          "character": "harry"
+        },
+        {
+          "text": "Vou para a biblioteca pesquisar a teoria por trás da magia.",
+          "character": "hermione"
+        },
+        {
+          "text": "Peço ajuda para um amigo mais inteligente e torço para dar certo.",
+          "character": "ron"
+        },
+        {
+          "text": "Finjo que não me importo com esse feitiço, não era importante mesmo.",
+          "character": "draco"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "question": "Como seria o seu final de semana perfeito em Hogwarts?",
+      "answers": [
+        {
+          "text": "Voar de vassoura ou explorar passagens secretas.",
+          "character": "harry"
+        },
+        {
+          "text": "Ler um bom livro perto da lareira com um chá quente.",
+          "character": "hermione"
+        },
+        {
+          "text": "Jogar Xadrez Bruxo e comer muitos doces no Salão Comunal.",
+          "character": "ron"
+        },
+        {
+          "text": "Andar com meus amigos garantindo que todos saibam quem manda no pedaço.",
+          "character": "draco"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "question": "Seus amigos apontam um defeito seu. Qual costuma ser?",
+      "answers": [
+        {
+          "text": "Agir por impulso sem pensar nas consequências.",
+          "character": "harry"
+        },
+        {
+          "text": "Ser meio sabe-tudo e insistir que estou com a razão.",
+          "character": "hermione"
+        },
+        {
+          "text": "Ter ciúmes fácil ou me sentir ofuscado.",
+          "character": "ron"
+        },
+        {
+          "text": "Ser arrogante ou ter dificuldade de admitir erros.",
+          "character": "draco"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "question": "Você esqueceu completamente de fazer o dever de Poções para o Snape. E agora?",
+      "answers": [
+        {
+          "text": "Enfrento a punição de cabeça erguida, não vou me rebaixar.",
+          "character": "harry"
+        },
+        {
+          "text": "Isso nunca aconteceria. Eu terminei esse dever semanas atrás.",
+          "character": "hermione"
+        },
+        {
+          "text": "Tento copiar de alguém de última hora em desespero.",
+          "character": "ron"
+        },
+        {
+          "text": "Invento uma desculpa excelente envolvendo minha família influente.",
+          "character": "draco"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "question": "Qual aula de Hogwarts você mais aguarda no seu cronograma?",
+      "answers": [
+        {
+          "text": "Defesa Contra as Artes das Trevas.",
+          "character": "harry"
+        },
+        {
+          "text": "Feitiços ou Estudo das Runas Antigas.",
+          "character": "hermione"
+        },
+        {
+          "text": "Trato das Criaturas Mágicas (se não for muito perigoso).",
+          "character": "ron"
+        },
+        {
+          "text": "Poções.",
+          "character": "draco"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "question": "Como você reage quando sente muito medo de algo?",
+      "answers": [
+        {
+          "text": "Vou com medo mesmo. A ação cura o pânico.",
+          "character": "harry"
+        },
+        {
+          "text": "Analiso a situação logicamente para encontrar a melhor saída.",
+          "character": "hermione"
+        },
+        {
+          "text": "Entro em pânico e reclamo, mas no final, não abandono meus amigos.",
+          "character": "ron"
+        },
+        {
+          "text": "Evito a situação a todo custo ou coloco outra pessoa na frente.",
+          "character": "draco"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "question": "O que você mais preza em uma amizade?",
+      "answers": [
+        {
+          "text": "Alguém que lute ao meu lado não importa a batalha.",
+          "character": "harry"
+        },
+        {
+          "text": "Intelecto, confiança e crescimento mútuo.",
+          "character": "hermione"
+        },
+        {
+          "text": "Lealdade genuína, apoio e muitas risadas juntos.",
+          "character": "ron"
+        },
+        {
+          "text": "Status, influência e uma lealdade inquestionável a mim.",
+          "character": "draco"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "question": "Você acha um Vira-Tempo perdido. O que faz com ele?",
+      "answers": [
+        {
+          "text": "Uso para consertar um grande erro do passado e salvar alguém.",
+          "character": "harry"
+        },
+        {
+          "text": "Uso para conseguir estudar mais matérias ao mesmo tempo.",
+          "character": "hermione"
+        },
+        {
+          "text": "Uso para dormir mais e refazer momentos divertidos.",
+          "character": "ron"
+        },
+        {
+          "text": "Uso para garantir vantagens e me destacar na escola.",
+          "character": "draco"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "question": "Em um jogo de Quadribol, qual seria a sua posição ideal?",
+      "answers": [
+        {
+          "text": "Apanhador, focado no objetivo principal e em ser rápido.",
+          "character": "harry"
+        },
+        {
+          "text": "Prefiro ficar na arquibancada narrando ou lendo um livro.",
+          "character": "hermione"
+        },
+        {
+          "text": "Goleiro, protegendo a equipe (mesmo que eu fique nervoso).",
+          "character": "ron"
+        },
+        {
+          "text": "Apanhador, mas apenas para provar que sou melhor que os outros.",
+          "character": "draco"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "question": "O que o Bicho-Papão se transformaria na sua frente?",
+      "answers": [
+        {
+          "text": "Um Dementador ou algo que represente o próprio medo.",
+          "character": "harry"
+        },
+        {
+          "text": "Eu mesmo reprovando em todas as matérias.",
+          "character": "hermione"
+        },
+        {
+          "text": "Uma aranha gigante.",
+          "character": "ron"
+        },
+        {
+          "text": "Meu pai me desprezando ou perdendo minha reputação.",
+          "character": "draco"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "question": "Como você lida com as regras de Hogwarts?",
+      "answers": [
+        {
+          "text": "Quebro se achar que é a coisa certa a se fazer.",
+          "character": "harry"
+        },
+        {
+          "text": "Acho essenciais, mas abro exceções muito pontuais por um bem maior.",
+          "character": "hermione"
+        },
+        {
+          "text": "Sigo a maioria, mas gosto de uma confusão se meus amigos forem junto.",
+          "character": "ron"
+        },
+        {
+          "text": "As regras não se aplicam a mim da mesma forma que aos outros.",
+          "character": "draco"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "question": "Alguém ofende você publicamente no corredor. Qual a sua reação?",
+      "answers": [
+        {
+          "text": "Saco a varinha imediatamente. Ninguém me humilha.",
+          "character": "harry"
+        },
+        {
+          "text": "Respondo com um argumento lógico afiado que o deixa sem palavras.",
+          "character": "hermione"
+        },
+        {
+          "text": "Fico vermelho de raiva e tento brigar fisicamente.",
+          "character": "ron"
+        },
+        {
+          "text": "Lanço um feitiço pelas costas depois ou mando meus amigos resolverem.",
+          "character": "draco"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "question": "Qual seria o seu animal de estimação em Hogwarts?",
+      "answers": [
+        {
+          "text": "Uma coruja rápida e leal.",
+          "character": "harry"
+        },
+        {
+          "text": "Um gato muito inteligente e temperamental.",
+          "character": "hermione"
+        },
+        {
+          "text": "Um rato de estimação herdado ou uma mini coruja bagunceira.",
+          "character": "ron"
+        },
+        {
+          "text": "Uma coruja-águia imponente que chame a atenção de todos.",
+          "character": "draco"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "question": "Se você pudesse usar apenas um feitiço no dia a dia, qual seria?",
+      "answers": [
+        {
+          "text": "Expelliarmus (Desarmar).",
+          "character": "harry"
+        },
+        {
+          "text": "Alohomora (Abrir trancas).",
+          "character": "hermione"
+        },
+        {
+          "text": "Accio (Trazer objetos até mim para eu não ter que levantar).",
+          "character": "ron"
+        },
+        {
+          "text": "Serpensortia (Invocar cobras para intimidar).",
+          "character": "draco"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "question": "Qual lugar de Hogwarts é o seu esconderijo favorito?",
+      "answers": [
+        {
+          "text": "O campo de Quadribol à noite.",
+          "character": "harry"
+        },
+        {
+          "text": "A seção reservada da biblioteca.",
+          "character": "hermione"
+        },
+        {
+          "text": "As cozinhas, pegando lanches com os elfos.",
+          "character": "ron"
+        },
+        {
+          "text": "A Sala Precisa, tramando meus próximos planos sozinhos.",
+          "character": "draco"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "question": "O que você acha do seu histórico familiar?",
+      "answers": [
+        {
+          "text": "É um mistério doloroso, mas quero honrar quem veio antes de mim.",
+          "character": "harry"
+        },
+        {
+          "text": "Tenho orgulho de quem sou, mesmo não vindo de famílias mágicas.",
+          "character": "hermione"
+        },
+        {
+          "text": "Amo minha família, mas às vezes me sinto ofuscado por eles.",
+          "character": "ron"
+        },
+        {
+          "text": "É o meu maior orgulho e a fonte do meu poder e prestígio.",
+          "character": "draco"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "question": "Você encontra muito dinheiro (Galeões) no chão. O que você faz?",
+      "answers": [
+        {
+          "text": "Doaria para alguém que precisa mais do que eu.",
+          "character": "harry"
+        },
+        {
+          "text": "Entregaria ao professor mais próximo ou criaria um fundo estudantil.",
+          "character": "hermione"
+        },
+        {
+          "text": "Ficaria muito tentado a comprar doces e algo legal para mim.",
+          "character": "ron"
+        },
+        {
+          "text": "Ignoraria. Eu já tenho dinheiro suficiente.",
+          "character": "draco"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "question": "Em um baile de inverno, o que você faria?",
+      "answers": [
+        {
+          "text": "Me sentiria desconfortável e ficaria com meus amigos num canto.",
+          "character": "harry"
+        },
+        {
+          "text": "Me arrumaria lindamente e dançaria a noite toda.",
+          "character": "hermione"
+        },
+        {
+          "text": "Provavelmente convidaria alguém de última hora e usaria uma roupa esquisita.",
+          "character": "ron"
+        },
+        {
+          "text": "Iria com as melhores vestes possíveis, sendo o centro das atenções.",
+          "character": "draco"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "question": "Quando você se apaixona por alguém, como costuma agir?",
+      "answers": [
+        {
+          "text": "Fico nervoso e sem saber o que falar.",
+          "character": "harry"
+        },
+        {
+          "text": "Jogo indiretas e espero que a pessoa perceba, mas posso perder a paciência.",
+          "character": "hermione"
+        },
+        {
+          "text": "Sou completamente cego aos sinais e ajo de forma estranha.",
+          "character": "ron"
+        },
+        {
+          "text": "Mostro o quão importante eu sou para impressionar a pessoa.",
+          "character": "draco"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "question": "Qual é o seu maior objetivo de vida no mundo mágico?",
+      "answers": [
+        {
+          "text": "Paz, acabar com vilões e ter uma família feliz.",
+          "character": "harry"
+        },
+        {
+          "text": "Ser Ministro da Magia ou revolucionar as leis bruxas.",
+          "character": "hermione"
+        },
+        {
+          "text": "Ser reconhecido, rico e sair da sombra dos outros.",
+          "character": "ron"
+        },
+        {
+          "text": "Preservar a honra do meu nome e ser extremamente bem-sucedido.",
+          "character": "draco"
+        }
+      ]
+    }
+  ]
+}

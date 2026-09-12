@@ -1,0 +1,223 @@
+{
+  "metadata": {
+    "id": "owls-trivia",
+    "title": "Niveaux de magie",
+    "category": "trivia",
+    "badge": "N.O.M.s",
+    "questionCount": 15,
+    "difficulty": "Niveau moyen",
+    "description": "Teste seus conhecimentos básicos sobre o mundo mágico. Nomes, lugares, regras do Quadribol e eventos marcantes dos primeiros anos em Hogwarts."
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "category": "Quadribol",
+      "difficulty": "easy",
+      "question": "Quantos pontos um time ganha quando seu Apanhador captura o Pomo de Ouro no Quadribol?",
+      "options": [
+        "50 pontos",
+        "100 pontos",
+        "150 pontos",
+        "200 pontos"
+      ],
+      "correctAnswer": "150 pontos",
+      "funFact": "Embora capturar o Pomo quase sempre garanta a vitória, é possível perder a partida se o time adversário estiver liderando por mais de 150 pontos na hora da captura."
+    },
+    {
+      "id": "q2",
+      "category": "Locais",
+      "difficulty": "easy",
+      "question": "Em qual plataforma da Estação de King's Cross os alunos embarcam no Expresso de Hogwarts?",
+      "options": [
+        "Plataforma 9",
+        "Plataforma 9 ¾",
+        "Plataforma 10 ½",
+        "Plataforma 7 ⅛"
+      ],
+      "correctAnswer": "Plataforma 9 ¾",
+      "funFact": "Para acessar a plataforma, os bruxos precisam caminhar (ou correr) diretamente contra a barreira mágica que divide as plataformas 9 e 10."
+    },
+    {
+      "id": "q3",
+      "category": "Criaturas Mágicas",
+      "difficulty": "medium",
+      "question": "Qual é o nome do enorme cão de três cabeças que guardava o alçapão da Pedra Filosofal?",
+      "options": [
+        "Canino",
+        "Fofo",
+        "Bicuço",
+        "Aragogue"
+      ],
+      "correctAnswer": "Fofo",
+      "funFact": "Hagrid comprou Fofo de um 'sujeito grego' em um pub. Para fazer a fera dormir, basta tocar uma música."
+    },
+    {
+      "id": "q4",
+      "category": "Locais",
+      "difficulty": "easy",
+      "question": "Como se chama o banco dos bruxos, administrado por duendes?",
+      "options": [
+        "Gringotes",
+        "Borgin & Burkes",
+        "Caldeirão Furado",
+        "Ministério da Magia"
+      ],
+      "correctAnswer": "Gringotes",
+      "funFact": "É considerado o lugar mais seguro do mundo bruxo, exceto, talvez, por Hogwarts. Cofres mais profundos são guardados por dragões."
+    },
+    {
+      "id": "q5",
+      "category": "Varinhas",
+      "difficulty": "medium",
+      "question": "A varinha de Harry Potter possui um núcleo feito da pena de qual criatura?",
+      "options": [
+        "Cabelo de Veela",
+        "Pelo de Unicórnio",
+        "Corda de Coração de Dragão",
+        "Fênix"
+      ],
+      "correctAnswer": "Fênix",
+      "funFact": "A pena veio de Fawkes, a fênix de Dumbledore. A varinha 'irmã', que continha a única outra pena dada por Fawkes, escolheu Lord Voldemort."
+    },
+    {
+      "id": "q6",
+      "category": "Transfiguração",
+      "difficulty": "medium",
+      "question": "A Professora Minerva McGonagall é uma Animaga. Em qual animal ela pode se transformar?",
+      "options": [
+        "Coruja",
+        "Gato",
+        "Cão",
+        "Rato"
+      ],
+      "correctAnswer": "Gato",
+      "funFact": "Animagos registrados possuem marcas em sua forma animal que refletem características humanas. A forma de gato de McGonagall tem marcas de óculos ao redor dos olhos."
+    },
+    {
+      "id": "q7",
+      "category": "História da Magia",
+      "difficulty": "medium",
+      "question": "Quais são os primeiros nomes dos quatro fundadores de Hogwarts?",
+      "options": [
+        "Godric, Helga, Rowena, Salazar",
+        "Garrick, Helena, Rose, Severo",
+        "Gellert, Hermione, Rita, Sirius",
+        "Godric, Helga, Rita, Salazar"
+      ],
+      "correctAnswer": "Godric, Helga, Rowena, Salazar",
+      "funFact": "Eles deram os próprios sobrenomes (Gryffindor, Hufflepuff, Ravenclaw e Slytherin) às Quatro Casas do castelo."
+    },
+    {
+      "id": "q8",
+      "category": "Criaturas Mágicas",
+      "difficulty": "easy",
+      "question": "Quem é Dobby?",
+      "options": [
+        "Um Duende",
+        "Um Centauro",
+        "Um Elfo Doméstico",
+        "Um Trasgo"
+      ],
+      "correctAnswer": "Um Elfo Doméstico",
+      "funFact": "Para ser libertado de sua servidão, um elfo doméstico precisa ser presenteado com uma peça de roupa por seu mestre."
+    },
+    {
+      "id": "q9",
+      "category": "Poções",
+      "difficulty": "medium",
+      "question": "Qual é o efeito da Poção Polissuco?",
+      "options": [
+        "Conceder sorte temporária",
+        "Fazer o bebedor se apaixonar",
+        "Transformar fisicamente a pessoa em outra",
+        "Curar qualquer veneno"
+      ],
+      "correctAnswer": "Transformar fisicamente a pessoa em outra",
+      "funFact": "O efeito dura apenas uma hora e a poção requer algo da pessoa na qual você deseja se transformar (como um fio de cabelo)."
+    },
+    {
+      "id": "q10",
+      "category": "Locais",
+      "difficulty": "medium",
+      "question": "Atrás de qual pub em Londres fica a entrada principal para o Beco Diagonal?",
+      "options": [
+        "Cabeça de Javali",
+        "Caldeirão Furado",
+        "Três Vassouras",
+        "Dedos de Mel"
+      ],
+      "correctAnswer": "Caldeirão Furado",
+      "funFact": "Para abrir a passagem de tijolos que leva ao Beco Diagonal, deve-se tocar no tijolo correto acima da lata de lixo nos fundos do pub."
+    },
+    {
+      "id": "q11",
+      "category": "Artefatos Mágicos",
+      "difficulty": "hard",
+      "question": "Quais são os codinomes dos quatro criadores do Mapa dos Marotos?",
+      "options": [
+        "Pontas, Almofadinhas, Aluado, Rabicho",
+        "Cervo, Cão, Lobo, Rato",
+        "Tiago, Sirius, Remo, Pedro",
+        "Aluado, Estrela, Raio, Pontas"
+      ],
+      "correctAnswer": "Pontas, Almofadinhas, Aluado, Rabicho",
+      "funFact": "Os apelidos correspondem às suas formas de Animago (ou lobisomem, no caso de Remo Lupin)."
+    },
+    {
+      "id": "q12",
+      "category": "Plantas Mágicas",
+      "difficulty": "medium",
+      "question": "Como se chama a árvore violenta localizada nos terrenos de Hogwarts que ataca quem chega perto?",
+      "options": [
+        "Mandrágora",
+        "Visgo do Diabo",
+        "Salgueiro Lutador",
+        "Tentácula Venenosa"
+      ],
+      "correctAnswer": "Salgueiro Lutador",
+      "funFact": "O Salgueiro Lutador foi plantado em Hogwarts para esconder a passagem secreta que levava à Casa dos Gritos em Hogsmeade."
+    },
+    {
+      "id": "q13",
+      "category": "Artefatos Mágicos",
+      "difficulty": "hard",
+      "question": "O que Harry usou para destruir o Diário de Tom Riddle em seu segundo ano?",
+      "options": [
+        "A Espada de Gryffindor",
+        "Um feitiço Fiendfyre",
+        "Presa de Basilisco",
+        "Veneno de Acromântula"
+      ],
+      "correctAnswer": "Presa de Basilisco",
+      "funFact": "O Diário de Tom Riddle foi a primeira Horcrux que Harry destruiu, muito antes de saber o que era uma Horcrux."
+    },
+    {
+      "id": "q14",
+      "category": "Hogwarts",
+      "difficulty": "easy",
+      "question": "Quem foi o diretor de Hogwarts durante a maior parte do tempo de Harry na escola?",
+      "options": [
+        "Armando Dippet",
+        "Minerva McGonagall",
+        "Severo Snape",
+        "Alvo Dumbledore"
+      ],
+      "correctAnswer": "Alvo Dumbledore",
+      "funFact": "Dumbledore é considerado o bruxo mais poderoso de sua época e foi o único que Lord Voldemort já temeu."
+    },
+    {
+      "id": "q15",
+      "category": "Quadribol",
+      "difficulty": "easy",
+      "question": "Quantos jogadores compõem um time de Quadribol em campo?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": "7",
+      "funFact": "Cada time tem três Artilheiros, dois Batedores, um Goleiro e um Apanhador."
+    }
+  ]
+}

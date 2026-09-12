@@ -1,0 +1,724 @@
+{
+  "spells": [
+    {
+      "spell": "Accio",
+      "use": "Charme d'invocation",
+      "id": "accio",
+      "name": "Sort Accio",
+      "incantation": "Accio",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Glisseo",
+      "use": "Transformez une échelle en toboggan",
+      "id": "glisseo",
+      "name": "Sort Glisseo",
+      "incantation": "Glisseo",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Impervius",
+      "use": "Protège le lanceur de diverses substances, notamment l'eau et le feu",
+      "id": "impervius",
+      "name": "Sort Impervius",
+      "incantation": "Impervius",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Wingardium Leviosa/Locomotor",
+      "use": "Fait léviter les objets",
+      "id": "wingardium_leviosa",
+      "name": "Sort Wingardium Leviosa/Locomotor",
+      "incantation": "Wingardium Leviosa/Locomotor",
+      "category": "Enchantement",
+      "creator": "Jarlev Forge (1544)",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Scourgify",
+      "use": "Nettoyer diverses choses",
+      "id": "scourgify",
+      "name": "Sort Scourgify",
+      "incantation": "Scourgify",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Portus",
+      "use": "Créer un portoloin",
+      "id": "portus",
+      "name": "Sort Portus",
+      "incantation": "Portus",
+      "category": "Enchantement",
+      "creator": "Inconnu (Regulado pelo Ministério)",
+      "light_color": "Bleu"
+    },
+    {
+      "spell": "Orchideous",
+      "use": "Fait pousser des fleurs du bout de la baguette",
+      "id": "orchideous",
+      "name": "Sort Orchideous",
+      "incantation": "Orchideous",
+      "category": "Conjuration",
+      "creator": "Inconnu",
+      "light_color": "Rose"
+    },
+    {
+      "spell": "Lumos",
+      "use": "Fait émettre de la lumière à la baguette",
+      "id": "lumos",
+      "name": "Sort Lumos",
+      "incantation": "Lumos",
+      "category": "Enchantement",
+      "creator": "Levina Monkstanley (1772)",
+      "light_color": "Blanche"
+    },
+    {
+      "spell": "Reparo",
+      "use": "Réparer les objets cassés",
+      "id": "reparo",
+      "name": "Sort Reparo",
+      "incantation": "Reparo",
+      "category": "Enchantement",
+      "creator": "Orabella Nuttley (1754)",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Reducio",
+      "use": "Réduire les objets",
+      "id": "reducio",
+      "name": "Sort Reducio",
+      "incantation": "Reducio",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Violette"
+    },
+    {
+      "spell": "Pack",
+      "use": "Préparez vos malles et vos bagages",
+      "id": "pack",
+      "name": "Sort Pack",
+      "incantation": "Pack",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Riddikulus",
+      "use": "Transformez les Boggarts en une forme amusante",
+      "id": "riddikulus",
+      "name": "Sort Riddikulus",
+      "incantation": "Riddikulus",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Protego",
+      "use": "Protège le lanceur des malédictions",
+      "id": "protego",
+      "name": "Sort Protego",
+      "incantation": "Protego",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Bleu"
+    },
+    {
+      "spell": "Muffliato",
+      "use": "Empêcher les autres personnes à proximité d'écouter les conversations",
+      "id": "muffliato",
+      "name": "Sort Muffliato",
+      "incantation": "Muffliato",
+      "category": "Enchantement",
+      "creator": "Severus Snape",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Silencio/Langlock",
+      "use": "Empêche quelqu'un de parler (coller votre langue au palais)",
+      "id": "langlock",
+      "name": "Sort Silencio/Langlock",
+      "incantation": "Silencio/Langlock",
+      "category": "Jinx",
+      "creator": "Severus Snape",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Expelliarmus",
+      "use": "Charme désarmant",
+      "id": "expelliarmus",
+      "name": "Sort Expelliarmus",
+      "incantation": "Expelliarmus",
+      "category": "Enchantement",
+      "creator": "Elizabeth Smudgling (1379)",
+      "light_color": "Rouge"
+    },
+    {
+      "spell": "Oblivate",
+      "use": "Effacer les souvenirs",
+      "id": "obliviate",
+      "name": "Sort Oblivate",
+      "incantation": "Oblivate",
+      "category": "Enchantement",
+      "creator": "Mnemone Radford",
+      "light_color": "Verte"
+    },
+    {
+      "spell": "Episkey",
+      "use": "Guérit les blessures mineures",
+      "id": "episkey",
+      "name": "Sort Episkey",
+      "incantation": "Episkey",
+      "category": "Sort de guérison",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Tergeo",
+      "use": "Nettoyer les surfaces",
+      "id": "tergeo",
+      "name": "Sort Tergeo",
+      "incantation": "Tergeo",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Relashio",
+      "use": "Force la cible à lâcher ce qu'elle tient",
+      "id": "relashio",
+      "name": "Sort Relashio",
+      "incantation": "Relashio",
+      "category": "Jinx",
+      "creator": "Inconnu",
+      "light_color": "Violette"
+    },
+    {
+      "spell": "Confundo",
+      "use": "Crée de la confusion et rend les autres facilement susceptibles d'être influencés",
+      "id": "confundo",
+      "name": "Sort Confundo",
+      "incantation": "Confundo",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Rose"
+    },
+    {
+      "spell": "Expecto Patronum",
+      "use": "Charme Patronus",
+      "id": "expecto_patronum",
+      "name": "Sort Expecto Patronum",
+      "incantation": "Expecto Patronum",
+      "category": "Enchantement",
+      "creator": "Inconnu (Magia Antiga)",
+      "light_color": "Argentée"
+    },
+    {
+      "spell": "Ferula",
+      "use": "Invoquer des bandages",
+      "id": "ferula",
+      "name": "Sort Ferula",
+      "incantation": "Ferula",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Evanesco",
+      "use": "Sort de disparition",
+      "id": "evanesco",
+      "name": "Sort Evanesco",
+      "incantation": "Evanesco",
+      "category": "Transfiguration",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Alohomora",
+      "use": "Ouvrir les serrures",
+      "id": "alohomora",
+      "name": "Sort Alohomora",
+      "incantation": "Alohomora",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Bleu"
+    },
+    {
+      "spell": "Nox",
+      "use": "Éteignez Lumos",
+      "id": "nox",
+      "name": "Sort Nox",
+      "incantation": "Nox",
+      "category": "Enchantement",
+      "creator": "Levina Monkstanley (presumido)",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Quietus",
+      "use": "Faites taire la voix amplifiée comme par magie",
+      "id": "quietus",
+      "name": "Sort Quietus",
+      "incantation": "Quietus",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Incendio",
+      "use": "Créer du feu",
+      "id": "incendio",
+      "name": "Sort Incendio",
+      "incantation": "Incendio",
+      "category": "Conjuration",
+      "creator": "Inconnu",
+      "light_color": "Orange"
+    },
+    {
+      "spell": "Homenum Revelio",
+      "use": "Révéler les personnes proches",
+      "id": "homenum_revelio",
+      "name": "Sort Homenum Revelio",
+      "incantation": "Homenum Revelio",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Prior Incantato",
+      "use": "Révéler le dernier sort lancé",
+      "id": "prior_incantato",
+      "name": "Sort Prior Incantato",
+      "incantation": "Prior Incantato",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Dorée"
+    },
+    {
+      "spell": "Finite Incantatem",
+      "use": "Annule les effets de nombreux sorts",
+      "id": "finite_incantatem",
+      "name": "Sort Finite Incantatem",
+      "incantation": "Finite Incantatem",
+      "category": "Contre-sort",
+      "creator": "Inconnu",
+      "light_color": "Rouge"
+    },
+    {
+      "spell": "Erecto",
+      "use": "Installer des tentes ou d'autres structures",
+      "id": "erecto",
+      "name": "Sort Erecto",
+      "incantation": "Erecto",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Diffindo",
+      "use": "Matériau coupé ou déchiré",
+      "id": "diffindo",
+      "name": "Sort Diffindo",
+      "incantation": "Diffindo",
+      "category": "Enchantement",
+      "creator": "Delfina Crimp (1400s)",
+      "light_color": "Rose"
+    },
+    {
+      "spell": "Stupefy",
+      "use": "Étourdit la cible",
+      "id": "stupefy",
+      "name": "Sort Stupefy",
+      "incantation": "Stupefy",
+      "category": "Sort de combat",
+      "creator": "Inconnu",
+      "light_color": "Rouge"
+    },
+    {
+      "spell": "Repelo Muggletum",
+      "use": "Repousse les Moldus",
+      "id": "repello_muggletum",
+      "name": "Sort Repelo Muggletum",
+      "incantation": "Repelo Muggletum",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Avada Kedavra",
+      "use": "La malédiction meurtrière",
+      "id": "avada_kedavra",
+      "name": "Sort Avada Kedavra",
+      "incantation": "Avada Kedavra",
+      "category": "Malédiction impardonnable",
+      "creator": "Inconnu",
+      "light_color": "Verte"
+    },
+    {
+      "spell": "Aguamenti",
+      "use": "Tirer de l'eau avec la baguette",
+      "id": "aguamenti",
+      "name": "Sort Aguamenti",
+      "incantation": "Aguamenti",
+      "category": "Conjuration",
+      "creator": "Inconnu",
+      "light_color": "Bleu"
+    },
+    {
+      "spell": "Geminio",
+      "use": "Crée une copie temporaire et sans valeur de n'importe quel objet",
+      "id": "geminio",
+      "name": "Sort Geminio",
+      "incantation": "Geminio",
+      "category": "Enchantement",
+      "creator": "Heliodor Fontanis (presumido)",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Locomotor Mortis",
+      "use": "Malédiction de verrouillage des jambes",
+      "id": "locomotor_mortis",
+      "name": "Sort Locomotor Mortis",
+      "incantation": "Locomotor Mortis",
+      "category": "Malédiction",
+      "creator": "Inconnu",
+      "light_color": "Violette"
+    },
+    {
+      "spell": "Anapneo",
+      "use": "Dégager les voies respiratoires de quelqu'un",
+      "id": "anapneo",
+      "name": "Sort Anapneo",
+      "incantation": "Anapneo",
+      "category": "Sort de guérison",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Reducto",
+      "use": "Objet explosé",
+      "id": "reducto",
+      "name": "Sort Reducto",
+      "incantation": "Reducto",
+      "category": "Malédiction",
+      "creator": "Inconnu",
+      "light_color": "Bleu"
+    },
+    {
+      "spell": "Obscuro",
+      "use": "Cible aux yeux bandés",
+      "id": "obscuro",
+      "name": "Sort Obscuro",
+      "incantation": "Obscuro",
+      "category": "Conjuration",
+      "creator": "Inconnu",
+      "light_color": "Noire"
+    },
+    {
+      "spell": "Impedimenta",
+      "use": "Geler quelqu'un qui s'avance vers vous",
+      "id": "impedimenta",
+      "name": "Sort Impedimenta",
+      "incantation": "Impedimenta",
+      "category": "Jinx",
+      "creator": "Inconnu",
+      "light_color": "Bleu"
+    },
+    {
+      "spell": "Cave Inimicum/Protego Totalum",
+      "use": "Renforce les défenses d'une zone",
+      "id": "cave_inimicum",
+      "name": "Sort Cave Inimicum/Protego Totalum",
+      "incantation": "Cave Inimicum/Protego Totalum",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Meteolojinx Recanto",
+      "use": "Met fin aux effets des épisodes météorologiques",
+      "id": "meteolojinx_recanto",
+      "name": "Sort Meteolojinx Recanto",
+      "incantation": "Meteolojinx Recanto",
+      "category": "Contre-sort",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Specialis Revelio",
+      "use": "Révéler les propriétés magiques cachées d'un objet",
+      "id": "specialis_revelio",
+      "name": "Sort Specialis Revelio",
+      "incantation": "Specialis Revelio",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Descendo",
+      "use": "Déplacer les objets vers le bas",
+      "id": "descendo",
+      "name": "Sort Descendo",
+      "incantation": "Descendo",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Bleu"
+    },
+    {
+      "spell": "Defodio",
+      "use": "Sculptez la pierre et l'acier",
+      "id": "defodio",
+      "name": "Sort Defodio",
+      "incantation": "Defodio",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Aparecium",
+      "use": "Faire apparaître de l'encre invisible",
+      "id": "aparecium",
+      "name": "Sort Aparecium",
+      "incantation": "Aparecium",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Piertotum Locomotor",
+      "use": "Animer des statues",
+      "id": "piertotum_locomotor",
+      "name": "Sort Piertotum Locomotor",
+      "incantation": "Piertotum Locomotor",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Blanche"
+    },
+    {
+      "spell": "Imperio",
+      "use": "Fait obéir la cible à chaque commande",
+      "id": "imperio",
+      "name": "Sort Imperio",
+      "incantation": "Imperio",
+      "category": "Malédiction impardonnable",
+      "creator": "Inconnu",
+      "light_color": "Verte"
+    },
+    {
+      "spell": "Fidelius Charm",
+      "use": "Lier un secret à l'âme d'un gardien des secrets",
+      "id": "fidelius",
+      "name": "Sort Fidelius Charm",
+      "incantation": "Fidelius Charm",
+      "category": "Enchantement complexe",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Avis/Oppugno",
+      "use": "Tirez sur une volée d'oiseaux avec une baguette",
+      "id": "avis",
+      "name": "Sort Avis/Oppugno",
+      "incantation": "Avis/Oppugno",
+      "category": "Conjuration",
+      "creator": "Inconnu",
+      "light_color": "Bleu"
+    },
+    {
+      "spell": "Expulso",
+      "use": "Exploser des objets",
+      "id": "expulso",
+      "name": "Sort Expulso",
+      "incantation": "Expulso",
+      "category": "Malédiction",
+      "creator": "Inconnu",
+      "light_color": "Bleu"
+    },
+    {
+      "spell": "Legilimens",
+      "use": "Révèle les souvenirs et les pensées de la cible",
+      "id": "legilimens",
+      "name": "Sort Legilimens",
+      "incantation": "Legilimens",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Blanche"
+    },
+    {
+      "spell": "Duro",
+      "use": "Durcit les objets",
+      "id": "duro",
+      "name": "Sort Duro",
+      "incantation": "Duro",
+      "category": "Transfiguration",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Sonorus",
+      "use": "Amplifie la voix",
+      "id": "sonorus",
+      "name": "Sort Sonorus",
+      "incantation": "Sonorus",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Deprimo",
+      "use": "Crée une grande pression à la baisse",
+      "id": "deprimo",
+      "name": "Sort Deprimo",
+      "incantation": "Deprimo",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Verte"
+    },
+    {
+      "spell": "Levicorpus",
+      "use": "Fait léviter la cible par la cheville",
+      "id": "levicorpus",
+      "name": "Sort Levicorpus",
+      "incantation": "Levicorpus",
+      "category": "Jinx",
+      "creator": "Severus Snape",
+      "light_color": "Verte"
+    },
+    {
+      "spell": "Liberacorpus",
+      "use": "Réduit la cible du lévicorpus",
+      "id": "liberacorpus",
+      "name": "Sort Liberacorpus",
+      "incantation": "Liberacorpus",
+      "category": "Contre-sort",
+      "creator": "Severus Snape",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Mobilicorpus",
+      "use": "Déplacer les corps",
+      "id": "mobilicorpus",
+      "name": "Sort Mobilicorpus",
+      "incantation": "Mobilicorpus",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Confringo",
+      "use": "Fait exploser les objets en feu",
+      "id": "confringo",
+      "name": "Sort Confringo",
+      "incantation": "Confringo",
+      "category": "Malédiction",
+      "creator": "Inconnu",
+      "light_color": "Orange"
+    },
+    {
+      "spell": "Densaugeo",
+      "use": "Fait pousser les dents rapidement",
+      "id": "densaugeo",
+      "name": "Sort Densaugeo",
+      "incantation": "Densaugeo",
+      "category": "Jinx",
+      "creator": "Inconnu",
+      "light_color": "Violette"
+    },
+    {
+      "spell": "Incarcarous",
+      "use": "Attacher quelqu'un avec des cordes",
+      "id": "incarcerous",
+      "name": "Sort Incarcarous",
+      "incantation": "Incarcarous",
+      "category": "Conjuration",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Deletrius",
+      "use": "Annule les effets de Prior Incantato",
+      "id": "deletrius",
+      "name": "Sort Deletrius",
+      "incantation": "Deletrius",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Rictusempra",
+      "use": "Le charme chatouillant",
+      "id": "rictusempra",
+      "name": "Sort Rictusempra",
+      "incantation": "Rictusempra",
+      "category": "Enchantement",
+      "creator": "Inconnu",
+      "light_color": "Argentée"
+    },
+    {
+      "spell": "Petrificus Totalus",
+      "use": "La cible de rendu est complètement immobile",
+      "id": "petrificus_totalus",
+      "name": "Sort Petrificus Totalus",
+      "incantation": "Petrificus Totalus",
+      "category": "Malédiction",
+      "creator": "Inconnu",
+      "light_color": "Blanche"
+    },
+    {
+      "spell": "Fiendfyre Curse",
+      "use": "Ça fait un putain de feu",
+      "id": "fiendfyre",
+      "name": "Sort Fiendfyre Curse",
+      "incantation": "Fiendfyre Curse",
+      "category": "Malédiction avancée",
+      "creator": "Inconnu",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Tarantallegra",
+      "use": "Force la cible à danser",
+      "id": "tarantallegra",
+      "name": "Sort Tarantallegra",
+      "incantation": "Tarantallegra",
+      "category": "Enchantement",
+      "creator": "Inventado na Itália (79 d.C.)",
+      "light_color": "Bleu"
+    },
+    {
+      "spell": "Morsmordre",
+      "use": "Invoquer la marque des ténèbres",
+      "id": "morsmordre",
+      "name": "Sort Morsmordre",
+      "incantation": "Morsmordre",
+      "category": "Magie noire",
+      "creator": "Lord Voldemort",
+      "light_color": "Verte"
+    },
+    {
+      "spell": "Sectumsempra",
+      "use": "Provoque de graves lacérations",
+      "id": "sectumsempra",
+      "name": "Sort Sectumsempra",
+      "incantation": "Sectumsempra",
+      "category": "Malédiction",
+      "creator": "Severus Snape",
+      "light_color": "Blanche"
+    },
+    {
+      "spell": "Crucio",
+      "use": "Provoque une immense douleur",
+      "id": "crucio",
+      "name": "Sort Crucio",
+      "incantation": "Crucio",
+      "category": "Malédiction impardonnable",
+      "creator": "Inconnu",
+      "light_color": "Rouge"
+    }
+  ]
+}

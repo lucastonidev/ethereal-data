@@ -1,0 +1,724 @@
+{
+  "spells": [
+    {
+      "spell": "Accio",
+      "use": "Incanto di evocazione",
+      "id": "accio",
+      "name": "Incantesimo Accio",
+      "incantation": "Accio",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Glisseo",
+      "use": "Trasforma una scala in uno scivolo",
+      "id": "glisseo",
+      "name": "Incantesimo Glisseo",
+      "incantation": "Glisseo",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Impervius",
+      "use": "Protegge l'incantatore da varie sostanze, inclusa l'acqua e il fuoco",
+      "id": "impervius",
+      "name": "Incantesimo Impervius",
+      "incantation": "Impervius",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Wingardium Leviosa/Locomotor",
+      "use": "Levita gli oggetti",
+      "id": "wingardium_leviosa",
+      "name": "Incantesimo Wingardium Leviosa/Locomotor",
+      "incantation": "Wingardium Leviosa/Locomotor",
+      "category": "Incantesimo",
+      "creator": "Jarlev Forge (1544)",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Scourgify",
+      "use": "Pulisce le cose",
+      "id": "scourgify",
+      "name": "Incantesimo Scourgify",
+      "incantation": "Scourgify",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Portus",
+      "use": "Crea una Portkey",
+      "id": "portus",
+      "name": "Incantesimo Portus",
+      "incantation": "Portus",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto (Regulado pelo Ministério)",
+      "light_color": "Blu"
+    },
+    {
+      "spell": "Orchideous",
+      "use": "Fa crescere fiori dalla punta della bacchetta",
+      "id": "orchideous",
+      "name": "Incantesimo Orchideous",
+      "incantation": "Orchideous",
+      "category": "Evocazione",
+      "creator": "Sconosciuto",
+      "light_color": "Rosa"
+    },
+    {
+      "spell": "Lumos",
+      "use": "Fa emettere luce dalla bacchetta",
+      "id": "lumos",
+      "name": "Incantesimo Lumos",
+      "incantation": "Lumos",
+      "category": "Incantesimo",
+      "creator": "Levina Monkstanley (1772)",
+      "light_color": "Bianca"
+    },
+    {
+      "spell": "Reparo",
+      "use": "Ripara oggetti rotti",
+      "id": "reparo",
+      "name": "Incantesimo Reparo",
+      "incantation": "Reparo",
+      "category": "Incantesimo",
+      "creator": "Orabella Nuttley (1754)",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Reducio",
+      "use": "Riduce le dimensioni degli oggetti",
+      "id": "reducio",
+      "name": "Incantesimo Reducio",
+      "incantation": "Reducio",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Viola"
+    },
+    {
+      "spell": "Pack",
+      "use": "Imballa bauli e bagagli",
+      "id": "pack",
+      "name": "Incantesimo Pack",
+      "incantation": "Pack",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Riddikulus",
+      "use": "Trasforma i Boggart in una forma umoristica",
+      "id": "riddikulus",
+      "name": "Incantesimo Riddikulus",
+      "incantation": "Riddikulus",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Protego",
+      "use": "Protegge l'incantatore dalle maledizioni",
+      "id": "protego",
+      "name": "Incantesimo Protego",
+      "incantation": "Protego",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Blu"
+    },
+    {
+      "spell": "Muffliato",
+      "use": "Impedisce agli altri nelle vicinanze di sentire conversazioni",
+      "id": "muffliato",
+      "name": "Incantesimo Muffliato",
+      "incantation": "Muffliato",
+      "category": "Incantesimo",
+      "creator": "Severus Snape",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Silencio/Langlock",
+      "use": "Ferma qualcuno dal parlare (incollando la lingua al palato)",
+      "id": "langlock",
+      "name": "Incantesimo Silencio/Langlock",
+      "incantation": "Silencio/Langlock",
+      "category": "Sortilegio",
+      "creator": "Severus Snape",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Expelliarmus",
+      "use": "Incanto di disarmo",
+      "id": "expelliarmus",
+      "name": "Incantesimo Expelliarmus",
+      "incantation": "Expelliarmus",
+      "category": "Incantesimo",
+      "creator": "Elizabeth Smudgling (1379)",
+      "light_color": "Rossa"
+    },
+    {
+      "spell": "Oblivate",
+      "use": "Cancella i ricordi",
+      "id": "obliviate",
+      "name": "Incantesimo Oblivate",
+      "incantation": "Oblivate",
+      "category": "Incantesimo",
+      "creator": "Mnemone Radford",
+      "light_color": "Verde"
+    },
+    {
+      "spell": "Episkey",
+      "use": "Cura ferite lievi",
+      "id": "episkey",
+      "name": "Incantesimo Episkey",
+      "incantation": "Episkey",
+      "category": "Incantesimo curativo",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Tergeo",
+      "use": "Pulisce superfici",
+      "id": "tergeo",
+      "name": "Incantesimo Tergeo",
+      "incantation": "Tergeo",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Relashio",
+      "use": "Costringe il bersaglio a lasciare ciò che sta tenendo",
+      "id": "relashio",
+      "name": "Incantesimo Relashio",
+      "incantation": "Relashio",
+      "category": "Sortilegio",
+      "creator": "Sconosciuto",
+      "light_color": "Viola"
+    },
+    {
+      "spell": "Confundo",
+      "use": "Causa confusione e rende gli altri facilmente suscettibili all'influenza",
+      "id": "confundo",
+      "name": "Incantesimo Confundo",
+      "incantation": "Confundo",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Rosa"
+    },
+    {
+      "spell": "Expecto Patronum",
+      "use": "Incanto del Patronus",
+      "id": "expecto_patronum",
+      "name": "Incantesimo Expecto Patronum",
+      "incantation": "Expecto Patronum",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto (Magia Antiga)",
+      "light_color": "Argento"
+    },
+    {
+      "spell": "Ferula",
+      "use": "Evoca bende",
+      "id": "ferula",
+      "name": "Incantesimo Ferula",
+      "incantation": "Ferula",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Evanesco",
+      "use": "Incantesimo di scomparsa",
+      "id": "evanesco",
+      "name": "Incantesimo Evanesco",
+      "incantation": "Evanesco",
+      "category": "Trasfigurazione",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Alohomora",
+      "use": "Apre serrature",
+      "id": "alohomora",
+      "name": "Incantesimo Alohomora",
+      "incantation": "Alohomora",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Blu"
+    },
+    {
+      "spell": "Nox",
+      "use": "Spegne lumos",
+      "id": "nox",
+      "name": "Incantesimo Nox",
+      "incantation": "Nox",
+      "category": "Incantesimo",
+      "creator": "Levina Monkstanley (presumido)",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Quietus",
+      "use": "Calma la voce amplificata magicamente",
+      "id": "quietus",
+      "name": "Incantesimo Quietus",
+      "incantation": "Quietus",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Incendio",
+      "use": "Crea fuoco",
+      "id": "incendio",
+      "name": "Incantesimo Incendio",
+      "incantation": "Incendio",
+      "category": "Evocazione",
+      "creator": "Sconosciuto",
+      "light_color": "Arancione"
+    },
+    {
+      "spell": "Homenum Revelio",
+      "use": "Rivela persone nelle vicinanze",
+      "id": "homenum_revelio",
+      "name": "Incantesimo Homenum Revelio",
+      "incantation": "Homenum Revelio",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Prior Incantato",
+      "use": "Rivela l'ultimo incantesimo lanciato",
+      "id": "prior_incantato",
+      "name": "Incantesimo Prior Incantato",
+      "incantation": "Prior Incantato",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Dorata"
+    },
+    {
+      "spell": "Finite Incantatem",
+      "use": "Annulla gli effetti di molti incantesimi",
+      "id": "finite_incantatem",
+      "name": "Incantesimo Finite Incantatem",
+      "incantation": "Finite Incantatem",
+      "category": "Controincantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Rossa"
+    },
+    {
+      "spell": "Erecto",
+      "use": "Eretto tende o altre strutture",
+      "id": "erecto",
+      "name": "Incantesimo Erecto",
+      "incantation": "Erecto",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Diffindo",
+      "use": "Taglia o strappa materiale",
+      "id": "diffindo",
+      "name": "Incantesimo Diffindo",
+      "incantation": "Diffindo",
+      "category": "Incantesimo",
+      "creator": "Delfina Crimp (1400s)",
+      "light_color": "Rosa"
+    },
+    {
+      "spell": "Stupefy",
+      "use": "Stordisce il bersaglio",
+      "id": "stupefy",
+      "name": "Incantesimo Stupefy",
+      "incantation": "Stupefy",
+      "category": "Incantesimo di combattimento",
+      "creator": "Sconosciuto",
+      "light_color": "Rossa"
+    },
+    {
+      "spell": "Repelo Muggletum",
+      "use": "Respinge i Babbani",
+      "id": "repello_muggletum",
+      "name": "Incantesimo Repelo Muggletum",
+      "incantation": "Repelo Muggletum",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Avada Kedavra",
+      "use": "La Maledizione dell'Uccisione",
+      "id": "avada_kedavra",
+      "name": "Incantesimo Avada Kedavra",
+      "incantation": "Avada Kedavra",
+      "category": "Maledizione imperdonabile",
+      "creator": "Sconosciuto",
+      "light_color": "Verde"
+    },
+    {
+      "spell": "Aguamenti",
+      "use": "Sparge acqua dalla bacchetta",
+      "id": "aguamenti",
+      "name": "Incantesimo Aguamenti",
+      "incantation": "Aguamenti",
+      "category": "Evocazione",
+      "creator": "Sconosciuto",
+      "light_color": "Blu"
+    },
+    {
+      "spell": "Geminio",
+      "use": "Crea una duplicata temporanea e senza valore di qualsiasi oggetto",
+      "id": "geminio",
+      "name": "Incantesimo Geminio",
+      "incantation": "Geminio",
+      "category": "Incantesimo",
+      "creator": "Heliodor Fontanis (presumido)",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Locomotor Mortis",
+      "use": "Maleficio di immobilizzazione delle gambe",
+      "id": "locomotor_mortis",
+      "name": "Incantesimo Locomotor Mortis",
+      "incantation": "Locomotor Mortis",
+      "category": "Maledizione",
+      "creator": "Sconosciuto",
+      "light_color": "Viola"
+    },
+    {
+      "spell": "Anapneo",
+      "use": "Libera le vie respiratorie di qualcuno",
+      "id": "anapneo",
+      "name": "Incantesimo Anapneo",
+      "incantation": "Anapneo",
+      "category": "Incantesimo curativo",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Reducto",
+      "use": "Fa esplodere oggetti",
+      "id": "reducto",
+      "name": "Incantesimo Reducto",
+      "incantation": "Reducto",
+      "category": "Maledizione",
+      "creator": "Sconosciuto",
+      "light_color": "Blu"
+    },
+    {
+      "spell": "Obscuro",
+      "use": "Benda il bersaglio",
+      "id": "obscuro",
+      "name": "Incantesimo Obscuro",
+      "incantation": "Obscuro",
+      "category": "Evocazione",
+      "creator": "Sconosciuto",
+      "light_color": "Nera"
+    },
+    {
+      "spell": "Impedimenta",
+      "use": "Congela qualcuno che si avanza verso di te",
+      "id": "impedimenta",
+      "name": "Incantesimo Impedimenta",
+      "incantation": "Impedimenta",
+      "category": "Sortilegio",
+      "creator": "Sconosciuto",
+      "light_color": "Blu"
+    },
+    {
+      "spell": "Cave Inimicum/Protego Totalum",
+      "use": "Rafforza le difese di un'area",
+      "id": "cave_inimicum",
+      "name": "Incantesimo Cave Inimicum/Protego Totalum",
+      "incantation": "Cave Inimicum/Protego Totalum",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Meteolojinx Recanto",
+      "use": "Termina gli effetti degli incantesimi del tempo",
+      "id": "meteolojinx_recanto",
+      "name": "Incantesimo Meteolojinx Recanto",
+      "incantation": "Meteolojinx Recanto",
+      "category": "Controincantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Specialis Revelio",
+      "use": "Rivela le proprietà magiche nascoste in un oggetto",
+      "id": "specialis_revelio",
+      "name": "Incantesimo Specialis Revelio",
+      "incantation": "Specialis Revelio",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Descendo",
+      "use": "Muove gli oggetti verso il basso",
+      "id": "descendo",
+      "name": "Incantesimo Descendo",
+      "incantation": "Descendo",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Blu"
+    },
+    {
+      "spell": "Defodio",
+      "use": "Intaglia attraverso pietra e acciaio",
+      "id": "defodio",
+      "name": "Incantesimo Defodio",
+      "incantation": "Defodio",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Aparecium",
+      "use": "Fa apparire l'inchiostro invisibile",
+      "id": "aparecium",
+      "name": "Incantesimo Aparecium",
+      "incantation": "Aparecium",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Piertotum Locomotor",
+      "use": "Anima statue",
+      "id": "piertotum_locomotor",
+      "name": "Incantesimo Piertotum Locomotor",
+      "incantation": "Piertotum Locomotor",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Bianca"
+    },
+    {
+      "spell": "Imperio",
+      "use": "Fa obbedire il bersaglio a ogni comando",
+      "id": "imperio",
+      "name": "Incantesimo Imperio",
+      "incantation": "Imperio",
+      "category": "Maledizione imperdonabile",
+      "creator": "Sconosciuto",
+      "light_color": "Verde"
+    },
+    {
+      "spell": "Fidelius Charm",
+      "use": "Vincola un segreto all'anima di un Custode del Segreto",
+      "id": "fidelius",
+      "name": "Incantesimo Fidelius Charm",
+      "incantation": "Fidelius Charm",
+      "category": "Incantesimo complesso",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Avis/Oppugno",
+      "use": "Sparge uno sciame di uccelli dalla bacchetta",
+      "id": "avis",
+      "name": "Incantesimo Avis/Oppugno",
+      "incantation": "Avis/Oppugno",
+      "category": "Evocazione",
+      "creator": "Sconosciuto",
+      "light_color": "Blu"
+    },
+    {
+      "spell": "Expulso",
+      "use": "Fa esplodere oggetti",
+      "id": "expulso",
+      "name": "Incantesimo Expulso",
+      "incantation": "Expulso",
+      "category": "Maledizione",
+      "creator": "Sconosciuto",
+      "light_color": "Blu"
+    },
+    {
+      "spell": "Legilimens",
+      "use": "Rivela ricordi e pensieri del bersaglio",
+      "id": "legilimens",
+      "name": "Incantesimo Legilimens",
+      "incantation": "Legilimens",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Bianca"
+    },
+    {
+      "spell": "Duro",
+      "use": "Indurisce gli oggetti",
+      "id": "duro",
+      "name": "Incantesimo Duro",
+      "incantation": "Duro",
+      "category": "Trasfigurazione",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Sonorus",
+      "use": "Amplifica la voce di qualcuno",
+      "id": "sonorus",
+      "name": "Incantesimo Sonorus",
+      "incantation": "Sonorus",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Deprimo",
+      "use": "Crea una grande pressione verso il basso",
+      "id": "deprimo",
+      "name": "Incantesimo Deprimo",
+      "incantation": "Deprimo",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Verde"
+    },
+    {
+      "spell": "Levicorpus",
+      "use": "Levita il bersaglio per la caviglia",
+      "id": "levicorpus",
+      "name": "Incantesimo Levicorpus",
+      "incantation": "Levicorpus",
+      "category": "Sortilegio",
+      "creator": "Severus Snape",
+      "light_color": "Verde"
+    },
+    {
+      "spell": "Liberacorpus",
+      "use": "Abbassa il bersaglio di Levicorpus",
+      "id": "liberacorpus",
+      "name": "Incantesimo Liberacorpus",
+      "incantation": "Liberacorpus",
+      "category": "Controincantesimo",
+      "creator": "Severus Snape",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Mobilicorpus",
+      "use": "Muove i corpi",
+      "id": "mobilicorpus",
+      "name": "Incantesimo Mobilicorpus",
+      "incantation": "Mobilicorpus",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Confringo",
+      "use": "Fa esplodere oggetti in fiamme",
+      "id": "confringo",
+      "name": "Incantesimo Confringo",
+      "incantation": "Confringo",
+      "category": "Maledizione",
+      "creator": "Sconosciuto",
+      "light_color": "Arancione"
+    },
+    {
+      "spell": "Densaugeo",
+      "use": "Fa crescere rapidamente i denti",
+      "id": "densaugeo",
+      "name": "Incantesimo Densaugeo",
+      "incantation": "Densaugeo",
+      "category": "Sortilegio",
+      "creator": "Sconosciuto",
+      "light_color": "Viola"
+    },
+    {
+      "spell": "Incarcarous",
+      "use": "Lega qualcuno con corde",
+      "id": "incarcerous",
+      "name": "Incantesimo Incarcarous",
+      "incantation": "Incarcarous",
+      "category": "Evocazione",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Deletrius",
+      "use": "Annulla gli effetti di Prior Incantato",
+      "id": "deletrius",
+      "name": "Incantesimo Deletrius",
+      "incantation": "Deletrius",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Rictusempra",
+      "use": "Incanto solletico",
+      "id": "rictusempra",
+      "name": "Incantesimo Rictusempra",
+      "incantation": "Rictusempra",
+      "category": "Incantesimo",
+      "creator": "Sconosciuto",
+      "light_color": "Argento"
+    },
+    {
+      "spell": "Petrificus Totalus",
+      "use": "Rende il bersaglio completamente immobile",
+      "id": "petrificus_totalus",
+      "name": "Incantesimo Petrificus Totalus",
+      "incantation": "Petrificus Totalus",
+      "category": "Maledizione",
+      "creator": "Sconosciuto",
+      "light_color": "Bianca"
+    },
+    {
+      "spell": "Fiendfyre Curse",
+      "use": "Crea fuoco maledetto",
+      "id": "fiendfyre",
+      "name": "Incantesimo Fiendfyre Curse",
+      "incantation": "Fiendfyre Curse",
+      "category": "Maledizione avanzata",
+      "creator": "Sconosciuto",
+      "light_color": "Incolore"
+    },
+    {
+      "spell": "Tarantallegra",
+      "use": "Costringe il bersaglio a ballare",
+      "id": "tarantallegra",
+      "name": "Incantesimo Tarantallegra",
+      "incantation": "Tarantallegra",
+      "category": "Incantesimo",
+      "creator": "Inventado na Itália (79 d.C.)",
+      "light_color": "Blu"
+    },
+    {
+      "spell": "Morsmordre",
+      "use": "Evoca il Marchio Nero",
+      "id": "morsmordre",
+      "name": "Incantesimo Morsmordre",
+      "incantation": "Morsmordre",
+      "category": "Magia oscura",
+      "creator": "Lord Voldemort",
+      "light_color": "Verde"
+    },
+    {
+      "spell": "Sectumsempra",
+      "use": "Causa ferite gravi",
+      "id": "sectumsempra",
+      "name": "Incantesimo Sectumsempra",
+      "incantation": "Sectumsempra",
+      "category": "Maledizione",
+      "creator": "Severus Snape",
+      "light_color": "Bianca"
+    },
+    {
+      "spell": "Crucio",
+      "use": "Causa un dolore immenso",
+      "id": "crucio",
+      "name": "Incantesimo Crucio",
+      "incantation": "Crucio",
+      "category": "Maledizione imperdonabile",
+      "creator": "Sconosciuto",
+      "light_color": "Rossa"
+    }
+  ]
+}

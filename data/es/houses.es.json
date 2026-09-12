@@ -1,0 +1,132 @@
+{
+  "houses": [
+    {
+      "house": "Gryffindor",
+      "emoji": "🦁",
+      "founder": "Godric Gryffindor",
+      "colors": {
+        "name": [
+          "rojo",
+          "dorado"
+        ],
+        "hex": [
+          "#7F0909",
+          "#FFC500"
+        ]
+      },
+      "animal": "León",
+      "id": "gryffindor",
+      "element": "Fuego",
+      "traits": [
+        "Valentía",
+        "Bravura",
+        "Determinación",
+        "Caballerosidad"
+      ],
+      "description": "Hogar de los nobles y audaces, valora los actos heroicos y la firmeza moral en momentos críticos.",
+      "ghost": "Nick Casi Decapitado",
+      "relic": "Espada de Godric Gryffindor",
+      "common_room": {
+        "location": "Torre de Gryffindor (7.º piso)",
+        "access": "Una contraseña dicha al retrato de la Señora Gorda"
+      },
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/houses/gryffindor.png"
+    },
+    {
+      "house": "Hufflepuff",
+      "emoji": "🦡",
+      "founder": "Helga Hufflepuff",
+      "colors": {
+        "name": [
+          "amarillo",
+          "negro"
+        ],
+        "hex": [
+          "#ECB939",
+          "#000000"
+        ]
+      },
+      "animal": "Tejón",
+      "id": "hufflepuff",
+      "element": "Tierra",
+      "traits": [
+        "Lealtad",
+        "Trabajo duro",
+        "Paciencia",
+        "Justicia"
+      ],
+      "description": "Acoge a los justos y leales, priorizando la constancia, el compañerismo y el esfuerzo honesto.",
+      "ghost": "El Fraile Gordo",
+      "relic": "Copa de Helga Hufflepuff",
+      "common_room": {
+        "location": "Cerca de las cocinas de Hogwarts",
+        "access": "Golpear rítmicamente el barril correcto (con el ritmo de 'Helga Hufflepuff')"
+      },
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/houses/hufflepuff.png"
+    },
+    {
+      "house": "Ravenclaw",
+      "emoji": "🦅",
+      "founder": "Rowena Ravenclaw",
+      "colors": {
+        "name": [
+          "azul",
+          "bronce"
+        ],
+        "hex": [
+          "#0E1A40",
+          "#946B2D"
+        ]
+      },
+      "animal": "Cuervo",
+      "id": "ravenclaw",
+      "element": "Aire",
+      "traits": [
+        "Inteligencia",
+        "Sabiduría",
+        "Creatividad",
+        "Curiosidad"
+      ],
+      "description": "Lugar de pensadores e inquisitivos, celebra la mente aguda, la originalidad y el intelecto abierto.",
+      "ghost": "La Dama Gris (Helena Ravenclaw)",
+      "relic": "Diadema de Rowena Ravenclaw",
+      "common_room": {
+        "location": "Torre de Ravenclaw (lado oeste)",
+        "access": "Responder correctamente a un acertijo filosófico del aldabón con forma de águila"
+      },
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/houses/ravenclaw.png"
+    },
+    {
+      "house": "Slytherin",
+      "emoji": "🐍",
+      "founder": "Salazar Slytherin",
+      "colors": {
+        "name": [
+          "verde",
+          "plata"
+        ],
+        "hex": [
+          "#1A472A",
+          "#AAAAAA"
+        ]
+      },
+      "animal": "Serpiente",
+      "id": "slytherin",
+      "element": "Agua",
+      "traits": [
+        "Ambición",
+        "Astucia",
+        "Liderazgo",
+        "Autopreservación"
+      ],
+      "description": "Destinada a los decididos y estratégicos, donde la desenvoltura y la búsqueda de grandeza guían el camino.",
+      "ghost": "El Barón Sanguinario",
+      "relic": "Medallón de Salazar Slytherin",
+      "common_room": {
+        "location": "Mazmorras (debajo del lago Negro)",
+        "access": "Una contraseña dicha ante una pared de piedra desnuda"
+      },
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/houses/slytherin.png"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "houses": [
+    {
+      "house": "Gryffindor",
+      "emoji": "🦁",
+      "founder": "Godric Gryffindor",
+      "colors": {
+        "name": [
+          "red",
+          "gold"
+        ],
+        "hex": [
+          "#7F0909",
+          "#FFC500"
+        ]
+      },
+      "animal": "Lion",
+      "id": "gryffindor",
+      "element": "Fire",
+      "traits": [
+        "Courage",
+        "Bravery",
+        "Determination",
+        "Chivalry"
+      ],
+      "description": "Home of the noble and daring, valuing acts of heroism and moral integrity in critical moments.",
+      "ghost": "Nearly Headless Nick",
+      "relic": "Godric Gryffindor's Sword",
+      "common_room": {
+        "location": "Gryffindor Tower (7th floor)",
+        "access": "A password spoken to the Fat Lady portrait"
+      },
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/houses/gryffindor.png"
+    },
+    {
+      "house": "Hufflepuff",
+      "emoji": "🦡",
+      "founder": "Helga Hufflepuff",
+      "colors": {
+        "name": [
+          "yellow",
+          "black"
+        ],
+        "hex": [
+          "#ECB939",
+          "#000000"
+        ]
+      },
+      "animal": "Badger",
+      "id": "hufflepuff",
+      "element": "Earth",
+      "traits": [
+        "Loyalty",
+        "Hard work",
+        "Patience",
+        "Justice"
+      ],
+      "description": "Welcomes the just and loyal, prioritizing constancy, fellowship, and honest effort.",
+      "ghost": "The Fat Friar",
+      "relic": "Helga Hufflepuff's Cup",
+      "common_room": {
+        "location": "Near the Hogwarts kitchens",
+        "access": "A rhythmic tap on the correct barrel (the rhythm of 'Helga Hufflepuff')"
+      },
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/houses/hufflepuff.png"
+    },
+    {
+      "house": "Ravenclaw",
+      "emoji": "🦅",
+      "founder": "Rowena Ravenclaw",
+      "colors": {
+        "name": [
+          "blue",
+          "bronze"
+        ],
+        "hex": [
+          "#0E1A40",
+          "#946B2D"
+        ]
+      },
+      "animal": "Raven",
+      "id": "ravenclaw",
+      "element": "Air",
+      "traits": [
+        "Intelligence",
+        "Wisdom",
+        "Creativity",
+        "Curiosity"
+      ],
+      "description": "A place for thinkers and the inquisitive, celebrating sharp minds, originality, and open intellect.",
+      "ghost": "The Grey Lady (Helena Ravenclaw)",
+      "relic": "Rowena Ravenclaw's Diadem",
+      "common_room": {
+        "location": "Ravenclaw Tower (west side)",
+        "access": "Answering a philosophical riddle from the eagle knocker"
+      },
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/houses/ravenclaw.png"
+    },
+    {
+      "house": "Slytherin",
+      "emoji": "🐍",
+      "founder": "Salazar Slytherin",
+      "colors": {
+        "name": [
+          "green",
+          "silver"
+        ],
+        "hex": [
+          "#1A472A",
+          "#AAAAAA"
+        ]
+      },
+      "animal": "Snake",
+      "id": "slytherin",
+      "element": "Water",
+      "traits": [
+        "Ambition",
+        "Cunning",
+        "Leadership",
+        "Self-preservation"
+      ],
+      "description": "For the determined and strategic, where resourcefulness and the pursuit of greatness shape the path.",
+      "ghost": "The Bloody Baron",
+      "relic": "Salazar Slytherin's Locket",
+      "common_room": {
+        "location": "The dungeons (below the Black Lake)",
+        "access": "A password spoken before a bare stone wall"
+      },
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/houses/slytherin.png"
+    }
+  ]
+}

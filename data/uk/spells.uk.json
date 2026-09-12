@@ -1,0 +1,724 @@
+{
+  "spells": [
+    {
+      "spell": "Accio",
+      "use": "Закляття призову",
+      "id": "accio",
+      "name": "Закляття Accio",
+      "incantation": "Accio",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Glisseo",
+      "use": "Перетворює сходи на гірку",
+      "id": "glisseo",
+      "name": "Закляття Glisseo",
+      "incantation": "Glisseo",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Impervius",
+      "use": "Захищає чаклуна від різних речовин, включаючи воду та вогонь",
+      "id": "impervius",
+      "name": "Закляття Impervius",
+      "incantation": "Impervius",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Wingardium Leviosa/Locomotor",
+      "use": "Змушує об'єкти левітувати",
+      "id": "wingardium_leviosa",
+      "name": "Закляття Wingardium Leviosa/Locomotor",
+      "incantation": "Wingardium Leviosa/Locomotor",
+      "category": "Чари",
+      "creator": "Jarlev Forge (1544)",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Scourgify",
+      "use": "Чистить речі",
+      "id": "scourgify",
+      "name": "Закляття Scourgify",
+      "incantation": "Scourgify",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Portus",
+      "use": "Створює портключ",
+      "id": "portus",
+      "name": "Закляття Portus",
+      "incantation": "Portus",
+      "category": "Чари",
+      "creator": "Невідомо (Regulado pelo Ministério)",
+      "light_color": "Синій"
+    },
+    {
+      "spell": "Orchideous",
+      "use": "Змушує квіти виростати з кінця чарівної палички",
+      "id": "orchideous",
+      "name": "Закляття Orchideous",
+      "incantation": "Orchideous",
+      "category": "Викликання",
+      "creator": "Невідомо",
+      "light_color": "Рожевий"
+    },
+    {
+      "spell": "Lumos",
+      "use": "Змушує чарівну паличку випромінювати світло",
+      "id": "lumos",
+      "name": "Закляття Lumos",
+      "incantation": "Lumos",
+      "category": "Чари",
+      "creator": "Levina Monkstanley (1772)",
+      "light_color": "Білий"
+    },
+    {
+      "spell": "Reparo",
+      "use": "Відновлює зламані об'єкти",
+      "id": "reparo",
+      "name": "Закляття Reparo",
+      "incantation": "Reparo",
+      "category": "Чари",
+      "creator": "Orabella Nuttley (1754)",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Reducio",
+      "use": "Зменшує об'єкти",
+      "id": "reducio",
+      "name": "Закляття Reducio",
+      "incantation": "Reducio",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Фіолетовий"
+    },
+    {
+      "spell": "Pack",
+      "use": "Пакує валізи та багаж",
+      "id": "pack",
+      "name": "Закляття Pack",
+      "incantation": "Pack",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Riddikulus",
+      "use": "Перетворює Богута на смішну форму",
+      "id": "riddikulus",
+      "name": "Закляття Riddikulus",
+      "incantation": "Riddikulus",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Protego",
+      "use": "Захищає чаклуна від проклять",
+      "id": "protego",
+      "name": "Закляття Protego",
+      "incantation": "Protego",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Синій"
+    },
+    {
+      "spell": "Muffliato",
+      "use": "Не дозволяє іншим підслуховувати розмови",
+      "id": "muffliato",
+      "name": "Закляття Muffliato",
+      "incantation": "Muffliato",
+      "category": "Чари",
+      "creator": "Северус Снейп",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Silencio/Langlock",
+      "use": "Змушує людину перестати говорити (прилипання язика до піднебіння)",
+      "id": "langlock",
+      "name": "Закляття Silencio/Langlock",
+      "incantation": "Silencio/Langlock",
+      "category": "Зурочення",
+      "creator": "Северус Снейп",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Expelliarmus",
+      "use": "Закляття роззброєння",
+      "id": "expelliarmus",
+      "name": "Закляття Expelliarmus",
+      "incantation": "Expelliarmus",
+      "category": "Чари",
+      "creator": "Elizabeth Smudgling (1379)",
+      "light_color": "Червоний"
+    },
+    {
+      "spell": "Oblivate",
+      "use": "Стирає спогади",
+      "id": "obliviate",
+      "name": "Закляття Oblivate",
+      "incantation": "Oblivate",
+      "category": "Чари",
+      "creator": "Mnemone Radford",
+      "light_color": "Зелений"
+    },
+    {
+      "spell": "Episkey",
+      "use": "Лікує дрібні травми",
+      "id": "episkey",
+      "name": "Закляття Episkey",
+      "incantation": "Episkey",
+      "category": "Цілюще закляття",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Tergeo",
+      "use": "Очищає поверхні",
+      "id": "tergeo",
+      "name": "Закляття Tergeo",
+      "incantation": "Tergeo",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Relashio",
+      "use": "Змушує ціль відпустити все, що вона тримає",
+      "id": "relashio",
+      "name": "Закляття Relashio",
+      "incantation": "Relashio",
+      "category": "Зурочення",
+      "creator": "Невідомо",
+      "light_color": "Фіолетовий"
+    },
+    {
+      "spell": "Confundo",
+      "use": "Спричиняє замішання та робить інших вразливими до впливу",
+      "id": "confundo",
+      "name": "Закляття Confundo",
+      "incantation": "Confundo",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Рожевий"
+    },
+    {
+      "spell": "Expecto Patronum",
+      "use": "Закляття Патронуса",
+      "id": "expecto_patronum",
+      "name": "Закляття Expecto Patronum",
+      "incantation": "Expecto Patronum",
+      "category": "Чари",
+      "creator": "Невідомо (Magia Antiga)",
+      "light_color": "Срібний"
+    },
+    {
+      "spell": "Ferula",
+      "use": "Накладає бинти",
+      "id": "ferula",
+      "name": "Закляття Ferula",
+      "incantation": "Ferula",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Evanesco",
+      "use": "Закляття зникнення",
+      "id": "evanesco",
+      "name": "Закляття Evanesco",
+      "incantation": "Evanesco",
+      "category": "Трансфігурація",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Alohomora",
+      "use": "Відчиняє замки",
+      "id": "alohomora",
+      "name": "Закляття Alohomora",
+      "incantation": "Alohomora",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Синій"
+    },
+    {
+      "spell": "Nox",
+      "use": "Вимикає закляття люмос",
+      "id": "nox",
+      "name": "Закляття Nox",
+      "incantation": "Nox",
+      "category": "Чари",
+      "creator": "Levina Monkstanley (presumido)",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Quietus",
+      "use": "Зменшує голос, підсилений магією",
+      "id": "quietus",
+      "name": "Закляття Quietus",
+      "incantation": "Quietus",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Incendio",
+      "use": "Створює вогонь",
+      "id": "incendio",
+      "name": "Закляття Incendio",
+      "incantation": "Incendio",
+      "category": "Викликання",
+      "creator": "Невідомо",
+      "light_color": "Помаранчевий"
+    },
+    {
+      "spell": "Homenum Revelio",
+      "use": "Розкриває людей поблизу",
+      "id": "homenum_revelio",
+      "name": "Закляття Homenum Revelio",
+      "incantation": "Homenum Revelio",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Prior Incantato",
+      "use": "Розкриває останнє закляття, накладене паличкою",
+      "id": "prior_incantato",
+      "name": "Закляття Prior Incantato",
+      "incantation": "Prior Incantato",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Золотий"
+    },
+    {
+      "spell": "Finite Incantatem",
+      "use": "Скасовує ефекти багатьох заклять",
+      "id": "finite_incantatem",
+      "name": "Закляття Finite Incantatem",
+      "incantation": "Finite Incantatem",
+      "category": "Контрзакляття",
+      "creator": "Невідомо",
+      "light_color": "Червоний"
+    },
+    {
+      "spell": "Erecto",
+      "use": "Ставить намети або інші споруди",
+      "id": "erecto",
+      "name": "Закляття Erecto",
+      "incantation": "Erecto",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Diffindo",
+      "use": "Ріже або розрізає матеріал",
+      "id": "diffindo",
+      "name": "Закляття Diffindo",
+      "incantation": "Diffindo",
+      "category": "Чари",
+      "creator": "Delfina Crimp (1400s)",
+      "light_color": "Рожевий"
+    },
+    {
+      "spell": "Stupefy",
+      "use": "Оглушає ціль",
+      "id": "stupefy",
+      "name": "Закляття Stupefy",
+      "incantation": "Stupefy",
+      "category": "Бойове закляття",
+      "creator": "Невідомо",
+      "light_color": "Червоний"
+    },
+    {
+      "spell": "Repelo Muggletum",
+      "use": "Відлякує маґлів",
+      "id": "repello_muggletum",
+      "name": "Закляття Repelo Muggletum",
+      "incantation": "Repelo Muggletum",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Avada Kedavra",
+      "use": "Закляття вбивства",
+      "id": "avada_kedavra",
+      "name": "Закляття Avada Kedavra",
+      "incantation": "Avada Kedavra",
+      "category": "Непробачне закляття",
+      "creator": "Невідомо",
+      "light_color": "Зелений"
+    },
+    {
+      "spell": "Aguamenti",
+      "use": "Стріляє водою з чарівної палички",
+      "id": "aguamenti",
+      "name": "Закляття Aguamenti",
+      "incantation": "Aguamenti",
+      "category": "Викликання",
+      "creator": "Невідомо",
+      "light_color": "Синій"
+    },
+    {
+      "spell": "Geminio",
+      "use": "Створює тимчасову, безцінну копію будь-якого об'єкта",
+      "id": "geminio",
+      "name": "Закляття Geminio",
+      "incantation": "Geminio",
+      "category": "Чари",
+      "creator": "Heliodor Fontanis (presumido)",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Locomotor Mortis",
+      "use": "Прокляття знерухомлення ніг",
+      "id": "locomotor_mortis",
+      "name": "Закляття Locomotor Mortis",
+      "incantation": "Locomotor Mortis",
+      "category": "Прокляття",
+      "creator": "Невідомо",
+      "light_color": "Фіолетовий"
+    },
+    {
+      "spell": "Anapneo",
+      "use": "Очищає дихальні шляхи",
+      "id": "anapneo",
+      "name": "Закляття Anapneo",
+      "incantation": "Anapneo",
+      "category": "Цілюще закляття",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Reducto",
+      "use": "Вибухає об'єкт",
+      "id": "reducto",
+      "name": "Закляття Reducto",
+      "incantation": "Reducto",
+      "category": "Прокляття",
+      "creator": "Невідомо",
+      "light_color": "Синій"
+    },
+    {
+      "spell": "Obscuro",
+      "use": "Зав'язує очі цілі",
+      "id": "obscuro",
+      "name": "Закляття Obscuro",
+      "incantation": "Obscuro",
+      "category": "Викликання",
+      "creator": "Невідомо",
+      "light_color": "Чорний"
+    },
+    {
+      "spell": "Impedimenta",
+      "use": "Заморожує тих, хто наближається",
+      "id": "impedimenta",
+      "name": "Закляття Impedimenta",
+      "incantation": "Impedimenta",
+      "category": "Зурочення",
+      "creator": "Невідомо",
+      "light_color": "Синій"
+    },
+    {
+      "spell": "Cave Inimicum/Protego Totalum",
+      "use": "Зміцнює захист області",
+      "id": "cave_inimicum",
+      "name": "Закляття Cave Inimicum/Protego Totalum",
+      "incantation": "Cave Inimicum/Protego Totalum",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Meteolojinx Recanto",
+      "use": "Знімає ефекти заклять на погоду",
+      "id": "meteolojinx_recanto",
+      "name": "Закляття Meteolojinx Recanto",
+      "incantation": "Meteolojinx Recanto",
+      "category": "Контрзакляття",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Specialis Revelio",
+      "use": "Розкриває приховані магічні властивості об'єкта",
+      "id": "specialis_revelio",
+      "name": "Закляття Specialis Revelio",
+      "incantation": "Specialis Revelio",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Descendo",
+      "use": "Переміщує об'єкти вниз",
+      "id": "descendo",
+      "name": "Закляття Descendo",
+      "incantation": "Descendo",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Синій"
+    },
+    {
+      "spell": "Defodio",
+      "use": "Ріже камінь і сталь",
+      "id": "defodio",
+      "name": "Закляття Defodio",
+      "incantation": "Defodio",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Aparecium",
+      "use": "Робить невидиме чорнило видимим",
+      "id": "aparecium",
+      "name": "Закляття Aparecium",
+      "incantation": "Aparecium",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Piertotum Locomotor",
+      "use": "Анімує статуї",
+      "id": "piertotum_locomotor",
+      "name": "Закляття Piertotum Locomotor",
+      "incantation": "Piertotum Locomotor",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Білий"
+    },
+    {
+      "spell": "Imperio",
+      "use": "Змушує ціль виконувати всі команди",
+      "id": "imperio",
+      "name": "Закляття Imperio",
+      "incantation": "Imperio",
+      "category": "Непробачне закляття",
+      "creator": "Невідомо",
+      "light_color": "Зелений"
+    },
+    {
+      "spell": "Fidelius Charm",
+      "use": "Прив'язує таємницю до душі її охоронця",
+      "id": "fidelius",
+      "name": "Закляття Fidelius Charm",
+      "incantation": "Fidelius Charm",
+      "category": "Складні чари",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Avis/Oppugno",
+      "use": "Випускає з палички зграю птахів",
+      "id": "avis",
+      "name": "Закляття Avis/Oppugno",
+      "incantation": "Avis/Oppugno",
+      "category": "Викликання",
+      "creator": "Невідомо",
+      "light_color": "Синій"
+    },
+    {
+      "spell": "Expulso",
+      "use": "Знищує об'єкти",
+      "id": "expulso",
+      "name": "Закляття Expulso",
+      "incantation": "Expulso",
+      "category": "Прокляття",
+      "creator": "Невідомо",
+      "light_color": "Синій"
+    },
+    {
+      "spell": "Legilimens",
+      "use": "Розкриває спогади та думки цілі",
+      "id": "legilimens",
+      "name": "Закляття Legilimens",
+      "incantation": "Legilimens",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Білий"
+    },
+    {
+      "spell": "Duro",
+      "use": "Затверджує об'єкти",
+      "id": "duro",
+      "name": "Закляття Duro",
+      "incantation": "Duro",
+      "category": "Трансфігурація",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Sonorus",
+      "use": "Посилює голос",
+      "id": "sonorus",
+      "name": "Закляття Sonorus",
+      "incantation": "Sonorus",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Deprimo",
+      "use": "Створює великий тиск вниз",
+      "id": "deprimo",
+      "name": "Закляття Deprimo",
+      "incantation": "Deprimo",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Зелений"
+    },
+    {
+      "spell": "Levicorpus",
+      "use": "Левітує ціль за щиколотку",
+      "id": "levicorpus",
+      "name": "Закляття Levicorpus",
+      "incantation": "Levicorpus",
+      "category": "Зурочення",
+      "creator": "Северус Снейп",
+      "light_color": "Зелений"
+    },
+    {
+      "spell": "Liberacorpus",
+      "use": "Опускає ціль із закляття левікорпус",
+      "id": "liberacorpus",
+      "name": "Закляття Liberacorpus",
+      "incantation": "Liberacorpus",
+      "category": "Контрзакляття",
+      "creator": "Северус Снейп",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Mobilicorpus",
+      "use": "Переміщує тіла",
+      "id": "mobilicorpus",
+      "name": "Закляття Mobilicorpus",
+      "incantation": "Mobilicorpus",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Confringo",
+      "use": "Вибухає об'єкти у вогні",
+      "id": "confringo",
+      "name": "Закляття Confringo",
+      "incantation": "Confringo",
+      "category": "Прокляття",
+      "creator": "Невідомо",
+      "light_color": "Помаранчевий"
+    },
+    {
+      "spell": "Densaugeo",
+      "use": "Прискорює ріст зубів",
+      "id": "densaugeo",
+      "name": "Закляття Densaugeo",
+      "incantation": "Densaugeo",
+      "category": "Зурочення",
+      "creator": "Невідомо",
+      "light_color": "Фіолетовий"
+    },
+    {
+      "spell": "Incarcarous",
+      "use": "Обмотує когось мотузками",
+      "id": "incarcerous",
+      "name": "Закляття Incarcarous",
+      "incantation": "Incarcarous",
+      "category": "Викликання",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Deletrius",
+      "use": "Скасовує ефекти попереднього закляття інкантато",
+      "id": "deletrius",
+      "name": "Закляття Deletrius",
+      "incantation": "Deletrius",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Rictusempra",
+      "use": "Закляття лоскоту",
+      "id": "rictusempra",
+      "name": "Закляття Rictusempra",
+      "incantation": "Rictusempra",
+      "category": "Чари",
+      "creator": "Невідомо",
+      "light_color": "Срібний"
+    },
+    {
+      "spell": "Petrificus Totalus",
+      "use": "Повністю знерухомлює ціль",
+      "id": "petrificus_totalus",
+      "name": "Закляття Petrificus Totalus",
+      "incantation": "Petrificus Totalus",
+      "category": "Прокляття",
+      "creator": "Невідомо",
+      "light_color": "Білий"
+    },
+    {
+      "spell": "Fiendfyre Curse",
+      "use": "Створює проклятий вогонь",
+      "id": "fiendfyre",
+      "name": "Закляття Fiendfyre Curse",
+      "incantation": "Fiendfyre Curse",
+      "category": "Складне прокляття",
+      "creator": "Невідомо",
+      "light_color": "Безбарвний"
+    },
+    {
+      "spell": "Tarantallegra",
+      "use": "Змушує ціль танцювати",
+      "id": "tarantallegra",
+      "name": "Закляття Tarantallegra",
+      "incantation": "Tarantallegra",
+      "category": "Чари",
+      "creator": "Inventado na Itália (79 d.C.)",
+      "light_color": "Синій"
+    },
+    {
+      "spell": "Morsmordre",
+      "use": "Викликає Темну Мітку",
+      "id": "morsmordre",
+      "name": "Закляття Morsmordre",
+      "incantation": "Morsmordre",
+      "category": "Темна магія",
+      "creator": "Lord Волдеморт",
+      "light_color": "Зелений"
+    },
+    {
+      "spell": "Sectumsempra",
+      "use": "Спричиняє важкі порізи",
+      "id": "sectumsempra",
+      "name": "Закляття Sectumsempra",
+      "incantation": "Sectumsempra",
+      "category": "Прокляття",
+      "creator": "Северус Снейп",
+      "light_color": "Білий"
+    },
+    {
+      "spell": "Crucio",
+      "use": "Спричиняє нестерпний біль",
+      "id": "crucio",
+      "name": "Закляття Crucio",
+      "incantation": "Crucio",
+      "category": "Непробачне закляття",
+      "creator": "Невідомо",
+      "light_color": "Червоний"
+    }
+  ]
+}

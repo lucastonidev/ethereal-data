@@ -1,0 +1,724 @@
+{
+  "spells": [
+    {
+      "spell": "Accio",
+      "use": "Feitiço de invocação",
+      "id": "accio",
+      "name": "Feitiço Convocatório",
+      "incantation": "Accio",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Glisseo",
+      "use": "Transforma uma escada em um escorregador",
+      "id": "glisseo",
+      "name": "Feitiço Deslizante",
+      "incantation": "Glisseo",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Impervius",
+      "use": "Protege o lançador de uma variedade de substâncias, incluindo água e fogo",
+      "id": "impervius",
+      "name": "Feitiço Impermeabilizante",
+      "incantation": "Impervius",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Wingardium Leviosa/Locomotor",
+      "use": "Levita objetos",
+      "id": "wingardium_leviosa",
+      "name": "Feitiço de Levitação",
+      "incantation": "Wingardium Leviosa",
+      "category": "Encantamento",
+      "creator": "Jarlev Forge (1544)",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Scourgify",
+      "use": "Limpa coisas",
+      "id": "scourgify",
+      "name": "Feitiço Limpante",
+      "incantation": "Escorja (Scourgify)",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Portus",
+      "use": "Cria uma chave de portal",
+      "id": "portus",
+      "name": "Feitiço de Chave de Portal",
+      "incantation": "Portus",
+      "category": "Encantamento",
+      "creator": "Desconhecido (Regulado pelo Ministério)",
+      "light_color": "Azul brilhante"
+    },
+    {
+      "spell": "Orchideous",
+      "use": "Cresce flores na ponta da varinha",
+      "id": "orchideous",
+      "name": "Feitiço Conjuntório de Flores",
+      "incantation": "Orchideous",
+      "category": "Conjuração",
+      "creator": "Desconhecido",
+      "light_color": "Rosa"
+    },
+    {
+      "spell": "Lumos",
+      "use": "Faz a varinha emitir luz",
+      "id": "lumos",
+      "name": "Feitiço de Iluminação",
+      "incantation": "Lumos",
+      "category": "Encantamento",
+      "creator": "Levina Monkstanley (1772)",
+      "light_color": "Branca"
+    },
+    {
+      "spell": "Reparo",
+      "use": "Repara objetos quebrados",
+      "id": "reparo",
+      "name": "Feitiço de Conserto",
+      "incantation": "Reparo",
+      "category": "Encantamento",
+      "creator": "Orabella Nuttley (1754)",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Reducio",
+      "use": "Encolhe objetos",
+      "id": "reducio",
+      "name": "Feitiço de Encolhimento",
+      "incantation": "Reducio",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Roxa"
+    },
+    {
+      "spell": "Pack",
+      "use": "Embala baús e bagagem",
+      "id": "pack",
+      "name": "Feitiço de Arrumação",
+      "incantation": "Arrumar",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Riddikulus",
+      "use": "Transforma Boggarts em uma forma humorística",
+      "id": "riddikulus",
+      "name": "Feitiço Repelente de Bicho-Papão",
+      "incantation": "Riddikulus",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Protego",
+      "use": "Protege o lançador de maldições",
+      "id": "protego",
+      "name": "Feitiço Escudo",
+      "incantation": "Protego",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Azul translúcido"
+    },
+    {
+      "spell": "Muffliato",
+      "use": "Impede que outras pessoas próximas ouçam conversas",
+      "id": "muffliato",
+      "name": "Feitiço Abaffiato",
+      "incantation": "Abaffiato",
+      "category": "Encantamento",
+      "creator": "Severo Snape",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Silencio/Langlock",
+      "use": "Impede alguém de falar (colocando a língua no céu da boca)",
+      "id": "langlock",
+      "name": "Feitiço Travalíngua",
+      "incantation": "Travalíngua",
+      "category": "Azaração",
+      "creator": "Severo Snape",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Expelliarmus",
+      "use": "Feitiço de desarmamento",
+      "id": "expelliarmus",
+      "name": "Feitiço de Desarmamento",
+      "incantation": "Expelliarmus",
+      "category": "Encantamento",
+      "creator": "Elizabeth Smudgling (1379)",
+      "light_color": "Vermelha"
+    },
+    {
+      "spell": "Oblivate",
+      "use": "Erases memories",
+      "id": "obliviate",
+      "name": "Feitiço da Memória",
+      "incantation": "Obliviate",
+      "category": "Encantamento",
+      "creator": "Mnemone Radford",
+      "light_color": "Verde"
+    },
+    {
+      "spell": "Episkey",
+      "use": "Cura ferimentos leves",
+      "id": "episkey",
+      "name": "Feitiço de Cura Menor",
+      "incantation": "Episkey",
+      "category": "Feitiço de Cura",
+      "creator": "Desconhecido",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Tergeo",
+      "use": "Limpa superfícies",
+      "id": "tergeo",
+      "name": "Feitiço de Limpeza",
+      "incantation": "Tergeo",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Relashio",
+      "use": "Força o alvo a largar tudo o que está segurando",
+      "id": "relashio",
+      "name": "Feitiço de Repulsão",
+      "incantation": "Relaxo",
+      "category": "Azaração",
+      "creator": "Desconhecido",
+      "light_color": "Roxa (ou faíscas de fogo)"
+    },
+    {
+      "spell": "Confundo",
+      "use": "Causa confusões e torna outras pessoas facilmente suscetíveis à influência",
+      "id": "confundo",
+      "name": "Feitiço Confundus",
+      "incantation": "Confundo",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Rosa"
+    },
+    {
+      "spell": "Expecto Patronum",
+      "use": "Amuleto Patrono",
+      "id": "expecto_patronum",
+      "name": "Feitiço do Patrono",
+      "incantation": "Expecto Patronum",
+      "category": "Encantamento",
+      "creator": "Desconhecido (Magia Antiga)",
+      "light_color": "Prateada brilhante"
+    },
+    {
+      "spell": "Ferula",
+      "use": "Conjura bandagens",
+      "id": "ferula",
+      "name": "Feitiço de Bandagens",
+      "incantation": "Ferula",
+      "category": "Conjuração / Cura",
+      "creator": "Desconhecido",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Evanesco",
+      "use": "Feitiço de desaparecimento",
+      "id": "evanesco",
+      "name": "Feitiço de Desaparecimento",
+      "incantation": "Evanesco",
+      "category": "Transfiguração",
+      "creator": "Desconhecido",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Alohomora",
+      "use": "Abre fechaduras",
+      "id": "alohomora",
+      "name": "Feitiço de Arrombamento",
+      "incantation": "Alohomora",
+      "category": "Encantamento",
+      "creator": "Eldon Elsrickle (trazido para a Grã-Bretanha)",
+      "light_color": "Azul (ou incolor)"
+    },
+    {
+      "spell": "Nox",
+      "use": "Desliga o Lumus",
+      "id": "nox",
+      "name": "Feitiço de Extinção de Luz",
+      "incantation": "Nox",
+      "category": "Encantamento",
+      "creator": "Levina Monkstanley (presumido)",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Quietus",
+      "use": "Acalma a voz magicamente amplificada",
+      "id": "quietus",
+      "name": "Feitiço Silenciador Próprio",
+      "incantation": "Quietus",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Incendio",
+      "use": "Cria fogo",
+      "id": "incendio",
+      "name": "Feitiço Produtor de Fogo",
+      "incantation": "Incendio",
+      "category": "Conjuração",
+      "creator": "Desconhecido",
+      "light_color": "Laranja/Vermelho (Fogo)"
+    },
+    {
+      "spell": "Homenum Revelio",
+      "use": "Revelar pessoas próximas",
+      "id": "homenum_revelio",
+      "name": "Feitiço Revelador de Presença",
+      "incantation": "Homenum Revelio",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Prior Incantato",
+      "use": "Revela o último feitiço lançado",
+      "id": "prior_incantato",
+      "name": "Feitiço Reversor",
+      "incantation": "Prior Incantato",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Dourada"
+    },
+    {
+      "spell": "Finite Incantatem",
+      "use": "Nega os efeitos de muitos feitiços",
+      "id": "finite_incantatem",
+      "name": "Feitiço Cancelador",
+      "incantation": "Finite Incantatem",
+      "category": "Contra-feitiço",
+      "creator": "Desconhecido",
+      "light_color": "Vermelha"
+    },
+    {
+      "spell": "Erecto",
+      "use": "Ergue tendas ou outras estruturas",
+      "id": "erecto",
+      "name": "Feitiço de Montagem",
+      "incantation": "Erecto",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Diffindo",
+      "use": "Corta ou rasga material",
+      "id": "diffindo",
+      "name": "Feitiço de Corte",
+      "incantation": "Diffindo",
+      "category": "Encantamento",
+      "creator": "Delfina Crimp (1400s)",
+      "light_color": "Rosa clara / Verde"
+    },
+    {
+      "spell": "Stupefy",
+      "use": "Atordoa o alvo",
+      "id": "stupefy",
+      "name": "Feitiço Estuporante",
+      "incantation": "Estupefaça (Stupefy)",
+      "category": "Feitiço de Combate",
+      "creator": "Desconhecido",
+      "light_color": "Vermelha"
+    },
+    {
+      "spell": "Repelo Muggletum",
+      "use": "Repele trouxas",
+      "id": "repello_muggletum",
+      "name": "Feitiço Repelente de Trouxas",
+      "incantation": "Repello Muggletum",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Incolor (ou turva)"
+    },
+    {
+      "spell": "Avada Kedavra",
+      "use": "A maldição da morte",
+      "id": "avada_kedavra",
+      "name": "Maldição da Morte",
+      "incantation": "Avada Kedavra",
+      "category": "Maldição Imperdoável",
+      "creator": "Bruxos das Trevas da Idade Média",
+      "light_color": "Verde intensa"
+    },
+    {
+      "spell": "Aguamenti",
+      "use": "Atire água da varinha",
+      "id": "aguamenti",
+      "name": "Feitiço Produtor de Água",
+      "incantation": "Aguamenti",
+      "category": "Conjuração",
+      "creator": "Desconhecido",
+      "light_color": "Azul gelo (Água)"
+    },
+    {
+      "spell": "Geminio",
+      "use": "Cria duplicatas temporárias e sem valor de qualquer objeto",
+      "id": "geminio",
+      "name": "Feitiço de Duplicação",
+      "incantation": "Geminio",
+      "category": "Encantamento",
+      "creator": "Heliodor Fontanis (presumido)",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Locomotor Mortis",
+      "use": "Maldição do leglock",
+      "id": "locomotor_mortis",
+      "name": "Maldição do Tranca-Pernas",
+      "incantation": "Locomotor Mortis",
+      "category": "Maldição",
+      "creator": "Desconhecido",
+      "light_color": "Roxa"
+    },
+    {
+      "spell": "Anapneo",
+      "use": "Limpa as vias respiratórias de alguém",
+      "id": "anapneo",
+      "name": "Feitiço de Desobstrução",
+      "incantation": "Anapneo",
+      "category": "Feitiço de Cura",
+      "creator": "Desconhecido",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Reducto",
+      "use": "Explode objeto",
+      "id": "reducto",
+      "name": "Feitiço Redutor",
+      "incantation": "Reducto",
+      "category": "Maldição",
+      "creator": "Desconhecido",
+      "light_color": "Azul"
+    },
+    {
+      "spell": "Obscuro",
+      "use": "Alvo de vendas",
+      "id": "obscuro",
+      "name": "Feitiço de Venda",
+      "incantation": "Obscuro",
+      "category": "Conjuração",
+      "creator": "Desconhecido",
+      "light_color": "Preta"
+    },
+    {
+      "spell": "Impedimenta",
+      "use": "Congela alguém avançando em sua direção",
+      "id": "impedimenta",
+      "name": "Feitiço de Impedimento",
+      "incantation": "Impedimenta",
+      "category": "Azaração",
+      "creator": "Desconhecido",
+      "light_color": "Azul-esverdeada"
+    },
+    {
+      "spell": "Cave Inimicum/Protego Totalum",
+      "use": "Fortalece as defesas de uma área",
+      "id": "cave_inimicum",
+      "name": "Feitiço de Defesa de Área",
+      "incantation": "Cave Inimicum",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Meteolojinx Recanto",
+      "use": "Acaba com os efeitos dos feitiços climáticos",
+      "id": "meteolojinx_recanto",
+      "name": "Contra-Feitiço Meteorológico",
+      "incantation": "Meteolojinx Recanto",
+      "category": "Contra-feitiço",
+      "creator": "Desconhecido",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Specialis Revelio",
+      "use": "Revela propriedades mágicas ocultas em um objeto",
+      "id": "specialis_revelio",
+      "name": "Feitiço Revelador de Magia",
+      "incantation": "Specialis Revelio",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Descendo",
+      "use": "Move objetos para baixo",
+      "id": "descendo",
+      "name": "Feitiço de Queda",
+      "incantation": "Descendo",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Azul"
+    },
+    {
+      "spell": "Defodio",
+      "use": "Esculpe pedra e aço",
+      "id": "defodio",
+      "name": "Feitiço de Escavação",
+      "incantation": "Defodio",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Aparecium",
+      "use": "Faça aparecer tinta invisível",
+      "id": "aparecium",
+      "name": "Feitiço Revelador",
+      "incantation": "Aparecium",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Piertotum Locomotor",
+      "use": "Anima estátuas",
+      "id": "piertotum_locomotor",
+      "name": "Feitiço de Animação de Estátuas",
+      "incantation": "Piertotum Locomotor",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Branca"
+    },
+    {
+      "spell": "Imperio",
+      "use": "Faz o alvo obedecer a todos os comandos",
+      "id": "imperio",
+      "name": "Maldição Imperius",
+      "incantation": "Imperio",
+      "category": "Maldição Imperdoável",
+      "creator": "Bruxos das Trevas da Idade Média",
+      "light_color": "Verde-amarelada"
+    },
+    {
+      "spell": "Fidelius Charm",
+      "use": "Liga um segredo à alma de um Guardião do Segredo",
+      "id": "fidelius",
+      "name": "Feitiço Fidelius",
+      "incantation": "Desconhecida (Ritual)",
+      "category": "Encantamento Complexo",
+      "creator": "Desconhecido",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Avis/Oppugno",
+      "use": "Atira bandos de pássaros com a varinha",
+      "id": "avis",
+      "name": "Feitiço Conjuntório de Pássaros",
+      "incantation": "Avis",
+      "category": "Conjuração",
+      "creator": "Desconhecido",
+      "light_color": "Azul (Pássaros amarelos)"
+    },
+    {
+      "spell": "Expulso",
+      "use": "Explode objetos",
+      "id": "expulso",
+      "name": "Feitiço de Explosão",
+      "incantation": "Expulso",
+      "category": "Maldição",
+      "creator": "Desconhecido",
+      "light_color": "Azul"
+    },
+    {
+      "spell": "Legilimens",
+      "use": "Revela memórias e pensamentos do alvo",
+      "id": "legilimens",
+      "name": "Feitiço de Legilimência",
+      "incantation": "Legilimens",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Branca translúcida"
+    },
+    {
+      "spell": "Duro",
+      "use": "Endurece objetos",
+      "id": "duro",
+      "name": "Feitiço de Endurecimento",
+      "incantation": "Duro",
+      "category": "Transfiguração",
+      "creator": "Desconhecido",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Sonorus",
+      "use": "Amplifica a voz",
+      "id": "sonorus",
+      "name": "Feitiço de Amplificação",
+      "incantation": "Sonorus",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Deprimo",
+      "use": "Cria grande pressão descendente",
+      "id": "deprimo",
+      "name": "Feitiço de Pressão",
+      "incantation": "Deprimo",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Verde"
+    },
+    {
+      "spell": "Levicorpus",
+      "use": "Levita o alvo pelo tornozelo",
+      "id": "levicorpus",
+      "name": "Feitiço de Suspensão de Corpos",
+      "incantation": "Levicorpus",
+      "category": "Azaração",
+      "creator": "Severo Snape",
+      "light_color": "Verde"
+    },
+    {
+      "spell": "Liberacorpus",
+      "use": "Reduz o alvo do levicorpus",
+      "id": "liberacorpus",
+      "name": "Contra-feitiço de Suspensão",
+      "incantation": "Liberacorpus",
+      "category": "Contra-feitiço",
+      "creator": "Severo Snape",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Mobilicorpus",
+      "use": "Move corpos",
+      "id": "mobilicorpus",
+      "name": "Feitiço de Transporte de Corpos",
+      "incantation": "Mobilicorpus",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Confringo",
+      "use": "Explode objetos em chamas",
+      "id": "confringo",
+      "name": "Feitiço Detonador",
+      "incantation": "Confringo",
+      "category": "Maldição",
+      "creator": "Desconhecido",
+      "light_color": "Laranja (Fogo)"
+    },
+    {
+      "spell": "Densaugeo",
+      "use": "Faz os dentes crescerem rapidamente",
+      "id": "densaugeo",
+      "name": "Feitiço de Crescimento Dentário",
+      "incantation": "Densaugeo",
+      "category": "Azaração",
+      "creator": "Desconhecido",
+      "light_color": "Roxa"
+    },
+    {
+      "spell": "Incarcarous",
+      "use": "Amarra alguém com cordas",
+      "id": "incarcerous",
+      "name": "Feitiço de Prisão de Cordas",
+      "incantation": "Incarcerous",
+      "category": "Conjuração",
+      "creator": "Desconhecido",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Deletrius",
+      "use": "Ignora os efeitos do Prior Incantato",
+      "id": "deletrius",
+      "name": "Feitiço Apagador",
+      "incantation": "Deletrius",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Incolor"
+    },
+    {
+      "spell": "Rictusempra",
+      "use": "Feitiço de cócegas",
+      "id": "rictusempra",
+      "name": "Feitiço das Cócegas",
+      "incantation": "Rictusempra",
+      "category": "Encantamento",
+      "creator": "Desconhecido",
+      "light_color": "Prateada"
+    },
+    {
+      "spell": "Petrificus Totalus",
+      "use": "Torna o alvo completamente imóvel",
+      "id": "petrificus_totalus",
+      "name": "Feitiço do Corpo Preso",
+      "incantation": "Petrificus Totalus",
+      "category": "Maldição",
+      "creator": "Desconhecido",
+      "light_color": "Branca"
+    },
+    {
+      "spell": "Fiendfyre Curse",
+      "use": "Faz fogo amaldiçoado",
+      "id": "fiendfyre",
+      "name": "Fogo Maldito",
+      "incantation": "Desconhecida",
+      "category": "Maldição Avançada",
+      "creator": "Desconhecido",
+      "light_color": "Chamas vermelhas/alaranjadas escuras"
+    },
+    {
+      "spell": "Tarantallegra",
+      "use": "Força o alvo a dançar",
+      "id": "tarantallegra",
+      "name": "Feitiço da Dança",
+      "incantation": "Tarantallegra",
+      "category": "Encantamento",
+      "creator": "Inventado na Itália (79 d.C.)",
+      "light_color": "Azul / Roxa"
+    },
+    {
+      "spell": "Morsmordre",
+      "use": "Conjura a Marca Negra",
+      "id": "morsmordre",
+      "name": "Conjuração da Marca Negra",
+      "incantation": "Morsmordre",
+      "category": "Magia das Trevas",
+      "creator": "Lord Voldemort",
+      "light_color": "Verde esmeralda"
+    },
+    {
+      "spell": "Sectumsempra",
+      "use": "Causa lacerações graves",
+      "id": "sectumsempra",
+      "name": "Feitiço de Laceração",
+      "incantation": "Sectumsempra",
+      "category": "Maldição",
+      "creator": "Severo Snape",
+      "light_color": "Branca"
+    },
+    {
+      "spell": "Crucio",
+      "use": "Causa imensa dor",
+      "id": "crucio",
+      "name": "Maldição Cruciatus",
+      "incantation": "Crucio",
+      "category": "Maldição Imperdoável",
+      "creator": "Bruxos das Trevas da Idade Média",
+      "light_color": "Vermelha / Rosa intensa"
+    }
+  ]
+}

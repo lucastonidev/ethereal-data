@@ -1,0 +1,1113 @@
+{
+  "metadata": {
+    "id": "sorting-hat",
+    "title": "The Sorting Hat",
+    "category": "sorting",
+    "badge": "Official",
+    "questionCount": 50,
+    "estimatedTime": "10 min",
+    "description": "O grande teste oficial do Ethereal Grimoire. Responda a questões profundas sobre como você reage a diferentes situações e descubra a qual casa de Hogwarts você pertence."
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Quando você precisa tomar uma decisão importante sob pressão, o que mais pesa na sua mente?",
+      "answers": [
+        {
+          "text": "A necessidade de agir logo, mesmo sem todas as garantias.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "O impacto que minha decisão terá nas pessoas ao meu redor.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Entender o máximo possível antes de escolher.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Qual escolha pode me colocar em uma posição mais vantajosa.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "question": "Quando alguém te subestima, qual tende a ser sua reação interna?",
+      "answers": [
+        {
+          "text": "Sinto vontade de provar meu valor na hora.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Prefiro manter a calma e continuar fazendo minha parte.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Analiso por que a pessoa pensa assim e como posso mudar isso.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Transformo isso em motivação para me destacar depois.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "question": "Em momentos de conflito, o que mais orienta seu comportamento?",
+      "answers": [
+        {
+          "text": "A coragem de confrontar o problema diretamente.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "O desejo de preservar vínculos e agir com justiça.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "A busca por compreender todos os lados antes de reagir.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "A leitura estratégica do que pode ser ganho ou perdido.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "question": "O que costuma te dar mais satisfação pessoal?",
+      "answers": [
+        {
+          "text": "Sentir que fui firme diante de algo desafiador.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Saber que fui confiável e útil para alguém.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Perceber que aprendi algo novo e ampliei minha visão.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Alcançar um objetivo importante com inteligência.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "question": "Quando você entra em um ambiente novo, o que seu cérebro faz primeiro?",
+      "answers": [
+        {
+          "text": "Procura entender onde preciso me posicionar sem hesitar.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Observa como se conectar e conviver bem com as pessoas.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Analisa o contexto, as regras e a dinâmica do lugar.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Identifica rapidamente quem tem influência e como isso funciona.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "question": "Se um amigo cola em uma prova importante e você descobre, o que você faz?",
+      "answers": [
+        {
+          "text": "Confronto-o diretamente e digo que ele está errado.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Tento entender o motivo e o ajudo a estudar para a próxima.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Aviso que ele não aprendeu nada e as consequências virão.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Guardo a informação; pode ser útil no futuro.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "question": "Qual dessas qualidades você mais despreza nos outros?",
+      "answers": [
+        {
+          "text": "Covardia.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Egoísmo.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Ignorância orgulhosa.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Mediocridade.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "question": "Você encontra um feitiço não catalogado em um livro antigo. O que faz?",
+      "answers": [
+        {
+          "text": "Testo imediatamente para ver o que acontece.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Mostro a um professor de confiança para garantir que é seguro.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Estudo suas raízes linguísticas e teóricas antes de tentar.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Pratico em segredo para ter uma vantagem exclusiva.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "question": "Durante um trabalho em grupo, qual é o seu papel?",
+      "answers": [
+        {
+          "text": "Aquele que toma a frente e direciona a ação.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Aquele que garante que todos estejam bem e participando.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Aquele que faz a pesquisa mais difícil e complexa.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Aquele que organiza tudo para garantir a nota máxima.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "question": "Se o castelo estivesse pegando fogo, o que você salvaria primeiro?",
+      "answers": [
+        {
+          "text": "A primeira pessoa que eu visse em perigo.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Os animais de estimação e estudantes mais novos.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Um grimório milenar insubstituível.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Meus pertences mágicos mais valiosos.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "question": "Como você prefere ser lembrado pela história?",
+      "answers": [
+        {
+          "text": "O Corajoso.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "O Bom.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "O Sábio.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "O Grande.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "question": "Qual poção você escolheria criar, se pudesse?",
+      "answers": [
+        {
+          "text": "Uma poção que garantisse força e coragem inabaláveis.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Uma poção da cura absoluta para todos os males.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Uma poção que expandisse a inteligência além dos limites.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Uma poção de persuasão invencível.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "question": "Qual caminho você pegaria em uma floresta escura?",
+      "answers": [
+        {
+          "text": "A trilha estreita e iluminada por estranhos brilhos vermelhos.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "O caminho de terra batida que parece acolhedor.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "A trilha coberta de folhas com sons de sussurros antigos.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "O caminho sombrio onde as sombras parecem se mover.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "question": "Você se depara com um bicho-papão. Qual forma ele tomaria?",
+      "answers": [
+        {
+          "text": "Eu mesmo, falhando ou agindo como um covarde.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Meus entes queridos me abandonando.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Um boletim cheio de notas horríveis ou um enigma sem solução.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "A humilhação pública e a perda de todo o meu poder.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "question": "No xadrez bruxo, qual peça você seria?",
+      "answers": [
+        {
+          "text": "O Cavalo, avançando agressivamente.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "O Peão, protegendo a linha de frente.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "O Bispo, atacando em ângulos inesperados.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "A Rainha, dominando todo o tabuleiro.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "question": "Você descobre uma porta trancada em Hogwarts. O que faz?",
+      "answers": [
+        {
+          "text": "Derrubo a porta, deve haver algo interessante lá.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Ignoro, se está trancada é por um bom motivo.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Procuro a chave ou o encantamento exato para abri-la sem danos.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Arrombo silenciosamente para ver o que estão escondendo de mim.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "question": "Um aluno mais novo está sofrendo bullying. Qual é a sua ação?",
+      "answers": [
+        {
+          "text": "Enfrento o valentão na frente de todos.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Consolo o aluno mais novo e procuro ajuda de um professor.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Uso um feitiço engenhoso para dar uma lição no valentão secretamente.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Destruo a reputação do valentão para que ele nunca mais faça isso.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "question": "O que você mais espera aprender em Hogwarts?",
+      "answers": [
+        {
+          "text": "Duelos e magias de defesa avançadas.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Trato das criaturas mágicas e herbologia.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Todos os segredos, feitiços ocultos e a história do castelo.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Magia capaz de dobrar a realidade e as pessoas à minha vontade.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "question": "O Chapéu Seletor está em dúvida. O que você diz a ele?",
+      "answers": [
+        {
+          "text": "'Coloque-me onde houver a maior aventura.'",
+          "house": "gryffindor"
+        },
+        {
+          "text": "'Onde eu puder ser mais útil.'",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "'Onde os maiores desafios intelectuais estiverem.'",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "'Onde eu puder alcançar a verdadeira grandeza.'",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "question": "Qual seria seu animal de estimação em Hogwarts?",
+      "answers": [
+        {
+          "text": "Um cão corajoso ou um falcão.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Um sapo leal ou um pelúcio amigável.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Uma coruja muito inteligente.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Um gato preto astuto ou uma cobra.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q21",
+      "question": "Você recebe uma poção Veritaserum (soro da verdade). O que faz com ela?",
+      "answers": [
+        {
+          "text": "Bebo eu mesmo para provar minha honestidade em uma acusação.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Jogo fora; invadir a mente de alguém assim é errado.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Analiso seus componentes para descobrir como replicá-la.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Guardo para usar em alguém no momento perfeito.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q22",
+      "question": "O que você acha das regras de Hogwarts?",
+      "answers": [
+        {
+          "text": "Elas existem para serem quebradas se a causa for boa.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Elas são essenciais para manter todos seguros.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Algumas são lógicas, outras são tolas e podem ser contornadas.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Elas se aplicam à maioria, mas exceções podem ser feitas para os mais espertos.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q23",
+      "question": "Onde você passaria seu tempo livre no castelo?",
+      "answers": [
+        {
+          "text": "Voando pelo campo de Quadribol.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Nas cozinhas ou estufas ajudando.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Escondido em um canto isolado da biblioteca.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Na sala comunal, construindo alianças com outros alunos.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q24",
+      "question": "Qual destas palavras mais te atrai?",
+      "answers": [
+        {
+          "text": "Ousadia.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Companheirismo.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Descoberta.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Poder.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q25",
+      "question": "Qual seria seu pior pesadelo?",
+      "answers": [
+        {
+          "text": "Ficar paralisado e não conseguir ajudar alguém.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Ser odiado e isolado por todos.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Ser considerado estúpido ou perder minha memória.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Ser esquecido pela história como alguém insignificante.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q26",
+      "question": "Você tem um final de semana livre em Hogsmeade. Para onde vai?",
+      "answers": [
+        {
+          "text": "Explorar a Casa dos Gritos, mesmo sendo perigoso.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Três Vassouras para tomar Cerveja Amanteigada com meus amigos.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Dedos de Mel, para comprar doces com efeitos mágicos intrigantes.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Borgin & Burkes, para ver itens raros e proibidos.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q27",
+      "question": "O que você vê no Espelho de Ojesed?",
+      "answers": [
+        {
+          "text": "Eu derrotando um grande mal.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Eu cercado pela minha família e amigos, felizes.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Eu inventando um feitiço que muda o mundo mágico.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Eu sendo aplaudido e reverenciado por todos.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q28",
+      "question": "Qual instrumento musical mais te agrada?",
+      "answers": [
+        {
+          "text": "O tambor retumbante.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "A flauta doce.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "O piano clássico.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "O violino melancólico.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q29",
+      "question": "A cor que mais te atrai é:",
+      "answers": [
+        {
+          "text": "Vermelho ardente.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Amarelo vibrante.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Azul profundo.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Verde esmeralda.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q30",
+      "question": "Um dementador se aproxima. Qual lembrança você usa para o Patrono?",
+      "answers": [
+        {
+          "text": "Uma vez que venci um grande desafio contra todas as probabilidades.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Um momento de pura paz e risadas com minha família.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "O dia em que resolvi um problema que ninguém mais conseguia.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "O momento de maior triunfo e sucesso da minha vida.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q31",
+      "question": "Como você lida com a pressão dos N.O.M.s?",
+      "answers": [
+        {
+          "text": "Mergulho de cabeça nos estudos práticos e durmo pouco.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Crio cronogramas e estudo em grupo para nos apoiarmos.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Já venho lendo a matéria desde o ano passado, estou tranquilo.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Foco intensamente no que sei que os examinadores valorizam.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q32",
+      "question": "Qual artefato mágico você escolheria?",
+      "answers": [
+        {
+          "text": "A Espada de Gryffindor.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "O Vira-Tempo.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "A Penseira.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "O Diadema de Ravenclaw.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q33",
+      "question": "Como você reage a um professor severo e injusto?",
+      "answers": [
+        {
+          "text": "Bato de frente se ele ofender alguém.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Abaixo a cabeça e faço o trabalho para evitar problemas.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Corrijo-o sutilmente usando fatos dos livros.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Conquisto a confiança dele para me tornar seu favorito.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q34",
+      "question": "O que faz de alguém um grande bruxo?",
+      "answers": [
+        {
+          "text": "Usar seus poderes para lutar pelo que é certo.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Ajudar os outros e curar o mundo ao seu redor.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Expandir as fronteiras da magia conhecida.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Saber que magia é poder, e usar isso para deixar um legado.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q35",
+      "question": "O Chapéu Seletor pondera sobre seu futuro. Qual aviso ele te daria?",
+      "answers": [
+        {
+          "text": "'Controle sua impulsividade antes que ela te machuque.'",
+          "house": "gryffindor"
+        },
+        {
+          "text": "'Não deixe que tirem vantagem do seu coração bom.'",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "'Lembre-se que o mundo não acontece só nos livros.'",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "'Cuidado para não perder amigos na sua busca por poder.'",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q36",
+      "question": "Qual a sua opinião sobre as Artes das Trevas?",
+      "answers": [
+        {
+          "text": "Devem ser combatidas a todo custo.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "São cruéis e não deveriam sequer ser ensinadas.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Fascinantes do ponto de vista teórico, precisam ser compreendidas.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Uma ferramenta poderosa, se você for forte o suficiente para controlá-la.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q37",
+      "question": "Você acha uma pena de repetição rápida mágica. Como a usa?",
+      "answers": [
+        {
+          "text": "Escrevo manifestos para defender o que acredito.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Uso para redigir cartas para todos os meus amigos.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Tiro anotações de três aulas simultaneamente.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Uso-a para fazer as tarefas e ganho tempo para coisas úteis.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q38",
+      "question": "Sua casa está perdendo pontos. Como você reage?",
+      "answers": [
+        {
+          "text": "Faço um grande ato heróico para recuperar tudo de uma vez.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Incentivo todos a colaborarem nas tarefas do dia a dia.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Respondo todas as perguntas nas aulas para ganhar bônus.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Saboto os alunos das outras casas para eles perderem mais.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q39",
+      "question": "Qual criatura você gostaria de estudar?",
+      "answers": [
+        {
+          "text": "Um Dragão.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Um Pufoso.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Um Hipogrifo.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Um Basilisco.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q40",
+      "question": "Você recebe um mapa secreto do castelo. O que faz primeiro?",
+      "answers": [
+        {
+          "text": "Vou explorar as passagens perigosas à meia-noite.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Mostro aos meus amigos para não me perder nas aulas.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Decoro as rotas para otimizar meu tempo no castelo.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Uso para andar sem ser detectado pelos monitores.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q41",
+      "question": "O que você acha do jogo de Quadribol?",
+      "answers": [
+        {
+          "text": "Amo a adrenalina! Eu seria um Apanhador ou Batedor.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Gosto do trabalho em equipe. Um Artilheiro, talvez?",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Prefiro analisar táticas das arquibancadas.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Jogo para vencer e trazer glória para a minha casa.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q42",
+      "question": "Qual poção você consideraria a mais perigosa?",
+      "answers": [
+        {
+          "text": "Poção do Morto-Vivo (sono profundo).",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Amortentia (obsessão).",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Poção do Esquecimento.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Veritaserum (revelação de segredos).",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q43",
+      "question": "No Torneio Tribruxo, qual desafio te assustaria menos?",
+      "answers": [
+        {
+          "text": "Enfrentar o dragão.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Ajudar um amigo no Lago Negro.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Resolver os enigmas do labirinto.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Não me assustaria; eu entraria para ganhar.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q44",
+      "question": "Você acha que a magia deve ser mantida em segredo dos trouxas?",
+      "answers": [
+        {
+          "text": "Não se formos usá-la para proteger o mundo inteiro.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Sim, é mais seguro para os dois lados viverem em paz.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Acho que compartilhar conhecimento faria ambas as sociedades evoluírem.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Os trouxas são fracos; nós é que deveríamos governá-los.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q45",
+      "question": "Um feitiço deu errado e seu colega virou um sapo. O que você faz?",
+      "answers": [
+        {
+          "text": "Tento desfazer o feitiço imediatamente.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Corro para a ala hospitalar buscar ajuda.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Analiso a pronúncia errada para entender o efeito.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Acho graça antes de decidir se o ajudo ou não.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q46",
+      "question": "A Floresta Proibida está fora dos limites. O que você acha disso?",
+      "answers": [
+        {
+          "text": "Parece um convite para entrar.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Concordo, as regras nos mantêm a salvo.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Entraria apenas se precisasse coletar ingredientes raros.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Entraria se tivesse certeza de que não seria pego.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q47",
+      "question": "Se pudesse inventar um feitiço, para que ele serviria?",
+      "answers": [
+        {
+          "text": "Um feitiço de desarmamento impossível de bloquear.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Um feitiço que traga comida quente na hora.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Um feitiço que leia e traduza livros automaticamente.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Um feitiço que me torne imune a questionamentos.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q48",
+      "question": "Como você gasta as moedas que ganha?",
+      "answers": [
+        {
+          "text": "Gasto com apostas esportivas e aventuras.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Compro presentes para as pessoas que gosto.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Compro instrumentos e pergaminhos raros.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Invisto ou guardo para comprar itens de alto status.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q49",
+      "question": "No futuro, que carreira você gostaria de seguir?",
+      "answers": [
+        {
+          "text": "Auror.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Magizoologista ou Herbologista.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Pesquisador de Feitiços ou Inominável.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Ministro da Magia.",
+          "house": "slytherin"
+        }
+      ]
+    },
+    {
+      "id": "q50",
+      "question": "O Chapéu Seletor toca a sua cabeça. Qual é seu último pensamento?",
+      "answers": [
+        {
+          "text": "Pronto para qualquer coisa.",
+          "house": "gryffindor"
+        },
+        {
+          "text": "Espero ir para onde ficarei feliz.",
+          "house": "hufflepuff"
+        },
+        {
+          "text": "Espero que seja a decisão mais lógica.",
+          "house": "ravenclaw"
+        },
+        {
+          "text": "Coloque-me onde farei história.",
+          "house": "slytherin"
+        }
+      ]
+    }
+  ]
+}

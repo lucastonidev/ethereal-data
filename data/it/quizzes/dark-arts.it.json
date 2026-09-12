@@ -1,0 +1,293 @@
+{
+  "metadata": {
+    "id": "dark-arts-trivia",
+    "title": "Incantesimi e maledizioni",
+    "category": "spells",
+    "badge": "N.I.E.M.s",
+    "questionCount": 20,
+    "difficulty": "Difficile",
+    "description": "Apenas para bruxos experientes. Um teste rigoroso sobre encantamentos complexos, defesa avançada e as profundezas das artes das trevas."
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "category": "Artes das Trevas",
+      "difficulty": "medium",
+      "question": "Qual é a coloração do lampejo de luz emitido pela Maldição da Morte (Avada Kedavra)?",
+      "options": [
+        "Vermelho sangue",
+        "Verde ofuscante",
+        "Roxo escuro",
+        "Branco prateado"
+      ],
+      "correctAnswer": "Verde ofuscante",
+      "funFact": "O lampejo verde do Avada Kedavra é idêntico à cor da Marca Negra e está associado à casa Sonserina."
+    },
+    {
+      "id": "q2",
+      "category": "Feitiços de Defesa",
+      "difficulty": "easy",
+      "question": "Qual feitiço é usado para repelir um Dementador?",
+      "options": [
+        "Riddikulus",
+        "Protego Maxima",
+        "Expecto Patronum",
+        "Lumos Solem"
+      ],
+      "correctAnswer": "Expecto Patronum",
+      "funFact": "O Patrono é uma projeção de esperança e felicidade que funciona como um escudo contra criaturas das trevas."
+    },
+    {
+      "id": "q3",
+      "category": "Artes das Trevas",
+      "difficulty": "hard",
+      "question": "Quem foi o criador do feitiço 'Sectumsempra'?",
+      "options": [
+        "Lord Voldemort",
+        "Salazar Sonserina",
+        "Severo Snape",
+        "Gellert Grindelwald"
+      ],
+      "correctAnswer": "Severo Snape",
+      "funFact": "Snape criou este feitiço durante seus anos de estudante e o anotou em seu livro de Poções sob o pseudônimo 'Príncipe Mestiço'."
+    },
+    {
+      "id": "q4",
+      "category": "Maldições Imperdoáveis",
+      "difficulty": "medium",
+      "question": "Qual das Maldições Imperdoáveis permite que o lançador controle totalmente as ações da vítima?",
+      "options": [
+        "Maldição Cruciatus",
+        "Maldição Imperius",
+        "Maldição da Morte",
+        "Maldição Confringo"
+      ],
+      "correctAnswer": "Maldição Imperius",
+      "funFact": "Diferente das outras maldições imperdoáveis, a Maldição Imperius pode ser resistida se a vítima tiver uma força de vontade excepcional."
+    },
+    {
+      "id": "q5",
+      "category": "Feitiços de Defesa",
+      "difficulty": "hard",
+      "question": "Qual dos seguintes feitiços NÃO é usado para proteger ou esconder uma área mágica?",
+      "options": [
+        "Cave Inimicum",
+        "Protego Totalum",
+        "Salvio Hexia",
+        "Deletrius"
+      ],
+      "correctAnswer": "Deletrius",
+      "funFact": "Deletrius é usado para apagar imagens ou ilusões conjuradas, como a 'sombra' do último feitiço revelada pelo feitiço Prior Incantato."
+    },
+    {
+      "id": "q6",
+      "category": "Encantamentos",
+      "difficulty": "medium",
+      "question": "O que o feitiço 'Muffliato' faz?",
+      "options": [
+        "Silencia uma pessoa",
+        "Cria um zumbido no ouvido de quem está por perto",
+        "Deixa passos inaudíveis",
+        "Impede que feitiços sejam verbalizados"
+      ],
+      "correctAnswer": "Cria um zumbido no ouvido de quem está por perto",
+      "funFact": "Este é mais um dos feitiços inventados por Severo Snape para que ele e seus amigos pudessem conversar sem serem ouvidos nas aulas."
+    },
+    {
+      "id": "q7",
+      "category": "Artes das Trevas",
+      "difficulty": "hard",
+      "question": "O que a magia 'Morsmordre' conjura?",
+      "options": [
+        "Um enxame de cobras",
+        "Um escudo de trevas",
+        "A Marca Negra",
+        "Fogo Maldito (Fiendfyre)"
+      ],
+      "correctAnswer": "A Marca Negra",
+      "funFact": "A Marca Negra só pode ser conjurada pelos Comensais da Morte mais leais a Voldemort e sempre causa terror onde aparece."
+    },
+    {
+      "id": "q8",
+      "category": "Feitiços Ofensivos",
+      "difficulty": "medium",
+      "question": "A Maldição 'Confringo' também é conhecida como:",
+      "options": [
+        "Maldição Explosiva",
+        "Maldição de Fogo",
+        "Maldição Redutora",
+        "Maldição Desintegradora"
+      ],
+      "correctAnswer": "Maldição Explosiva",
+      "funFact": "Diferente de 'Reducto', que desintegra sólidos, o 'Confringo' explode o alvo e pode causar incêndios mortais."
+    },
+    {
+      "id": "q9",
+      "category": "Magia Avançada",
+      "difficulty": "hard",
+      "question": "O que é necessário para dividir a alma e criar uma Horcrux?",
+      "options": [
+        "Beber sangue de unicórnio",
+        "Cometer um assassinato",
+        "Lançar o feitiço Fiendfyre",
+        "Um sacrifício voluntário"
+      ],
+      "correctAnswer": "Cometer um assassinato",
+      "funFact": "O assassinato rompe a alma do bruxo, permitindo que o feitiço das Horcruxes aprisione a parte fragmentada em um objeto."
+    },
+    {
+      "id": "q10",
+      "category": "Feitiços Ofensivos",
+      "difficulty": "easy",
+      "question": "Qual é a contra-maldição usada para bloquear e refletir feitiços no meio de um duelo?",
+      "options": [
+        "Expelliarmus",
+        "Estupefaça",
+        "Protego",
+        "Impedimenta"
+      ],
+      "correctAnswer": "Protego",
+      "funFact": "Existem versões mais fortes deste feitiço de escudo, como Protego Maxima, usado para defender o castelo de Hogwarts."
+    },
+    {
+      "id": "q11",
+      "category": "Artes das Trevas",
+      "difficulty": "hard",
+      "question": "O Fogo Maldito (Fiendfyre) é um fogo inextinguível que toma forma de feras. Qual das alternativas abaixo o destrói?",
+      "options": [
+        "Feitiço Aguamenti",
+        "Veneno de Basilisco",
+        "Não há contrafeitiço",
+        "O feitiço Finite Incantatem"
+      ],
+      "correctAnswer": "Não há contrafeitiço",
+      "funFact": "Fiendfyre é uma das poucas substâncias poderosas o suficiente para destruir uma Horcrux, mas é quase impossível de ser controlado."
+    },
+    {
+      "id": "q12",
+      "category": "Feitiços",
+      "difficulty": "medium",
+      "question": "O que faz o encantamento 'Levicorpus'?",
+      "options": [
+        "Levita um objeto inanimado",
+        "Levanta a vítima pelo tornozelo",
+        "Faz o lançador flutuar no ar",
+        "Remove o peso de um corpo"
+      ],
+      "correctAnswer": "Levanta a vítima pelo tornozelo",
+      "funFact": "Este feitiço foi criado por Severo Snape e se tornou muito popular em Hogwarts, usado de forma não-verbal pelos alunos."
+    },
+    {
+      "id": "q13",
+      "category": "Defesa Mental",
+      "difficulty": "hard",
+      "question": "A arte mágica de proteger a própria mente contra a intrusão externa e leitura de pensamentos é chamada de:",
+      "options": [
+        "Oclumência",
+        "Legilimência",
+        "Fidelius",
+        "Esquecimento"
+      ],
+      "correctAnswer": "Oclumência",
+      "funFact": "Severo Snape era um mestre em Oclumência, habilidade que o permitiu esconder suas verdadeiras intenções de Voldemort por anos."
+    },
+    {
+      "id": "q14",
+      "category": "Feitiços Mágicos",
+      "difficulty": "medium",
+      "question": "Como se chama a magia secreta que esconde uma informação na própria alma de uma pessoa escolhida?",
+      "options": [
+        "Voto Perpétuo",
+        "Feitiço Fidelius",
+        "Vínculo de Sangue",
+        "Pacto de Silêncio"
+      ],
+      "correctAnswer": "Feitiço Fidelius",
+      "funFact": "Enquanto o 'Fiel do Segredo' não revelar a informação voluntariamente, ela permanecerá oculta, mesmo sob tortura."
+    },
+    {
+      "id": "q15",
+      "category": "Magia Diária",
+      "difficulty": "easy",
+      "question": "Qual maldição menor é utilizada para paralisar completamente o corpo de um alvo?",
+      "options": [
+        "Petrificus Totalus",
+        "Locomotor Mortis",
+        "Tarantallegra",
+        "Impedimenta"
+      ],
+      "correctAnswer": "Petrificus Totalus",
+      "funFact": "Também conhecida como Feitiço do Corpo Preso, foi usada por Hermione em Neville Longbottom durante o primeiro ano."
+    },
+    {
+      "id": "q16",
+      "category": "Artes das Trevas",
+      "difficulty": "hard",
+      "question": "O que o feitiço 'Crucio' exige do seu lançador para funcionar corretamente?",
+      "options": [
+        "Raiva descontrolada",
+        "O desejo genuíno de causar dor",
+        "Muita energia vital",
+        "Ódio por si mesmo"
+      ],
+      "correctAnswer": "O desejo genuíno de causar dor",
+      "funFact": "Como Bellatrix Lestrange explicou a Harry Potter, apenas sentir raiva justa não é suficiente para a Maldição Cruciatus funcionar."
+    },
+    {
+      "id": "q17",
+      "category": "Feitiços de Cura",
+      "difficulty": "medium",
+      "question": "Qual encantamento de cura é usado para consertar narizes quebrados ou pequenos ferimentos?",
+      "options": [
+        "Episkey",
+        "Reparo",
+        "Ferula",
+        "Vulnera Sanentur"
+      ],
+      "correctAnswer": "Episkey",
+      "funFact": "Foi usado por Ninfadora Tonks para consertar o nariz de Harry no Expresso de Hogwarts durante o sexto ano."
+    },
+    {
+      "id": "q18",
+      "category": "Defesa",
+      "difficulty": "medium",
+      "question": "Qual feitiço invoca o formato de um escudo sólido capaz de repelir tanto maldições quanto ataques físicos menores?",
+      "options": [
+        "Salvio Hexia",
+        "Protego",
+        "Cave Inimicum",
+        "Impedimenta"
+      ],
+      "correctAnswer": "Protego",
+      "funFact": "Harry Potter usou este feitiço tão bem que chegou a dar aulas para outros membros do Ministério da Magia que não conseguiam conjurá-lo."
+    },
+    {
+      "id": "q19",
+      "category": "Artes das Trevas",
+      "difficulty": "hard",
+      "question": "Qual feitiço Antonin Dolohov usou em Hermione no Departamento de Mistérios, que deixou uma cicatriz transversal e quase a matou?",
+      "options": [
+        "Sectumsempra",
+        "Uma maldição não-verbal desconhecida",
+        "Avada Kedavra enfraquecida",
+        "Confringo"
+      ],
+      "correctAnswer": "Uma maldição não-verbal desconhecida",
+      "funFact": "Como Dolohov estava sob o feitiço Silencio, ele lançou a maldição não-verbalmente, o que provavelmente salvou a vida de Hermione ao reduzir seu poder."
+    },
+    {
+      "id": "q20",
+      "category": "Feitiços",
+      "difficulty": "easy",
+      "question": "Qual é a magia usada para apagar as memórias de um indivíduo?",
+      "options": [
+        "Confundo",
+        "Legilimens",
+        "Obliviate",
+        "Imperio"
+      ],
+      "correctAnswer": "Obliviate",
+      "funFact": "Gilderoy Lockhart fez sua carreira roubando os feitos de outros bruxos heroicos e apagando suas memórias com esse feitiço."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "books": [
+    {
+      "number": 1,
+      "title": "Гаррі Поттер і філософський камінь",
+      "originalTitle": "Harry Potter and the Sorcerer's Stone",
+      "releaseDate": "Jun 26, 1997",
+      "description": "У свій день народження Гаррі Поттер дізнається, що він син двох відомих чарівників, від яких успадкував магічні здібності. Він має відвідувати знамениту школу магії, де знаходить друзів, які стануть його супутниками у пригодах. Під час першого року в Гоґвортсі він дізнається, що зловісний та могутній чарівник на ім'я Волдеморт шукає філософський камінь, який продовжує життя його власнику.",
+      "pages": 223,
+      "cover": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/1.png"
+    },
+    {
+      "number": 2,
+      "title": "Гаррі Поттер і Таємна Кімната",
+      "originalTitle": "Harry Potter and the Chamber of Secrets",
+      "releaseDate": "Jul 2, 1998",
+      "description": "Гаррі Поттер разом із друзями досліджує зловісну загрозу для учнів Гоґвортсу — небезпечну істоту, яка ховається в замку.",
+      "pages": 251,
+      "cover": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/2.png"
+    },
+    {
+      "number": 3,
+      "title": "Гаррі Поттер і в'язень Азкабану",
+      "originalTitle": "Harry Potter and the Prisoner of Azkaban",
+      "releaseDate": "Jul 8, 1999",
+      "description": "Третій рік навчання Гаррі в Гоґвортсі під загрозою через втечу Сіріуса Блека з в'язниці Азкабан. Здається, що він є небезпечним чарівником, який був спільником Волдеморта та планує помститися Гаррі Поттеру.",
+      "pages": 317,
+      "cover": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/3.png"
+    },
+    {
+      "number": 4,
+      "title": "Гаррі Поттер і Келих вогню",
+      "originalTitle": "Harry Potter and the Goblet of Fire",
+      "releaseDate": "Jul 8, 2000",
+      "description": "Гоґвортс готується до Турніру Трьох Чарівників, у якому змагаються три школи магії. На подив усіх, Гаррі Поттера обирають для участі в турнірі, де він має битися з драконами, пірнати у воду та долати свої найбільші страхи.",
+      "pages": 636,
+      "cover": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/4.png"
+    },
+    {
+      "number": 5,
+      "title": "Гаррі Поттер і Орден Фенікса",
+      "originalTitle": "Harry Potter and the Order of the Phoenix",
+      "releaseDate": "Jun 21, 2003",
+      "description": "На п'ятому році в Гоґвортсі Гаррі дізнається, що багато чарівників не знають правди про його зустріч із Волдемортом. Міністр магії Корнеліус Фадж призначає Долорес Амбридж вчителькою захисту від темних мистецтв, оскільки вважає, що професор Дамблдор хоче зайняти його місце. Але її навчання є неефективним, тому Гаррі готує учнів до захисту школи від зла.",
+      "pages": 766,
+      "cover": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/5.png"
+    },
+    {
+      "number": 6,
+      "title": "Гаррі Поттер і Напівкровний Принц",
+      "originalTitle": "Harry Potter and the Half-Blood Prince",
+      "releaseDate": "Jul 16, 2005",
+      "description": "Гаррі знаходить могутню книгу і, намагаючись дізнатися про її походження, співпрацює з Дамблдором у пошуках серії магічних об'єктів, які допоможуть знищити Волдеморта.",
+      "pages": 607,
+      "cover": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/6.png"
+    },
+    {
+      "number": 7,
+      "title": "Гаррі Поттер і Смертельні реліквії",
+      "originalTitle": "Harry Potter and the Deathly Hallows",
+      "releaseDate": "Jul 21, 2007",
+      "description": "Гаррі, Рон і Герміона вирушають у небезпечну місію, щоб знайти й знищити секрет безсмертя Волдеморта — горокракси. Без допомоги вчителів і захисту Дамблдора троє друзів мають покладатися один на одного більше, ніж будь-коли. Але Темні сили загрожують їхньому єднанню. Гаррі Поттер наближається до завдання, до якого готувався з першого дня в Гоґвортсі: останнього бою з Волдемортом.",
+      "pages": 607,
+      "cover": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/7.png"
+    },
+    {
+      "number": 8,
+      "title": "Гаррі Поттер і прокляте дитя",
+      "originalTitle": "Harry Potter and the Cursed Child",
+      "releaseDate": "Jul 30, 2016",
+      "description": "Другий син Гаррі вступив до Гоґвортсу, але в Слизерин. Його стосунки з батьком погіршуються, і він здружується із сином Драко Мелфоя — Скорпіусом, якого підозрюють у тому, що він син Волдеморта.",
+      "pages": 336,
+      "cover": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/8.png"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "houses": [
+    {
+      "house": "Gryffondor",
+      "emoji": "🦁",
+      "founder": "Godric Gryffondor",
+      "colors": {
+        "name": [
+          "rouge",
+          "or"
+        ],
+        "hex": [
+          "#7F0909",
+          "#FFC500"
+        ]
+      },
+      "animal": "Lion",
+      "id": "gryffindor",
+      "element": "Feu",
+      "traits": [
+        "Courage",
+        "Bravoure",
+        "Détermination",
+        "Chevalerie"
+      ],
+      "description": "Maison des nobles et des audacieux, elle valorise les actes héroïques et la fermeté morale dans les moments critiques.",
+      "ghost": "Nick Quasi-Sans-Tête",
+      "relic": "Épée de Godric Gryffondor",
+      "common_room": {
+        "location": "Tour de Gryffondor (7e étage)",
+        "access": "Un mot de passe prononcé devant le portrait de la Grosse Dame"
+      },
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/houses/gryffindor.png"
+    },
+    {
+      "house": "Poufsouffle",
+      "emoji": "🦡",
+      "founder": "Helga Poufsouffle",
+      "colors": {
+        "name": [
+          "jaune",
+          "noir"
+        ],
+        "hex": [
+          "#ECB939",
+          "#000000"
+        ]
+      },
+      "animal": "Blaireau",
+      "id": "hufflepuff",
+      "element": "Terre",
+      "traits": [
+        "Loyauté",
+        "Travail acharné",
+        "Patience",
+        "Justice"
+      ],
+      "description": "Elle accueille les justes et les loyaux, en privilégiant la constance, la camaraderie et l’effort honnête.",
+      "ghost": "Le Moine Gras",
+      "relic": "Coupe de Helga Poufsouffle",
+      "common_room": {
+        "location": "Près des cuisines de Poudlard",
+        "access": "Frapper rythmiquement sur le bon tonneau (au rythme de « Helga Poufsouffle »)"
+      },
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/houses/hufflepuff.png"
+    },
+    {
+      "house": "Serdaigle",
+      "emoji": "🦅",
+      "founder": "Rowena Serdaigle",
+      "colors": {
+        "name": [
+          "bleu",
+          "bronze"
+        ],
+        "hex": [
+          "#0E1A40",
+          "#946B2D"
+        ]
+      },
+      "animal": "Corbeau",
+      "id": "ravenclaw",
+      "element": "Air",
+      "traits": [
+        "Intelligence",
+        "Sagesse",
+        "Créativité",
+        "Curiosité"
+      ],
+      "description": "Maison des penseurs et des esprits curieux, elle célèbre la vivacité d’esprit, l’originalité et l’intellect ouvert.",
+      "ghost": "La Dame Grise (Helena Serdaigle)",
+      "relic": "Diadème de Rowena Serdaigle",
+      "common_room": {
+        "location": "Tour de Serdaigle (côté ouest)",
+        "access": "Répondre correctement à une énigme philosophique posée par le heurtoir en forme d’aigle"
+      },
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/houses/ravenclaw.png"
+    },
+    {
+      "house": "Serpentard",
+      "emoji": "🐍",
+      "founder": "Salazar Serpentard",
+      "colors": {
+        "name": [
+          "vert",
+          "argent"
+        ],
+        "hex": [
+          "#1A472A",
+          "#AAAAAA"
+        ]
+      },
+      "animal": "Serpent",
+      "id": "slytherin",
+      "element": "Eau",
+      "traits": [
+        "Ambition",
+        "Ruse",
+        "Leadership",
+        "Préservation de soi"
+      ],
+      "description": "Destinée aux déterminés et aux stratèges, où l’ingéniosité et la quête de grandeur façonnent le chemin.",
+      "ghost": "Le Baron Sanglant",
+      "relic": "Médaillon de Salazar Serpentard",
+      "common_room": {
+        "location": "Les cachots (sous le lac Noir)",
+        "access": "Un mot de passe prononcé devant un mur de pierre nue"
+      },
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/houses/slytherin.png"
+    }
+  ]
+}

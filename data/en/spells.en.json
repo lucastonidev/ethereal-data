@@ -1,0 +1,724 @@
+{
+  "spells": [
+    {
+      "spell": "Accio",
+      "use": "Summoning charm",
+      "id": "accio",
+      "name": "Spell Accio",
+      "incantation": "Accio",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Glisseo",
+      "use": "Turns a staircase into a slide",
+      "id": "glisseo",
+      "name": "Spell Glisseo",
+      "incantation": "Glisseo",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Impervius",
+      "use": "Protects caster from a variety of substances, including water and fire",
+      "id": "impervius",
+      "name": "Spell Impervius",
+      "incantation": "Impervius",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Wingardium Leviosa/Locomotor",
+      "use": "Levitates objects",
+      "id": "wingardium_leviosa",
+      "name": "Spell Wingardium Leviosa/Locomotor",
+      "incantation": "Wingardium Leviosa/Locomotor",
+      "category": "Charm",
+      "creator": "Jarlev Forge (1544)",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Scourgify",
+      "use": "Cleans things",
+      "id": "scourgify",
+      "name": "Spell Scourgify",
+      "incantation": "Scourgify",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Portus",
+      "use": "Creates a portkey",
+      "id": "portus",
+      "name": "Spell Portus",
+      "incantation": "Portus",
+      "category": "Charm",
+      "creator": "Unknown (Regulado pelo Ministério)",
+      "light_color": "Blue"
+    },
+    {
+      "spell": "Orchideous",
+      "use": "Grows flowers from end of wand",
+      "id": "orchideous",
+      "name": "Spell Orchideous",
+      "incantation": "Orchideous",
+      "category": "Conjuration",
+      "creator": "Unknown",
+      "light_color": "Pink"
+    },
+    {
+      "spell": "Lumos",
+      "use": "Makes wand emit light",
+      "id": "lumos",
+      "name": "Spell Lumos",
+      "incantation": "Lumos",
+      "category": "Charm",
+      "creator": "Levina Monkstanley (1772)",
+      "light_color": "White"
+    },
+    {
+      "spell": "Reparo",
+      "use": "Repairs broken objects",
+      "id": "reparo",
+      "name": "Spell Reparo",
+      "incantation": "Reparo",
+      "category": "Charm",
+      "creator": "Orabella Nuttley (1754)",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Reducio",
+      "use": "Shrinks objects",
+      "id": "reducio",
+      "name": "Spell Reducio",
+      "incantation": "Reducio",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Purple"
+    },
+    {
+      "spell": "Pack",
+      "use": "Packs trunks and luggage",
+      "id": "pack",
+      "name": "Spell Pack",
+      "incantation": "Pack",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Riddikulus",
+      "use": "Transforms Boggarts into a humorous shape",
+      "id": "riddikulus",
+      "name": "Spell Riddikulus",
+      "incantation": "Riddikulus",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Protego",
+      "use": "Shields caster from curses",
+      "id": "protego",
+      "name": "Spell Protego",
+      "incantation": "Protego",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Blue"
+    },
+    {
+      "spell": "Muffliato",
+      "use": "Keeps others nearby from overhearing conversations",
+      "id": "muffliato",
+      "name": "Spell Muffliato",
+      "incantation": "Muffliato",
+      "category": "Charm",
+      "creator": "Severus Snape",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Silencio/Langlock",
+      "use": "Stops someone from talking (by sticking one's tongue to the roof of his/her mouth)",
+      "id": "langlock",
+      "name": "Spell Silencio/Langlock",
+      "incantation": "Silencio/Langlock",
+      "category": "Jinx",
+      "creator": "Severus Snape",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Expelliarmus",
+      "use": "Disarming Charm",
+      "id": "expelliarmus",
+      "name": "Spell Expelliarmus",
+      "incantation": "Expelliarmus",
+      "category": "Charm",
+      "creator": "Elizabeth Smudgling (1379)",
+      "light_color": "Red"
+    },
+    {
+      "spell": "Oblivate",
+      "use": "Erases memories",
+      "id": "obliviate",
+      "name": "Spell Oblivate",
+      "incantation": "Oblivate",
+      "category": "Charm",
+      "creator": "Mnemone Radford",
+      "light_color": "Green"
+    },
+    {
+      "spell": "Episkey",
+      "use": "Heals minor injuries",
+      "id": "episkey",
+      "name": "Spell Episkey",
+      "incantation": "Episkey",
+      "category": "Healing Spell",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Tergeo",
+      "use": "Cleans off surfaces",
+      "id": "tergeo",
+      "name": "Spell Tergeo",
+      "incantation": "Tergeo",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Relashio",
+      "use": "Forces target to let go of whatever they're holding",
+      "id": "relashio",
+      "name": "Spell Relashio",
+      "incantation": "Relashio",
+      "category": "Jinx",
+      "creator": "Unknown",
+      "light_color": "Purple"
+    },
+    {
+      "spell": "Confundo",
+      "use": "Causes confusions and makes others easily susceptible to influence",
+      "id": "confundo",
+      "name": "Spell Confundo",
+      "incantation": "Confundo",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Pink"
+    },
+    {
+      "spell": "Expecto Patronum",
+      "use": "Patronus Charm",
+      "id": "expecto_patronum",
+      "name": "Spell Expecto Patronum",
+      "incantation": "Expecto Patronum",
+      "category": "Charm",
+      "creator": "Unknown (Magia Antiga)",
+      "light_color": "Silver"
+    },
+    {
+      "spell": "Ferula",
+      "use": "Conjures bandages",
+      "id": "ferula",
+      "name": "Spell Ferula",
+      "incantation": "Ferula",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Evanesco",
+      "use": "Vanishing spell",
+      "id": "evanesco",
+      "name": "Spell Evanesco",
+      "incantation": "Evanesco",
+      "category": "Transfiguration",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Alohomora",
+      "use": "Opens locks",
+      "id": "alohomora",
+      "name": "Spell Alohomora",
+      "incantation": "Alohomora",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Blue"
+    },
+    {
+      "spell": "Nox",
+      "use": "Turns off lumos",
+      "id": "nox",
+      "name": "Spell Nox",
+      "incantation": "Nox",
+      "category": "Charm",
+      "creator": "Levina Monkstanley (presumido)",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Quietus",
+      "use": "Quiets magically amplified voice",
+      "id": "quietus",
+      "name": "Spell Quietus",
+      "incantation": "Quietus",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Incendio",
+      "use": "Creates fire",
+      "id": "incendio",
+      "name": "Spell Incendio",
+      "incantation": "Incendio",
+      "category": "Conjuration",
+      "creator": "Unknown",
+      "light_color": "Orange"
+    },
+    {
+      "spell": "Homenum Revelio",
+      "use": "Reveal people nearby",
+      "id": "homenum_revelio",
+      "name": "Spell Homenum Revelio",
+      "incantation": "Homenum Revelio",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Prior Incantato",
+      "use": "Reveals last spell cast",
+      "id": "prior_incantato",
+      "name": "Spell Prior Incantato",
+      "incantation": "Prior Incantato",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Gold"
+    },
+    {
+      "spell": "Finite Incantatem",
+      "use": "Negates the effects of many spells",
+      "id": "finite_incantatem",
+      "name": "Spell Finite Incantatem",
+      "incantation": "Finite Incantatem",
+      "category": "Counter-spell",
+      "creator": "Unknown",
+      "light_color": "Red"
+    },
+    {
+      "spell": "Erecto",
+      "use": "Erects tents or other structures",
+      "id": "erecto",
+      "name": "Spell Erecto",
+      "incantation": "Erecto",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Diffindo",
+      "use": "Cuts or rips material",
+      "id": "diffindo",
+      "name": "Spell Diffindo",
+      "incantation": "Diffindo",
+      "category": "Charm",
+      "creator": "Delfina Crimp (1400s)",
+      "light_color": "Pink"
+    },
+    {
+      "spell": "Stupefy",
+      "use": "Stuns target",
+      "id": "stupefy",
+      "name": "Spell Stupefy",
+      "incantation": "Stupefy",
+      "category": "Combat Spell",
+      "creator": "Unknown",
+      "light_color": "Red"
+    },
+    {
+      "spell": "Repelo Muggletum",
+      "use": "Repels Muggles",
+      "id": "repello_muggletum",
+      "name": "Spell Repelo Muggletum",
+      "incantation": "Repelo Muggletum",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Avada Kedavra",
+      "use": "The Killing Curse",
+      "id": "avada_kedavra",
+      "name": "Spell Avada Kedavra",
+      "incantation": "Avada Kedavra",
+      "category": "Unforgivable Curse",
+      "creator": "Unknown",
+      "light_color": "Green"
+    },
+    {
+      "spell": "Aguamenti",
+      "use": "Shoot water from wand",
+      "id": "aguamenti",
+      "name": "Spell Aguamenti",
+      "incantation": "Aguamenti",
+      "category": "Conjuration",
+      "creator": "Unknown",
+      "light_color": "Blue"
+    },
+    {
+      "spell": "Geminio",
+      "use": "Creates temporary, worthless duplicate of any object",
+      "id": "geminio",
+      "name": "Spell Geminio",
+      "incantation": "Geminio",
+      "category": "Charm",
+      "creator": "Heliodor Fontanis (presumido)",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Locomotor Mortis",
+      "use": "Leg-lock curse",
+      "id": "locomotor_mortis",
+      "name": "Spell Locomotor Mortis",
+      "incantation": "Locomotor Mortis",
+      "category": "Curse",
+      "creator": "Unknown",
+      "light_color": "Purple"
+    },
+    {
+      "spell": "Anapneo",
+      "use": "Clears someone's airway",
+      "id": "anapneo",
+      "name": "Spell Anapneo",
+      "incantation": "Anapneo",
+      "category": "Healing Spell",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Reducto",
+      "use": "Explodes object",
+      "id": "reducto",
+      "name": "Spell Reducto",
+      "incantation": "Reducto",
+      "category": "Curse",
+      "creator": "Unknown",
+      "light_color": "Blue"
+    },
+    {
+      "spell": "Obscuro",
+      "use": "Blindfolds target",
+      "id": "obscuro",
+      "name": "Spell Obscuro",
+      "incantation": "Obscuro",
+      "category": "Conjuration",
+      "creator": "Unknown",
+      "light_color": "Black"
+    },
+    {
+      "spell": "Impedimenta",
+      "use": "Freezes someone advancing toward you",
+      "id": "impedimenta",
+      "name": "Spell Impedimenta",
+      "incantation": "Impedimenta",
+      "category": "Jinx",
+      "creator": "Unknown",
+      "light_color": "Blue"
+    },
+    {
+      "spell": "Cave Inimicum/Protego Totalum",
+      "use": "Strengthens an area's defenses",
+      "id": "cave_inimicum",
+      "name": "Spell Cave Inimicum/Protego Totalum",
+      "incantation": "Cave Inimicum/Protego Totalum",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Meteolojinx Recanto",
+      "use": "Ends effects of weather spells",
+      "id": "meteolojinx_recanto",
+      "name": "Spell Meteolojinx Recanto",
+      "incantation": "Meteolojinx Recanto",
+      "category": "Counter-spell",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Specialis Revelio",
+      "use": "Reveals hidden magical properties in an object",
+      "id": "specialis_revelio",
+      "name": "Spell Specialis Revelio",
+      "incantation": "Specialis Revelio",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Descendo",
+      "use": "Moves objects downward",
+      "id": "descendo",
+      "name": "Spell Descendo",
+      "incantation": "Descendo",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Blue"
+    },
+    {
+      "spell": "Defodio",
+      "use": "Carves through stone and steel",
+      "id": "defodio",
+      "name": "Spell Defodio",
+      "incantation": "Defodio",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Aparecium",
+      "use": "Make invisible ink appear",
+      "id": "aparecium",
+      "name": "Spell Aparecium",
+      "incantation": "Aparecium",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Piertotum Locomotor",
+      "use": "Animates statues",
+      "id": "piertotum_locomotor",
+      "name": "Spell Piertotum Locomotor",
+      "incantation": "Piertotum Locomotor",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "White"
+    },
+    {
+      "spell": "Imperio",
+      "use": "Makes target obey every command",
+      "id": "imperio",
+      "name": "Spell Imperio",
+      "incantation": "Imperio",
+      "category": "Unforgivable Curse",
+      "creator": "Unknown",
+      "light_color": "Green"
+    },
+    {
+      "spell": "Fidelius Charm",
+      "use": "binds a secret to the soul of a Secret-Keeper",
+      "id": "fidelius",
+      "name": "Spell Fidelius Charm",
+      "incantation": "Fidelius Charm",
+      "category": "Complex Charm",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Avis/Oppugno",
+      "use": "Shoots flock of birds from wand",
+      "id": "avis",
+      "name": "Spell Avis/Oppugno",
+      "incantation": "Avis/Oppugno",
+      "category": "Conjuration",
+      "creator": "Unknown",
+      "light_color": "Blue"
+    },
+    {
+      "spell": "Expulso",
+      "use": "Explodes objects",
+      "id": "expulso",
+      "name": "Spell Expulso",
+      "incantation": "Expulso",
+      "category": "Curse",
+      "creator": "Unknown",
+      "light_color": "Blue"
+    },
+    {
+      "spell": "Legilimens",
+      "use": "Reveals memories and thoughts of target",
+      "id": "legilimens",
+      "name": "Spell Legilimens",
+      "incantation": "Legilimens",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "White"
+    },
+    {
+      "spell": "Duro",
+      "use": "Hardens objects",
+      "id": "duro",
+      "name": "Spell Duro",
+      "incantation": "Duro",
+      "category": "Transfiguration",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Sonorus",
+      "use": "Amplifies one's voice",
+      "id": "sonorus",
+      "name": "Spell Sonorus",
+      "incantation": "Sonorus",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Deprimo",
+      "use": "Creates great downward pressure",
+      "id": "deprimo",
+      "name": "Spell Deprimo",
+      "incantation": "Deprimo",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Green"
+    },
+    {
+      "spell": "Levicorpus",
+      "use": "Levitates target by ankle",
+      "id": "levicorpus",
+      "name": "Spell Levicorpus",
+      "incantation": "Levicorpus",
+      "category": "Jinx",
+      "creator": "Severus Snape",
+      "light_color": "Green"
+    },
+    {
+      "spell": "Liberacorpus",
+      "use": "Lowers target of levicorpus",
+      "id": "liberacorpus",
+      "name": "Spell Liberacorpus",
+      "incantation": "Liberacorpus",
+      "category": "Counter-spell",
+      "creator": "Severus Snape",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Mobilicorpus",
+      "use": "Moves bodies",
+      "id": "mobilicorpus",
+      "name": "Spell Mobilicorpus",
+      "incantation": "Mobilicorpus",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Confringo",
+      "use": "Explodes objects into flames",
+      "id": "confringo",
+      "name": "Spell Confringo",
+      "incantation": "Confringo",
+      "category": "Curse",
+      "creator": "Unknown",
+      "light_color": "Orange"
+    },
+    {
+      "spell": "Densaugeo",
+      "use": "Makes teeth grow quickly",
+      "id": "densaugeo",
+      "name": "Spell Densaugeo",
+      "incantation": "Densaugeo",
+      "category": "Jinx",
+      "creator": "Unknown",
+      "light_color": "Purple"
+    },
+    {
+      "spell": "Incarcarous",
+      "use": "Ties someone up with ropes",
+      "id": "incarcerous",
+      "name": "Spell Incarcarous",
+      "incantation": "Incarcarous",
+      "category": "Conjuration",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Deletrius",
+      "use": "Dismisses the effects of Prior Incantato",
+      "id": "deletrius",
+      "name": "Spell Deletrius",
+      "incantation": "Deletrius",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Rictusempra",
+      "use": "Tickling Charm",
+      "id": "rictusempra",
+      "name": "Spell Rictusempra",
+      "incantation": "Rictusempra",
+      "category": "Charm",
+      "creator": "Unknown",
+      "light_color": "Silver"
+    },
+    {
+      "spell": "Petrificus Totalus",
+      "use": "Renders target completely immobile",
+      "id": "petrificus_totalus",
+      "name": "Spell Petrificus Totalus",
+      "incantation": "Petrificus Totalus",
+      "category": "Curse",
+      "creator": "Unknown",
+      "light_color": "White"
+    },
+    {
+      "spell": "Fiendfyre Curse",
+      "use": "Makes cursed fire",
+      "id": "fiendfyre",
+      "name": "Spell Fiendfyre Curse",
+      "incantation": "Fiendfyre Curse",
+      "category": "Advanced Curse",
+      "creator": "Unknown",
+      "light_color": "Colorless"
+    },
+    {
+      "spell": "Tarantallegra",
+      "use": "Forces target to dance",
+      "id": "tarantallegra",
+      "name": "Spell Tarantallegra",
+      "incantation": "Tarantallegra",
+      "category": "Charm",
+      "creator": "Inventado na Itália (79 d.C.)",
+      "light_color": "Blue"
+    },
+    {
+      "spell": "Morsmordre",
+      "use": "Conjures the Dark Mark",
+      "id": "morsmordre",
+      "name": "Spell Morsmordre",
+      "incantation": "Morsmordre",
+      "category": "Dark Magic",
+      "creator": "Lord Voldemort",
+      "light_color": "Green"
+    },
+    {
+      "spell": "Sectumsempra",
+      "use": "Causes severe lacerations",
+      "id": "sectumsempra",
+      "name": "Spell Sectumsempra",
+      "incantation": "Sectumsempra",
+      "category": "Curse",
+      "creator": "Severus Snape",
+      "light_color": "White"
+    },
+    {
+      "spell": "Crucio",
+      "use": "Causes immense pain",
+      "id": "crucio",
+      "name": "Spell Crucio",
+      "incantation": "Crucio",
+      "category": "Unforgivable Curse",
+      "creator": "Unknown",
+      "light_color": "Red"
+    }
+  ]
+}

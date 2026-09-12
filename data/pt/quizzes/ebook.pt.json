@@ -1,0 +1,1357 @@
+{
+  "metadata": {
+    "id": "books-only-trivia",
+    "title": "Exclusivo dos Livros",
+    "category": "trivia",
+    "badge": "Mestre das Páginas",
+    "questionCount": 20,
+    "difficulty": "Nível Difícil",
+    "description": "Você realmente leu os livros? Teste seus conhecimentos sobre personagens deletados, tramas esquecidas e eventos que nunca chegaram aos cinemas."
+  },
+  "questions": [
+    {
+      "id": "b1",
+      "category": "Personagens",
+      "difficulty": "easy",
+      "question": "Qual personagem caótico de Hogwarts, presente nos sete livros da série, teve suas cenas gravadas mas deletadas, nunca aparecendo nos filmes?",
+      "options": ["Professor Binns", "Pirraça", "Winky", "Ludo Bagman"],
+      "correctAnswer": "Pirraça",
+      "funFact": "Pirraça (Peeves) é um poltergeist que assombra Hogwarts. O ator Rik Mayall chegou a gravar as cenas para o primeiro filme, mas a direção decidiu cortá-lo na edição final."
+    },
+    {
+      "id": "b2",
+      "category": "História",
+      "difficulty": "medium",
+      "question": "No quarto ano escolar, Hermione Granger funda uma organização. Qual era a sigla e o objetivo dela?",
+      "options": [
+        "A.R.M.A.D.A. - Treinamento de duelos",
+        "F.A.L.E. - Direitos dos elfos domésticos",
+        "L.I.V.R.E. - Libertação de prisioneiros de Azkaban",
+        "B.I.C.U.C.O. - Proteção de Criaturas Mágicas"
+      ],
+      "correctAnswer": "F.A.L.E. - Direitos dos elfos domésticos",
+      "funFact": "F.A.L.E. significa 'Fundo de Apoio à Libertação dos Elfos'. Hermione tricotava gorros e meias e os escondia pela sala comunal da Grifinória para tentar libertá-los à força."
+    },
+    {
+      "id": "b3",
+      "category": "Magia",
+      "difficulty": "medium",
+      "question": "No livro 'O Cálice de Fogo', quem realmente fornece o Guelricho para Harry usar na Segunda Tarefa?",
+      "options": [
+        "Neville Longbottom",
+        "Hermione Granger",
+        "Dobby",
+        "Olho-Tonto Moody"
+      ],
+      "correctAnswer": "Dobby",
+      "funFact": "Nos filmes, Neville entrega a planta a Harry. Nos livros, Dobby rouba o Guelricho do estoque de Snape (sendo indiretamente influenciado pelo falso Olho-Tonto Moody)."
+    },
+    {
+      "id": "b4",
+      "category": "Personagens",
+      "difficulty": "medium",
+      "question": "Como a jornalista Rita Skeeter conseguia escutar as conversas privadas para escrever seus artigos difamatórios?",
+      "options": [
+        "Usando a Capa da Invisibilidade",
+        "Através de Feitiços de Extensão de Ouvidos",
+        "Sendo uma animaga ilegal na forma de besouro",
+        "Subornando os quadros do castelo"
+      ],
+      "correctAnswer": "Sendo uma animaga ilegal na forma de besouro",
+      "funFact": "Hermione descobre o segredo de Rita no final do quarto ano e a captura dentro de um pequeno frasco de vidro inquebrável para chantageá-la a parar de escrever mentiras."
+    },
+    {
+      "id": "b5",
+      "category": "História",
+      "difficulty": "hard",
+      "question": "No livro 'A Pedra Filosofal', há uma sala de segurança antes do espelho de Ojesed que o filme ignorou. Qual era o desafio dessa sala?",
+      "options": [
+        "Um duelo com um Trasgo de Montanha",
+        "Um enigma de lógica envolvendo sete garrafas de poções",
+        "Uma sala cheia de bicho-papões",
+        "Um labirinto de espelhos mágicos"
+      ],
+      "correctAnswer": "Um enigma de lógica envolvendo sete garrafas de poções",
+      "funFact": "O desafio foi criado pelo Professor Snape. Hermione Granger brilhantemente resolve o enigma de lógica, permitindo que Harry avance e ela retorne."
+    },
+    {
+      "id": "b6",
+      "category": "Personagens",
+      "difficulty": "hard",
+      "question": "Como Pedro Pettigrew (Rabicho) morre no livro 'As Relíquias da Morte'?",
+      "options": [
+        "Atingido por um Avada Kedavra de Voldemort",
+        "Esfaqueado por Dobby",
+        "Atacado por Dementadores",
+        "Sufocado pela própria mão mágica de prata"
+      ],
+      "correctAnswer": "Sufocado pela própria mão mágica de prata",
+      "funFact": "Quando Harry lembra Rabicho de que salvou sua vida no passado, o vilão hesita por um segundo. A mão de prata dada por Voldemort detecta essa 'fraqueza' e se volta contra ele."
+    },
+    {
+      "id": "b7",
+      "category": "Locais",
+      "difficulty": "medium",
+      "question": "Durante a visita ao Hospital St. Mungus no quinto livro, qual ex-professor de Defesa Contra as Artes das Trevas eles encontram vivendo na enfermaria com amnésia?",
+      "options": [
+        "Quirino Quirrell",
+        "Gilderoy Lockhart",
+        "Horácio Slughorn",
+        "Sibila Trelawney"
+      ],
+      "correctAnswer": "Gilderoy Lockhart",
+      "funFact": "Lockhart perdeu a memória ao tentar usar o Feitiço Obliviate em Harry e Rony com a varinha quebrada de Rony. No hospital, ele passa os dias assinando autógrafos para fãs imaginários."
+    },
+    {
+      "id": "b8",
+      "category": "Personagens",
+      "difficulty": "medium",
+      "question": "Qual membro da família Weasley se recusa a acreditar que Voldemort retornou, abandona a família e se alia cegamente ao Ministério da Magia?",
+      "options": [
+        "Carlinhos Weasley",
+        "Gui Weasley",
+        "Percy Weasley",
+        "Arthur Weasley"
+      ],
+      "correctAnswer": "Percy Weasley",
+      "funFact": "A ruptura de Percy com sua família dura a maior parte da Segunda Guerra Bruxa. Ele só se redime e pede desculpas logo antes da Batalha de Hogwarts."
+    },
+    {
+      "id": "b9",
+      "category": "História",
+      "difficulty": "easy",
+      "question": "Nos livros, qual é a cor descrita dos olhos de Lord Voldemort após o seu renascimento?",
+      "options": [
+        "Negros",
+        "Brancos opacos",
+        "Vermelhos como sangue",
+        "Verdes ofuscantes"
+      ],
+      "correctAnswer": "Vermelhos como sangue",
+      "funFact": "Os produtores do filme decidiram não colocar olhos vermelhos no ator Ralph Fiennes porque acharam que poderiam perder a expressividade da sua atuação."
+    },
+    {
+      "id": "b10",
+      "category": "Magia",
+      "difficulty": "hard",
+      "question": "O que Harry faz com a Varinha das Varinhas no final do livro 'As Relíquias da Morte'?",
+      "options": [
+        "Ele a quebra ao meio e joga do penhasco",
+        "A devolve ao túmulo de Alvo Dumbledore",
+        "Esconde a varinha na Câmara Secreta",
+        "A entrega ao novo Ministro da Magia"
+      ],
+      "correctAnswer": "A devolve ao túmulo de Alvo Dumbledore",
+      "funFact": "Antes de devolver a relíquia, Harry usa a Varinha das Varinhas para consertar a sua própria varinha de azevinho que estava quebrada (cena ausente nos filmes)."
+    },
+    {
+      "id": "b11",
+      "category": "Personagens",
+      "difficulty": "medium",
+      "question": "Qual personagem ocupava o cargo de Chefe do Departamento de Jogos e Esportes Mágicos, era viciado em apostas e devia dinheiro aos duendes (totalmente omitido dos filmes)?",
+      "options": [
+        "Ludo Bagman",
+        "Bartô Crouch",
+        "Cornélio Fudge",
+        "Rufo Scrimgeour"
+      ],
+      "correctAnswer": "Ludo Bagman",
+      "funFact": "Ludo Bagman narrou a Copa do Mundo de Quadribol e as tarefas do Torneio Tribruxo. Ele foge do país após perder uma aposta de que Harry ganharia o torneio."
+    },
+    {
+      "id": "b12",
+      "category": "Magia",
+      "difficulty": "hard",
+      "question": "O que acontece com Marietta Edgecombe no livro após ela revelar a existência da Armada de Dumbledore para Dolores Umbridge?",
+      "options": [
+        "Ela perde totalmente a memória",
+        "É expulsa de Hogwarts e tem a varinha quebrada",
+        "O rosto dela se enche de espinhas formando a palavra 'DEDO-DURO'",
+        "Ela é petrificada e mandada para o hospital"
+      ],
+      "correctAnswer": "O rosto dela se enche de espinhas formando a palavra 'DEDO-DURO'",
+      "funFact": "Nos filmes, foi Cho Chang quem entregou a A.D. sob efeito da poção Veritaserum. Nos livros, sua amiga Marietta traiu o grupo por vontade própria e sofreu a azaração criada por Hermione."
+    },
+    {
+      "id": "b13",
+      "category": "História",
+      "difficulty": "medium",
+      "question": "O que Harry faz com o grande prêmio de mil galeões que ele ganha por vencer o Torneio Tribruxo?",
+      "options": [
+        "Dá para Fred e Jorge iniciarem a loja Gemialidades Weasley",
+        "Doa secretamente ao Hospital St. Mungus",
+        "Compra uma nova vassoura Firebolt",
+        "Esconde no seu cofre em Gringotes"
+      ],
+      "correctAnswer": "Dá para Fred e Jorge iniciarem a loja Gemialidades Weasley",
+      "funFact": "Como Harry se sentia culpado pela morte de Cedrico, ele se recusou a ficar com o 'dinheiro de sangue' e forçou os gêmeos a aceitarem para abrirem a loja de logros."
+    },
+    {
+      "id": "b14",
+      "category": "Personagens",
+      "difficulty": "hard",
+      "question": "Quem era Winky no livro 'O Cálice de Fogo'?",
+      "options": [
+        "Uma centaura da Floresta Proibida",
+        "A elfa doméstica da família de Bartô Crouch",
+        "Uma funcionária corrupta do Ministério",
+        "A irmã de Dobby"
+      ],
+      "correctAnswer": "A elfa doméstica da família de Bartô Crouch",
+      "funFact": "Winky foi demitida após os incidentes na Copa do Mundo de Quadribol e entrou em depressão crônica, tornando-se viciada em Cerveja Amanteigada (que embriaga elfos)."
+    },
+    {
+      "id": "b15",
+      "category": "História",
+      "difficulty": "hard",
+      "question": "O livro 'O Enigma do Príncipe' começa descrevendo um encontro tenso entre o Ministro da Magia bruxo (Cornélio Fudge) e qual autoridade?",
+      "options": [
+        "A Rainha da Inglaterra",
+        "O Primeiro-Ministro Trouxa",
+        "O Diretor Dumbledore",
+        "O Presidente da MACUSA"
+      ],
+      "correctAnswer": "O Primeiro-Ministro Trouxa",
+      "funFact": "Fudge vai ao escritório do Primeiro-Ministro britânico para explicar que uma guerra mágica começou e é a causa de desastres recentes no mundo trouxa (como a queda de pontes)."
+    },
+    {
+      "id": "b16",
+      "category": "História",
+      "difficulty": "medium",
+      "question": "Qual evento comovente encerra o sexto livro ('O Enigma do Príncipe'), mas não foi adaptado para o filme?",
+      "options": [
+        "O casamento de Gui e Fleur",
+        "A formatura dos alunos do sétimo ano",
+        "O grandioso funeral de Alvo Dumbledore nos jardins do castelo",
+        "O julgamento dos Comensais da Morte capturados"
+      ],
+      "correctAnswer": "O grandioso funeral de Alvo Dumbledore nos jardins do castelo",
+      "funFact": "O funeral contou com a presença de centauros, sereianos, autoridades do Ministério e alunos. Fawkes, a fênix, cantou um lamento de cortar o coração."
+    },
+    {
+      "id": "b17",
+      "category": "Personagens",
+      "difficulty": "medium",
+      "question": "No Largo Grimmauld, 12, havia um retrato mágico em tamanho real coberto por cortinas que passava o tempo gritando xingamentos preconceituosos. De quem era esse retrato?",
+      "options": [
+        "Belatriz Lestrange",
+        "Walburga Black (mãe de Sirius)",
+        "Salazar Sonserina",
+        "Phineas Nigellus Black"
+      ],
+      "correctAnswer": "Walburga Black (mãe de Sirius)",
+      "funFact": "O quadro de Walburga tinha um Feitiço Adesivo Permanente, tornando impossível removê-lo da parede do corredor. Todos precisavam andar em silêncio para não acordá-la."
+    },
+    {
+      "id": "b18",
+      "category": "Magia",
+      "difficulty": "medium",
+      "question": "Qual artefato mágico Sirius Black dá a Harry no quinto livro para que eles pudessem se comunicar com segurança (e que Harry esquece de usar)?",
+      "options": [
+        "Uma pena de repetição",
+        "Moedas falsas de Galeão",
+        "Um Espelho de Dois Sentidos",
+        "Um anel com a Pedra da Ressurreição"
+      ],
+      "correctAnswer": "Um Espelho de Dois Sentidos",
+      "funFact": "Harry descobre o espelho no fundo da mala apenas após a morte de Sirius, e o quebra de frustração. Um fragmento desse espelho se torna crucial no livro 7."
+    },
+    {
+      "id": "b19",
+      "category": "Personagens",
+      "difficulty": "medium",
+      "question": "Quem é o único professor de Hogwarts a ser um fantasma?",
+      "options": [
+        "Professor Flitwick",
+        "Professor Slughorn",
+        "Professor Binns",
+        "Madame Pince"
+      ],
+      "correctAnswer": "Professor Binns",
+      "funFact": "Binns ensina História da Magia. Conta a lenda que ele era tão velho que um dia adormeceu na frente da lareira e seu corpo morreu, mas ele se levantou como fantasma e foi dar aula no dia seguinte."
+    },
+    {
+      "id": "b20",
+      "category": "História",
+      "difficulty": "medium",
+      "question": "No quinto ano de Hogwarts, os alunos recebem o cargo de Monitores (Prefeitos). Quais alunos da Grifinória recebem esse título?",
+      "options": [
+        "Harry Potter e Hermione Granger",
+        "Neville Longbottom e Parvati Patil",
+        "Simas Finnigan e Lilá Brown",
+        "Rony Weasley e Hermione Granger"
+      ],
+      "correctAnswer": "Rony Weasley e Hermione Granger",
+      "funFact": "Harry ficou profundamente chateado e surpreso por não ter sido escolhido, mas Dumbledore depois explicou que acreditava que Harry já tinha fardos demais para carregar."
+    },
+    {
+      "id": "b21",
+      "category": "Personagens",
+      "difficulty": "medium",
+      "question": "Durante a Batalha de Hogwarts nos livros, quem lidera o exército de elfos domésticos das cozinhas empunhando cutelos e facas contra os Comensais da Morte?",
+      "options": [
+        "Dobby",
+        "Winky",
+        "Monstro (Kreacher)",
+        "O retrato de Helga Hufflepuff"
+      ],
+      "correctAnswer": "Monstro (Kreacher)",
+      "funFact": "Monstro grita durante o ataque: 'Lutem! Lutem! Lutem pelo meu mestre, o defensor dos elfos domésticos! Lutem pelo mestre Regulus!'. É um dos arcos de redenção mais emocionantes do livro."
+    },
+    {
+      "id": "b22",
+      "category": "História",
+      "difficulty": "hard",
+      "question": "No passado revelado nos livros, a quem Tom Riddle servia chás enquanto visitava clientes ricos para roubar a Taça de Hufflepuff e o Medalhão de Slytherin?",
+      "options": [
+        "Carátaco Burke",
+        "Hepzibah Smith",
+        "Morfin Gaunt",
+        "Sra. Cole (Diretora do orfanato)"
+      ],
+      "correctAnswer": "Hepzibah Smith",
+      "funFact": "Voldemort a matou (envenenando o cacau dela), roubou as relíquias para transformá-las em Horcruxes e alterou a memória da elfa doméstica dela, Hóquei, para assumir a culpa."
+    },
+    {
+      "id": "b23",
+      "category": "Personagens",
+      "difficulty": "hard",
+      "question": "Qual é a história trágica da mãe de Lord Voldemort, descrita no livro 'O Enigma do Príncipe'?",
+      "options": [
+        "Ela era uma trouxa morta por bruxos",
+        "Mérope Gaunt usou uma poção do amor para forçar Tom Riddle Sr. a se casar com ela",
+        "Ela era uma Comensal da Morte morta por aurores",
+        "Ela abandonou Voldemort no nascimento por não ter magia"
+      ],
+      "correctAnswer": "Mérope Gaunt usou uma poção do amor para forçar Tom Riddle Sr. a se casar com ela",
+      "funFact": "Como Voldemort foi gerado sob a influência de uma poção do amor, o livro sugere simbolicamente que é por isso que ele é incapaz de compreender e sentir amor verdadeiro."
+    },
+    {
+      "id": "b24",
+      "category": "Locais",
+      "difficulty": "medium",
+      "question": "Enquanto visitam Gilderoy Lockhart no hospital no livro 5, Rony, Harry e Hermione se deparam com os pais de Neville. Qual era o estado deles?",
+      "options": [
+        "Estavam curados e prestes a sair",
+        "Estavam em coma induzido por magia",
+        "Haviam perdido completamente a sanidade e entregam a Neville uma embalagem de chiclete vazia",
+        "Não os reconhecem porque viraram fantasmas"
+      ],
+      "correctAnswer": "Haviam perdido completamente a sanidade e entregam a Neville uma embalagem de chiclete vazia",
+      "funFact": "Alice e Franco Longbottom foram torturados até a loucura por Belatriz Lestrange usando a Maldição Cruciatus após a queda inicial de Voldemort."
+    },
+    {
+      "id": "b25",
+      "category": "História",
+      "difficulty": "hard",
+      "question": "O que os gêmeos Fred e Jorge deixam para trás em um corredor do quinto andar de Hogwarts como 'legado' antes de fugirem da escola voando?",
+      "options": [
+        "Um pântano portátil gigantesco",
+        "Uma fonte infinita de Cerveja Amanteigada",
+        "Fogos de artifício que não se apagam",
+        "Uma enorme estátua de Pirraça"
+      ],
+      "correctAnswer": "Um pântano portátil gigantesco",
+      "funFact": "A Professora Umbridge não conseguiu remover o pântano. Flitwick posteriormente o apagou com facilidade em um segundo, mas deixou um pedacinho preservado porque achou a magia genial."
+    },
+    {
+      "id": "b26",
+      "category": "Personagens",
+      "difficulty": "easy",
+      "question": "Qual irmão Weasley, especialista em dragões na Romênia, aparece fisicamente com frequência nos livros (como no Torneio Tribruxo), mas é quase inexistente nos filmes?",
+      "options": [
+        "Carlinhos Weasley",
+        "Gui Weasley",
+        "Percy Weasley",
+        "Arthur Weasley"
+      ],
+      "correctAnswer": "Carlinhos Weasley",
+      "funFact": "Carlinhos não apenas ajudou a trazer os dragões para a Primeira Tarefa do torneio, mas também participou da Batalha de Hogwarts montado nas criaturas e liderando os reforços."
+    },
+    {
+      "id": "b27",
+      "category": "Magia",
+      "difficulty": "hard",
+      "question": "No Departamento de Mistérios, existe uma sala macabra na qual Rony é atacado por quais objetos bizarros?",
+      "options": [
+        "Profecias de vidro envenenadas",
+        "Cérebros flutuantes com tentáculos que causam loucura",
+        "Relógios que envelhecem quem os toca",
+        "Espadas voadoras invisíveis"
+      ],
+      "correctAnswer": "Cérebros flutuantes com tentáculos que causam loucura",
+      "funFact": "Os cérebros estavam imersos em um tanque verde na 'Sala do Cérebro' e possuíam cordões venenosos (que na verdade eram pensamentos materializados) que se enrolaram em Rony, deixando-o seriamente ferido."
+    },
+    {
+      "id": "b28",
+      "category": "Personagens",
+      "difficulty": "medium",
+      "question": "Qual é a maldição de assinatura de Gina Weasley nos livros, pela qual ela fica temida e famosa em Hogwarts?",
+      "options": [
+        "Feitiço Estuporante (Stupefy)",
+        "Azaração para Rebater Bicho-Papão (Bat-Bogey Hex)",
+        "Maldição do Tranca-Pernas",
+        "Feitiço Expelliarmus"
+      ],
+      "correctAnswer": "Azaração para Rebater Bicho-Papão (Bat-Bogey Hex)",
+      "funFact": "A azaração transforma as secreções do nariz da vítima em morcegos negros enormes que voam para fora das narinas e atacam o rosto do enfeitiçado."
+    },
+    {
+      "id": "b29",
+      "category": "História",
+      "difficulty": "medium",
+      "question": "No terceiro livro, a equipe de Quadribol da Grifinória vence a Taça escolar depois de muitos anos de jejum. Contra quem é o eletrizante jogo da final?",
+      "options": [
+        "Corvinal, em um dia ensolarado",
+        "Lufa-Lufa, com invasão de dementadores",
+        "Sonserina, que cometeu diversas faltas antidesportivas",
+        "A taça é cancelada nesse ano"
+      ],
+      "correctAnswer": "Sonserina, que cometeu diversas faltas antidesportivas",
+      "funFact": "A partida é super agressiva e cheia de penalidades. Quando Harry captura o pomo antes de Draco Malfoy, Dumbledore chega a chorar de alegria junto com a Professora McGonagall."
+    },
+    {
+      "id": "b30",
+      "category": "Locais",
+      "difficulty": "hard",
+      "question": "Qual lugar de Hogwarts possui a magia secreta de que não pode ser plotado, ou seja, nunca aparecerá no Mapa dos Marotos nem em mapas convencionais?",
+      "options": [
+        "A Câmara Secreta",
+        "A Sala Precisa",
+        "A Torre de Astronomia",
+        "O Escritório de Dumbledore"
+      ],
+      "correctAnswer": "A Sala Precisa",
+      "funFact": "A Sala Precisa assume a forma do que a pessoa mais precisa no momento. Como ela entra e sai da existência constantemente, o feitiço de localização do Mapa não consegue mapeá-la."
+    },
+    {
+      "id": "b31",
+      "category": "Personagens",
+      "difficulty": "hard",
+      "question": "Nos livros, qual é a verdade sobre a avó e a origem mágica de Neville Longbottom?",
+      "options": [
+        "Ela o mimava para compensar a perda dos pais",
+        "Acreditavam que ele era um aborto (squib) na infância e tentavam assustá-lo para a magia se manifestar",
+        "Sua avó era uma Comensal arrependida",
+        "Ele usou a varinha do pai com maestria desde sempre"
+      ],
+      "correctAnswer": "Acreditavam que ele era um aborto (squib) na infância e tentavam assustá-lo para a magia se manifestar",
+      "funFact": "O tio-avô Algie de Neville o balançou pelos tornozelos da janela do andar de cima e o deixou cair sem querer. Neville quicou pelo quintal, provando sua magia e enchendo a família de alívio."
+    },
+    {
+      "id": "b32",
+      "category": "Magia",
+      "difficulty": "medium",
+      "question": "O que acontece no Teste de Aparatação do Rony Weasley, fazendo com que ele seja reprovado na sua primeira tentativa?",
+      "options": [
+        "Ele surge no país vizinho por engano",
+        "Ele materializa apenas as roupas e fica nu",
+        "Ele deixa metade de uma sobrancelha para trás (um Estronchamento menor)",
+        "Ele aparatou em cima do fiscal de testes"
+      ],
+      "correctAnswer": "Ele deixa metade de uma sobrancelha para trás (um Estronchamento menor)",
+      "funFact": "O fiscal reprovou Rony devido à severidade das leis sobre deixar partes de si mesmo no destino original, algo chamado 'Estronchamento' (Splinching)."
+    },
+    {
+      "id": "b33",
+      "category": "História",
+      "difficulty": "medium",
+      "question": "Como os alunos da Armada de Dumbledore conseguem lutar tão bem (e sem casualidades mortais iniciais) contra os Comensais na Batalha da Torre de Astronomia (Livro 6)?",
+      "options": [
+        "Foram treinados por Snape em segredo",
+        "Eles beberam Felix Felicis (Sorte Líquida) deixada por Harry",
+        "Estavam escondidos sob a Capa da Invisibilidade",
+        "Foram protegidos por feitiços de proteção da Sala Precisa"
+      ],
+      "correctAnswer": "Eles beberam Felix Felicis (Sorte Líquida) deixada por Harry",
+      "funFact": "Harry exigiu que Rony, Hermione e Gina bebessem o frasco de poção que ele ganhou, o que fez com que feitiços mortais dos Comensais das Trevas errassem o alvo por puros 'acasos' milagrosos."
+    },
+    {
+      "id": "b34",
+      "category": "História",
+      "difficulty": "hard",
+      "question": "No livro 'O Prisioneiro de Azkaban', após Sirius Black ser preso na torre do castelo no final do livro, de quem era o hipogrifo Bicuço com o qual ele foge?",
+      "options": [
+        "Era o Bicuço selvagem da floresta",
+        "O mesmo Bicuço que deveria ter sido executado, resgatado no tempo",
+        "Um hipogrifo negro pertencente aos Black",
+        "O hipogrifo pessoal de Dumbledore"
+      ],
+      "correctAnswer": "O mesmo Bicuço que deveria ter sido executado, resgatado no tempo",
+      "funFact": "Nos filmes isso é mostrado, mas nos livros a burocracia é mais extensa. Após fugirem, Sirius e Bicuço ficam morando escondidos em cavernas e se alimentando de ratos durante o quarto livro inteiro."
+    },
+    {
+      "id": "b35",
+      "category": "Magia",
+      "difficulty": "medium",
+      "question": "Qual o centauro que substitui temporariamente (e depois divide a matéria) as aulas de Adivinhação quando a professora Trelawney é demitida?",
+      "options": ["Bane", "Ronan", "Firenze", "Magoriano"],
+      "correctAnswer": "Firenze",
+      "funFact": "Os outros centauros baniram e tentaram assassinar Firenze do bando na floresta porque consideraram uma traição à sua espécie ele se 'submeter' a trabalhar como professor de humanos."
+    },
+    {
+      "id": "b36",
+      "category": "História",
+      "difficulty": "easy",
+      "question": "Qual é a pontuação final da icônica partida final da Copa do Mundo de Quadribol no quarto livro?",
+      "options": [
+        "Bulgária 170 x 160 Irlanda",
+        "Irlanda 170 x 160 Bulgária",
+        "Bulgária vence de lavada por 300 pontos",
+        "A Irlanda vence por não haver captura do Pomo"
+      ],
+      "correctAnswer": "Irlanda 170 x 160 Bulgária",
+      "funFact": "Victor Krum capturou o Pomo de Ouro para a Bulgária (garantindo 150 pontos), mesmo sabendo que não seria o suficiente para ultrapassar a pontuação brutal dos Artilheiros Irlandeses."
+    },
+    {
+      "id": "b37",
+      "category": "Personagens",
+      "difficulty": "hard",
+      "question": "No livro 5, qual ex-jogadora de Quadribol e auror é levada ao Hospital St. Mungus após ser alvo de um estranho atentado a mando de Voldemort?",
+      "options": [
+        "Ninfadora Tonks",
+        "Amelia Bones",
+        "Marlene McKinnon",
+        "Broderick Bode (Na verdade, foi o Indizível Bode) - ou Susana Bones? Ops. (Considerando opções válidas: Katie Bell, Estúrgio Podmore) - A pergunta se refere a um incidente macabro. (Nota mental: A resposta da lista será sobre um fato canônico exato). A professora Minerva foi atingida por 4 feitiços de aurores. A resposta esperada: A Professora Minerva McGonagall (Auror honorária). Não! Vamos reformular a pergunta com opções claras."
+      ]
+    },
+    {
+      "question": "Qual terrível acidente ocorre com a Professora McGonagall durante o quinto ano, mandando-a de maca para o Hospital St. Mungus?",
+      "options": [
+        "Ela é enfeitiçada por alunos rebeldes",
+        "É envenenada com hidromel",
+        "Recebe no peito quatro feitiços estuporantes disparados simultaneamente por aurores de Umbridge",
+        "Cai da Torre de Astronomia"
+      ],
+      "correctAnswer": "Recebe no peito quatro feitiços estuporantes disparados simultaneamente por aurores de Umbridge",
+      "funFact": "Madame Pomfrey relata que atingir quatro feitiços de choque no peito de uma bruxa da idade de McGonagall sem aviso prévio quase a levou à morte. Ela teve que usar bengala por um bom tempo."
+    },
+    {
+      "id": "b38",
+      "category": "Personagens",
+      "difficulty": "medium",
+      "question": "O que a Tia Petúnia sabe sobre o mundo bruxo que choca Harry no quinto livro?",
+      "options": [
+        "Ela sabe lançar magias",
+        "Ela sabe conjurar poções",
+        "Ela sabe o que são os Dementadores e como eles sugam a felicidade",
+        "Ela sabe a localização do Ministério"
+      ],
+      "correctAnswer": "Ela sabe o que são os Dementadores e como eles sugam a felicidade",
+      "funFact": "Ela explica que ouviu 'aquele garoto horrível' falando sobre os dementadores com Lílian anos atrás. Harry acha que ela falava do pai dele, mas na verdade ela estava falando do Severo Snape."
+    },
+    {
+      "id": "b39",
+      "category": "História",
+      "difficulty": "hard",
+      "question": "No livro 'O Enigma do Príncipe', como os Comensais da Morte adentram o castelo de Hogwarts para realizar a Batalha da Torre?",
+      "options": [
+        "Voando em vassouras pelas janelas abertas",
+        "Aparatando direto dentro da escola",
+        "Pelo Armário Sumidouro consertado por Draco Malfoy, ligando o castelo à loja Borgin & Burkes",
+        "O próprio Snape abriu os portões frontais para eles"
+      ],
+      "correctAnswer": "Pelo Armário Sumidouro consertado por Draco Malfoy, ligando o castelo à loja Borgin & Burkes",
+      "funFact": "O Armário Sumidouro parceiro ficava na Sala Precisa, provando ser o ponto cego da defesa mágica de Dumbledore. Draco passou um ano letivo inteiro tortuosamente tentando consertá-lo."
+    },
+    {
+      "id": "b40",
+      "category": "Personagens",
+      "difficulty": "hard",
+      "question": "Qual é a relação sanguínea exata de Voldemort (Tom Marvolo Riddle) com Salazar Sonserina?",
+      "options": [
+        "Apenas afinidade mágica, sem parentesco",
+        "O próprio Salazar reencarnado",
+        "Seu avô materno, Servolo (Marvolo) Gaunt, era descendente direto de Salazar",
+        "Sua avó paterna adotou o sobrenome Sonserina"
+      ],
+      "correctAnswer": "Seu avô materno, Servolo (Marvolo) Gaunt, era descendente direto de Salazar",
+      "funFact": "A família Gaunt tinha tanto orgulho de sua herança que casaram entre primos por gerações para manter o sangue puro e a habilidade da ofidioglossia, o que causou problemas genéticos terríveis e instabilidade mental."
+    },
+    {
+      "id": "q41",
+      "category": "Personagens Ocultos",
+      "difficulty": "easy",
+      "question": "Qual é o nome do Poltergeist de Hogwarts que vive pregando peças nos alunos e teme apenas o Barão Sangrento?",
+      "options": ["Pirraça", "Nick Quase Sem Cabeça", "Grofo", "Binns"],
+      "correctAnswer": "Pirraça",
+      "funFact": "Pirraça (Peeves) foi completamente cortado dos filmes, mas nos livros ele tem um papel constante, inclusive compondo músicas para irritar Harry e ajudando a infernizar a vida de Dolores Umbridge."
+    },
+    {
+      "id": "q42",
+      "category": "Desafios Mágicos",
+      "difficulty": "medium",
+      "question": "No livro 'A Pedra Filosofal', além do xadrez bruxo e do cão de três cabeças, qual professor preparou um enigma de lógica envolvendo poções?",
+      "options": [
+        "Professor Flitwick",
+        "Professor Snape",
+        "Professora Sprout",
+        "Professor Quirrell"
+      ],
+      "correctAnswer": "Professor Snape",
+      "funFact": "Hermione resolve o enigma de Snape usando lógica pura, pois muitos bruxos não têm capacidade de raciocínio lógico. O desafio envolvia 7 garrafas, venenos e poções para avançar ou recuar."
+    },
+    {
+      "id": "q43",
+      "category": "Associações",
+      "difficulty": "medium",
+      "question": "Qual é o nome da organização fundada por Hermione Granger no quarto livro para defender os direitos dos elfos domésticos?",
+      "options": ["F.A.L.E.", "E.L.F.O.", "L.I.V.R.E.", "S.O.C.O."],
+      "correctAnswer": "F.A.L.E.",
+      "funFact": "A sigla significa 'Fundo de Apoio à Liberação dos Elfos'. Nos livros, Hermione passa anos tricotando gorros e meias para libertá-los secretamente."
+    },
+    {
+      "id": "q44",
+      "category": "Eventos",
+      "difficulty": "easy",
+      "question": "No segundo livro, a qual evento incomum Harry, Rony e Hermione comparecem na noite de Halloween?",
+      "options": [
+        "Uma festa na Sala Precisa",
+        "A Festa de Aniversário de Morte",
+        "O Baile dos Fantasmas",
+        "O Jantar do Clube do Slug"
+      ],
+      "correctAnswer": "A Festa de Aniversário de Morte",
+      "funFact": "Eles foram convidados por Nick Quase Sem Cabeça para celebrar seu 500º aniversário de morte. A comida servida estava toda podre para que os fantasmas pudessem 'sentir' o gosto pelo cheiro forte."
+    },
+    {
+      "id": "q45",
+      "category": "Animagos",
+      "difficulty": "hard",
+      "question": "Como Hermione descobre que a jornalista Rita Skeeter conseguia suas fofocas exclusivas?",
+      "options": [
+        "Ela usava uma Capa da Invisibilidade",
+        "Ela lia mentes com Legilimência",
+        "Ela era uma animaga não registrada (um besouro)",
+        "Ela subornava os elfos domésticos"
+      ],
+      "correctAnswer": "Ela era uma animaga não registrada (um besouro)",
+      "funFact": "Hermione captura Rita em sua forma de besouro e a prende em um frasco de vidro inquebrável, chantageando a repórter para que pare de escrever mentiras."
+    },
+    {
+      "id": "q46",
+      "category": "A Armada de Dumbledore",
+      "difficulty": "medium",
+      "question": "Nos livros, quem realmente delata a Armada de Dumbledore para Dolores Umbridge?",
+      "options": [
+        "Cho Chang",
+        "Marietta Edgecombe",
+        "Zacarias Smith",
+        "Pansy Parkinson"
+      ],
+      "correctAnswer": "Marietta Edgecombe",
+      "funFact": "Ao trair o grupo, o feitiço de proteção que Hermione colocou no pergaminho de assinaturas é ativado, fazendo a palavra 'DEDO-DURO' aparecer em espinhas roxas no rosto de Marietta."
+    },
+    {
+      "id": "q47",
+      "category": "Artefatos Mágicos",
+      "difficulty": "medium",
+      "question": "O que Sirius Black deu a Harry de presente que Harry prometeu nunca usar para não colocar o padrinho em risco, mas que se revela crucial em 'As Relíquias da Morte'?",
+      "options": [
+        "Um Canivete Mágico",
+        "Um Espelho de Dois Sentidos",
+        "Um Relógio de Bolso",
+        "O Mapa dos Marotos"
+      ],
+      "correctAnswer": "Um Espelho de Dois Sentidos",
+      "funFact": "Sirius deu um espelho que se comunicava com outro que ele possuía. Harry o quebra de frustração após a morte de Sirius, mas Aberforth Dumbledore usa o outro par anos depois para enviar Dobby ao resgate na Mansão Malfoy."
+    },
+    {
+      "id": "q48",
+      "category": "Criaturas Mágicas",
+      "difficulty": "hard",
+      "question": "Qual criatura mitológica Harry encontra no labirinto da Terceira Tarefa do Torneio Tribruxo, que o faz responder a uma charada?",
+      "options": [
+        "Uma Quimera",
+        "Uma Esfinge",
+        "Um Manticora",
+        "Um Acromântula"
+      ],
+      "correctAnswer": "Uma Esfinge",
+      "funFact": "A Esfinge ofereceu a Harry a chance de passar caso acertasse a charada (cuja resposta era 'Aranha'), ou de ir embora se errasse. O trecho foi inteiramente cortado do filme."
+    },
+    {
+      "id": "q49",
+      "category": "Criaturas Mágicas",
+      "difficulty": "medium",
+      "question": "Qual é a bizarra (e perigosa) criatura mágica híbrida que Hagrid cria em 'O Cálice de Fogo' e que os alunos têm que alimentar nas aulas?",
+      "options": [
+        "Fosfomortos",
+        "Explosivins",
+        "Diabretes da Cornualha",
+        "Tronquilhos Vermelhos"
+      ],
+      "correctAnswer": "Explosivins",
+      "funFact": "Os Explosivins (Blast-Ended Skrewts) eram uma cruza ilegal de Manticoras com Caranguejos-de-Fogo, pareciam lagostas deformadas e cuspiam fogo."
+    },
+    {
+      "id": "q50",
+      "category": "Ministério da Magia",
+      "difficulty": "medium",
+      "question": "Quem era o excêntrico e endividado Chefe do Departamento de Jogos e Esportes Mágicos que apostava muito com os duendes?",
+      "options": [
+        "Barto Crouch Sr.",
+        "Cornélio Fudge",
+        "Ludo Bagman",
+        "Rufo Scrimgeour"
+      ],
+      "correctAnswer": "Ludo Bagman",
+      "funFact": "Ludo era um ex-jogador famoso de Quadribol que fugiu de suas dívidas com os duendes ao fim do Torneio Tribruxo."
+    },
+    {
+      "id": "q51",
+      "category": "Locais Mágicos",
+      "difficulty": "hard",
+      "question": "Onde Harry, Rony e Hermione encontram Gilderoy Lockhart no livro 'A Ordem da Fênix'?",
+      "options": [
+        "No Beco Diagonal",
+        "No Hospital São Mungus",
+        "Em Azkaban",
+        "No Caldeirão Furado"
+      ],
+      "correctAnswer": "No Hospital São Mungus",
+      "funFact": "Eles encontram Lockhart internado na mesma ala que os pais de Neville (a ala de feitiços irreversíveis). Lockhart passava os dias assinando fotografias de si mesmo sem saber quem era."
+    },
+    {
+      "id": "q52",
+      "category": "A Ordem da Fênix",
+      "difficulty": "medium",
+      "question": "Quem envia um Berrador para a Tia Petúnia dizendo 'Lembre-se do meu último, Petúnia', impedindo-a de expulsar Harry de casa?",
+      "options": [
+        "Remo Lupin",
+        "Alvo Dumbledore",
+        "Minerva McGonagall",
+        "Arabella Figg"
+      ],
+      "correctAnswer": "Alvo Dumbledore",
+      "funFact": "O Berrador lembrava Petúnia do acordo selado pelo sangue de Lílian, que garantia a proteção mágica de Harry enquanto ele pudesse chamar a Rua dos Alfeneiros de 'lar'."
+    },
+    {
+      "id": "q53",
+      "category": "Despedidas",
+      "difficulty": "easy",
+      "question": "O que Duda Dursley diz a Harry na despedida deles no livro 'As Relíquias da Morte', marcando a redenção do personagem?",
+      "options": [
+        "Eu não acho que você seja um desperdício de espaço.",
+        "Você sempre foi meu primo favorito.",
+        "Me ensine magia antes de ir.",
+        "Espero nunca mais ver você."
+      ],
+      "correctAnswer": "Eu não acho que você seja um desperdício de espaço.",
+      "funFact": "A cena da redenção de Duda foi filmada, mas infelizmente cortada da versão final dos cinemas, existindo apenas nas cenas deletadas."
+    },
+    {
+      "id": "q54",
+      "category": "Mistérios",
+      "difficulty": "hard",
+      "question": "Durante a Batalha no Departamento de Mistérios, por qual objeto bizarro Rony é atacado?",
+      "options": [
+        "Por um relógio do tempo gigante",
+        "Por um cérebro com tentáculos",
+        "Por uma profecia explosiva",
+        "Por um manto que suga o ar"
+      ],
+      "correctAnswer": "Por um cérebro com tentáculos",
+      "funFact": "Na Sala dos Cérebros do Ministério, Rony atrai um cérebro de um tanque que envolve tentáculos letais ao redor dele, deixando cicatrizes permanentes em seus braços."
+    },
+    {
+      "id": "q55",
+      "category": "História Familiar",
+      "difficulty": "hard",
+      "question": "No livro 'O Enigma do Príncipe', conhecemos a família de Voldemort. Qual era o nome de seu avô materno (o pai de Mérope)?",
+      "options": [
+        "Morfino Gaunt",
+        "Servolo Gaunt",
+        "Corvino Gaunt",
+        "Órion Gaunt"
+      ],
+      "correctAnswer": "Servolo Gaunt",
+      "funFact": "A família Gaunt, descendente direta de Salazar Sonserina, vivia na miséria. Servolo (Marvolo, no original) possuía o anel que viria a ser a segunda Horcrux de Voldemort."
+    },
+    {
+      "id": "q56",
+      "category": "Professores",
+      "difficulty": "medium",
+      "question": "Qual professor de Hogwarts, sendo um centauro, é banido de seu bando na Floresta Proibida por concordar em dar aulas na escola?",
+      "options": ["Agouro", "Ronan", "Bane", "Firenze"],
+      "correctAnswer": "Firenze",
+      "funFact": "Firenze assume as aulas de Adivinhação no quinto ano quando Sibila Trelawney é demitida por Dolores Umbridge, ensinando aos alunos os mistérios das estrelas."
+    },
+    {
+      "id": "q57",
+      "category": "Os Weasleys",
+      "difficulty": "easy",
+      "question": "O Relógio da Família Weasley mostra onde cada membro está. Durante todo o livro 'O Enigma do Príncipe', para onde os ponteiros de todos estão apontados?",
+      "options": ["Em Trânsito", "Perigo Mortal", "Trabalho", "Perdido"],
+      "correctAnswer": "Perigo Mortal",
+      "funFact": "Devido ao retorno de Voldemort estar público, a Sra. Weasley afirma que todos na família estão constantemente em 'Perigo Mortal'."
+    },
+    {
+      "id": "q58",
+      "category": "Quadribol",
+      "difficulty": "medium",
+      "question": "Na final da Copa Mundial de Quadribol no livro, qual foi o placar final entre Irlanda e Bulgária?",
+      "options": [
+        "Irlanda 150 x Bulgária 150",
+        "Irlanda 170 x Bulgária 160",
+        "Irlanda 200 x Bulgária 10",
+        "Irlanda 250 x Bulgária 100"
+      ],
+      "correctAnswer": "Irlanda 170 x Bulgária 160",
+      "funFact": "A Irlanda marcou tantos gols normais (17) que, mesmo com Vítor Krum capturando o Pomo de Ouro pela Bulgária (ganhando 150 pontos), a Irlanda venceu a partida."
+    },
+    {
+      "id": "q59",
+      "category": "A Família Weasley",
+      "difficulty": "medium",
+      "question": "Qual membro da família Weasley se recusa a acreditar em Harry sobre o retorno de Voldemort e corta relações com a família, enviando de volta seu suéter de Natal?",
+      "options": [
+        "Gui Weasley",
+        "Carlinhos Weasley",
+        "Percy Weasley",
+        "Fred Weasley"
+      ],
+      "correctAnswer": "Percy Weasley",
+      "funFact": "O rompimento de Percy durou anos. Ele só pede desculpas e retorna para a família durante a Batalha de Hogwarts, instantes antes da tragédia com Fred."
+    },
+    {
+      "id": "q60",
+      "category": "Política Trouxa",
+      "difficulty": "hard",
+      "question": "Qual é o primeiro capítulo de 'O Enigma do Príncipe', que mostra a interação direta entre bruxos e políticos normais?",
+      "options": [
+        "O Encontro dos Ministros",
+        "O Outro Ministro",
+        "O Escritório de Downing Street",
+        "O Despertar Trouxa"
+      ],
+      "correctAnswer": "O Outro Ministro",
+      "funFact": "O capítulo narra o Primeiro-Ministro Trouxa sendo visitado pelo Ministro da Magia (Cornélio Fudge e depois Rufo Scrimgeour), explicando os 'acidentes' bizarros no país causados pelos Comensais da Morte."
+    },
+    {
+      "id": "q61",
+      "category": "Hogwarts",
+      "difficulty": "medium",
+      "question": "Nos livros, qual aluno substitui Lino Jordan como narrador excêntrico dos jogos de Quadribol durante o livro 'O Enigma do Príncipe'?",
+      "options": [
+        "Zacharias Smith",
+        "Luna Lovegood",
+        "Simas Finnigan",
+        "Romilda Vane"
+      ],
+      "correctAnswer": "Luna Lovegood",
+      "funFact": "Luna faz comentários hilários, apontando nuvens que parecem criaturas e se esquecendo de narrar o placar, o que desespera a Professora McGonagall."
+    },
+    {
+      "id": "q62",
+      "category": "Família Black",
+      "difficulty": "medium",
+      "question": "O retrato de qual ex-diretor de Hogwarts e ancestral de Sirius Black ajuda muito Snape e Dumbledore a vigiarem a casa do Largo Grimmauld?",
+      "options": [
+        "Armando Dippet",
+        "Dilys Derwent",
+        "Phineas Nigellus Black",
+        "Everard"
+      ],
+      "correctAnswer": "Phineas Nigellus Black",
+      "funFact": "No último livro, Hermione rouba o quadro dele do Largo Grimmauld para que ele não denuncie a localização deles para Snape, que havia assumido a diretoria."
+    },
+    {
+      "id": "q63",
+      "category": "Romances",
+      "difficulty": "easy",
+      "question": "Em 'A Ordem da Fênix', onde acontece o desastroso encontro romântico no Dia dos Namorados entre Harry e Cho Chang?",
+      "options": [
+        "No Três Vassouras",
+        "No Salão de Chá da Madame Puddifoot",
+        "Na Dedos de Mel",
+        "À beira do Lago Negro"
+      ],
+      "correctAnswer": "No Salão de Chá da Madame Puddifoot",
+      "funFact": "O lugar era cheio de frufrus cor-de-rosa, rendas e querubins atirando confetes. Cho acaba chorando ao lembrar de Cedrico e vai embora furiosa."
+    },
+    {
+      "id": "q64",
+      "category": "Passado de Voldemort",
+      "difficulty": "hard",
+      "question": "Para quem pertencia a Taça de Hufflepuff e o Medalhão de Slytherin antes de Tom Riddle roubá-los e transformar em Horcruxes?",
+      "options": [
+        "Borgin e Burkes",
+        "Hepzibá Smith",
+        "Caractacus Burke",
+        "Báthida Bagshot"
+      ],
+      "correctAnswer": "Hepzibá Smith",
+      "funFact": "Hepzibá era uma velha colecionadora muito rica. Voldemort a envenenou, roubou os artefatos e alterou a memória do elfo doméstico dela, Hóquei, para que o elfo confessasse o crime."
+    },
+    {
+      "id": "q65",
+      "category": "História dos Elfos",
+      "difficulty": "hard",
+      "question": "Qual é o nome da elfa doméstica da família Crouch que foi demitida após a Copa Mundial e desenvolveu um problema sério com cerveja amanteigada?",
+      "options": ["Monstro", "Hóquei", "Dobby", "Winky"],
+      "correctAnswer": "Winky",
+      "funFact": "Winky foi acolhida por Dumbledore em Hogwarts junto com Dobby, mas passava os dias chorando na cozinha de Hogwarts por ter 'desonrado' sua antiga família."
+    },
+    {
+      "id": "q66",
+      "category": "Quadribol",
+      "difficulty": "easy",
+      "question": "Qual é o esporte mágico violento que foi jogado na Escócia e é frequentemente mencionado como precursor e concorrente das antigas vassouras?",
+      "options": ["Rachacrânio", "Trancabola", "Furabexiga", "Creaothceann"],
+      "correctAnswer": "Creaothceann",
+      "funFact": "Nesse esporte, os jogadores voavam em vassouras com caldeirões amarrados na cabeça tentando capturar pedras cadentes. Foi banido em 1762 por ser letal."
+    },
+    {
+      "id": "q67",
+      "category": "Mistérios",
+      "difficulty": "hard",
+      "question": "Em 'As Relíquias da Morte', quem enviava o programa de rádio 'Observatório Potter' (Potterwatch) para manter a resistência informada?",
+      "options": [
+        "Lino Jordan",
+        "Remo Lupin",
+        "Arthur Weasley",
+        "Quim Shacklebolt"
+      ],
+      "correctAnswer": "Lino Jordan",
+      "funFact": "Lino apresentava o programa clandestino usando a senha (frequentemente 'Alvo' ou 'Loucura') sob o codinome 'River'. Lupin participava como 'Romulus'."
+    },
+    {
+      "id": "q68",
+      "category": "Os Fundadores",
+      "difficulty": "medium",
+      "question": "Todo ano, na Cerimônia de Seleção, o Chapéu Seletor canta uma música. No livro 'A Ordem da Fênix', qual foi a mensagem principal da canção?",
+      "options": [
+        "Um aviso de que as casas deveriam se unir",
+        "Uma história de como Hogwarts foi construída",
+        "Uma promessa de proteger a escola dos trouxas",
+        "Um elogio a Alvo Dumbledore"
+      ],
+      "correctAnswer": "Um aviso de que as casas deveriam se unir",
+      "funFact": "O Chapéu avisou que Hogwarts corria perigo externo e que a divisão entre as casas seria a ruína da escola se eles não fossem fortes juntos."
+    },
+    {
+      "id": "q69",
+      "category": "Cenas Deletadas",
+      "difficulty": "medium",
+      "question": "O que acontece no funeral de Alvo Dumbledore que demonstra o imenso respeito das Criaturas Mágicas pelo diretor?",
+      "options": [
+        "Os dragões voaram sobre a escola",
+        "Os centauros dispararam flechas para cima e os sereianos cantaram",
+        "Os testrálios desceram até os terrenos e se ajoelharam",
+        "Os gigantes deitaram no chão em luto"
+      ],
+      "correctAnswer": "Os centauros dispararam flechas para cima e os sereianos cantaram",
+      "funFact": "O funeral inteiro (o Túmulo Branco) foi belíssimo nos livros, contando com a presença do Ministério, alunos, centauros e do próprio povo da água prestando homenagens."
+    },
+    {
+      "id": "q70",
+      "category": "Professores",
+      "difficulty": "easy",
+      "question": "Como o Professor Binns, que leciona História da Magia, entra na sala de aula todos os dias?",
+      "options": [
+        "Aparatando",
+        "Caminhando normalmente",
+        "Atravessando o quadro-negro",
+        "Voando pela janela"
+      ],
+      "correctAnswer": "Atravessando o quadro-negro",
+      "funFact": "Binns é o único professor fantasma de Hogwarts. Diz a lenda que ele era muito velho, dormiu na frente da lareira da sala dos professores, acordou para dar aula e deixou o corpo físico para trás."
+    },
+    {
+      "id": "q71",
+      "category": "Personagens Ocultos",
+      "difficulty": "hard",
+      "question": "Quando Harry, Rony e Hermione visitam o Hospital São Mungus, o que a mãe de Neville (Alice Longbottom) dá a ele como presente, e que ele guarda no bolso?",
+      "options": [
+        "Um sapo de chocolate",
+        "Uma embalagem de chiclete",
+        "Uma moeda antiga",
+        "Uma pena de coruja"
+      ],
+      "correctAnswer": "Uma embalagem de chiclete",
+      "funFact": "Mesmo com a mente destruída por tortura, a mãe de Neville tem o instinto de presentear o filho. A avó dele manda jogar fora, mas Neville discretamente guarda o papel no bolso."
+    },
+    {
+      "id": "q72",
+      "category": "O Passado",
+      "difficulty": "medium",
+      "question": "Por que Lílian Evans (mãe de Harry) cortou relações definitivamente com Severo Snape durante o quinto ano deles em Hogwarts?",
+      "options": [
+        "Snape se uniu aos Comensais da Morte",
+        "Snape a chamou de 'Sangue-Ruim' em público",
+        "Snape atacou Tiago Potter pelas costas",
+        "Snape roubou as poções dela"
+      ],
+      "correctAnswer": "Snape a chamou de 'Sangue-Ruim' em público",
+      "funFact": "Em um momento de humilhação e raiva após ser atacado por Tiago, Snape descontou em Lílian, que tentava ajudá-lo. Foi o pior erro da vida dele."
+    },
+    {
+      "id": "q73",
+      "category": "Eventos Ocultos",
+      "difficulty": "medium",
+      "question": "No livro 'A Pedra Filosofal', quem realmente leva o dragão Norberto para fora de Hogwarts?",
+      "options": [
+        "Alvo Dumbledore",
+        "Os amigos de Carlinhos Weasley",
+        "Rúbeo Hagrid",
+        "Professor Quirrell"
+      ],
+      "correctAnswer": "Os amigos de Carlinhos Weasley",
+      "funFact": "Harry e Hermione sobem com o filhote de dragão na Torre de Astronomia no meio da noite para entregá-lo aos amigos de Carlinhos, que levam Norberto voando em vassouras para a Romênia."
+    },
+    {
+      "id": "q74",
+      "category": "Segredos de Dumbledore",
+      "difficulty": "easy",
+      "question": "O que Alvo Dumbledore afirma ver quando se olha no Espelho de Ojesed (que mostra o desejo mais profundo do coração)?",
+      "options": [
+        "A paz no mundo bruxo",
+        "O retorno de sua irmã",
+        "Um belo par de meias grossas de lã",
+        "A Pedra Filosofal"
+      ],
+      "correctAnswer": "Um belo par de meias grossas de lã",
+      "funFact": "Mais tarde, Harry percebe que Dumbledore provavelmente mentiu para ele. Em 'As Relíquias da Morte', fica implícito que Dumbledore via sua família reunida e viva."
+    },
+    {
+      "id": "q75",
+      "category": "Animais de Estimação",
+      "difficulty": "easy",
+      "question": "Como se chama a coruja minúscula e hiperativa que Sirius Black dá de presente para Rony substituir Perebas?",
+      "options": ["Hermes", "Errol", "Pichitinho", "Edwiges"],
+      "correctAnswer": "Pichitinho",
+      "funFact": "Gina o apelida de 'Píchi'. A coruja é tão pequena e animada que Rony frequentemente se irrita com ela, mas demonstra muito carinho escondido."
+    },
+    {
+      "id": "q76",
+      "category": "Nomes e Origens",
+      "difficulty": "hard",
+      "question": "Qual era o nome de solteira da mãe de Severo Snape, que inspirou o seu apelido de 'O Príncipe Mestiço'?",
+      "options": [
+        "Eileen Prince",
+        "Mérope Prince",
+        "Walburga Prince",
+        "Irma Prince"
+      ],
+      "correctAnswer": "Eileen Prince",
+      "funFact": "Snape era mestiço porque seu pai, Tobias Snape, era trouxa. Ele usou o sobrenome de solteira da mãe puro-sangue para criar seu pseudônimo escolar."
+    },
+    {
+      "id": "q77",
+      "category": "Dinheiro Mágico",
+      "difficulty": "medium",
+      "question": "O que Harry fez com o prêmio de 1.000 galeões que ganhou ao vencer o Torneio Tribruxo?",
+      "options": [
+        "Guardou em Gringotes",
+        "Deu para os pais de Cedrico Diggory",
+        "Comprou uma nova vassoura",
+        "Deu para Fred e Jorge abrirem a loja de logros"
+      ],
+      "correctAnswer": "Deu para Fred e Jorge abrirem a loja de logros",
+      "funFact": "Os pais de Cedrico não aceitaram o dinheiro. Harry forçou os gêmeos a aceitarem com a condição de que comprassem trajes a rigor decentes para Rony."
+    },
+    {
+      "id": "q78",
+      "category": "Segredos",
+      "difficulty": "hard",
+      "question": "No segundo livro, Harry descobre que o zelador Argo Filch está fazendo um curso por correspondência porque ele é um aborto. Qual o nome do curso?",
+      "options": [
+        "Magia Rápida",
+        "Feitiçoclick",
+        "Bruxo Prático",
+        "Encantamentos para Iniciantes"
+      ],
+      "correctAnswer": "Feitiçoclick",
+      "funFact": "O Kwikspell (Feitiçoclick) prometia ajudar pessoas sem talento mágico a lançarem feitiços básicos. Filch tinha vergonha de ser um Aborto (alguém nascido de bruxos, mas sem magia)."
+    },
+    {
+      "id": "q79",
+      "category": "Artefatos Mágicos",
+      "difficulty": "medium",
+      "question": "Nos livros, em que momento Harry recebe sua vassoura Firebolt?",
+      "options": [
+        "No início do terceiro ano",
+        "No Natal do terceiro ano",
+        "No final do terceiro ano",
+        "No torneio do quarto ano"
+      ],
+      "correctAnswer": "No Natal do terceiro ano",
+      "funFact": "No filme ele a recebe no final do filme. No livro, ele a recebe no Natal de forma anônima, e Hermione a confisca junto com McGonagall por meses para verificar se estava amaldiçoada."
+    },
+    {
+      "id": "q80",
+      "category": "Desfechos",
+      "difficulty": "easy",
+      "question": "Nos livros, o que Harry faz com a Varinha das Varinhas após derrotar Voldemort?",
+      "options": [
+        "Ele a quebra ao meio",
+        "Ele a esconde no Ministério",
+        "Ele a devolve ao túmulo de Dumbledore",
+        "Ele a joga no Lago Negro"
+      ],
+      "correctAnswer": "Ele a devolve ao túmulo de Dumbledore",
+      "funFact": "Antes de devolvê-la (com a intenção de que seu poder morresse quando Harry morresse de causas naturais), ele a usa uma última vez para consertar sua própria varinha de azevinho, cena ignorada nos filmes."
+    },
+    {
+      "id": "q81",
+      "category": "Medos",
+      "difficulty": "medium",
+      "question": "Qual é o Bicho-Papão de Hermione Granger, revelado durante seus exames finais no terceiro livro?",
+      "options": [
+        "Um trasgo",
+        "Voldemort",
+        "A Professora McGonagall dizendo que ela reprovou em tudo",
+        "Seus pais mortos"
+      ],
+      "correctAnswer": "A Professora McGonagall dizendo que ela reprovou em tudo",
+      "funFact": "O perfeccionismo e a pressão acadêmica de Hermione eram tão intensos que seu maior medo paralisante era o fracasso escolar."
+    },
+    {
+      "id": "q82",
+      "category": "Ministério da Magia",
+      "difficulty": "medium",
+      "question": "Qual ex-Chefe dos Aurores substitui Cornélio Fudge como Ministro da Magia no sexto livro?",
+      "options": [
+        "Pio Thicknesse",
+        "Rufo Scrimgeour",
+        "Amélia Bones",
+        "Barto Crouch Sr."
+      ],
+      "correctAnswer": "Rufo Scrimgeour",
+      "funFact": "Scrimgeour lembrava um velho leão grisalho e foi assassinado sob tortura por Voldemort pouco antes do casamento de Gui e Fleur. Ele morreu sem revelar a localização de Harry."
+    },
+    {
+      "id": "q83",
+      "category": "Economia Mágica",
+      "difficulty": "hard",
+      "question": "Com qual tipo de dinheiro Ludo Bagman paga sua dívida com Fred e Jorge, o que gera uma grande revolta nos gêmeos?",
+      "options": [
+        "Galeões falsos",
+        "Ouro de Leprechaun",
+        "Galeões de chocolate",
+        "Moedas do Ministério"
+      ],
+      "correctAnswer": "Ouro de Leprechaun",
+      "funFact": "O Ouro de Leprechaun desaparece horas depois de ser criado. Bagman enganou os duendes e os alunos para fugir com o dinheiro de verdade."
+    },
+    {
+      "id": "q84",
+      "category": "Objetos das Trevas",
+      "difficulty": "medium",
+      "question": "No livro 'A Ordem da Fênix', como as palavras 'Não devo contar mentiras' são gravadas na mão de Harry?",
+      "options": [
+        "Umbridge as esculpe com a própria varinha",
+        "Ele usa uma Pena de Sangue",
+        "Um feitiço no pergaminho reflete na pele",
+        "Umbridge manda Filch marcá-lo"
+      ],
+      "correctAnswer": "Ele usa uma Pena de Sangue",
+      "funFact": "A pena especial de Dolores Umbridge não usa tinta; ela corta as costas da mão do usuário e extrai o próprio sangue para escrever as palavras."
+    },
+    {
+      "id": "q85",
+      "category": "Professores",
+      "difficulty": "hard",
+      "question": "Quem substitui Hagrid como Professor de Trato das Criaturas Mágicas quando ele precisa se afastar no quarto livro por causa das reportagens de Rita Skeeter?",
+      "options": [
+        "Professor Kettleburn",
+        "Guilhermina Grubbly-Plank",
+        "Newton Scamander",
+        "Rolanda Hooch"
+      ],
+      "correctAnswer": "Guilhermina Grubbly-Plank",
+      "funFact": "Ela era uma excelente professora que lidava com criaturas menos letais que as de Hagrid, começando sua primeira aula apresentando um belíssimo Unicórnio aos alunos."
+    },
+    {
+      "id": "q86",
+      "category": "Mundo Trouxa",
+      "difficulty": "easy",
+      "question": "Qual é a profissão dos pais de Hermione Granger no mundo trouxa?",
+      "options": ["Advogados", "Médicos", "Dentistas", "Professores"],
+      "correctAnswer": "Dentistas",
+      "funFact": "Eles ficaram encantados quando descobriram a magia e enviaram doces sem açúcar para Hogwarts para preservar os dentes de Hermione."
+    },
+    {
+      "id": "q87",
+      "category": "Família Weasley",
+      "difficulty": "medium",
+      "question": "Qual é o nome da rabugenta tia-avó de Rony, cujo vestido Rony é forçado a usar no Baile de Inverno?",
+      "options": ["Tia Muriel", "Tia Tessie", "Tia Enid", "Tia Mafalda"],
+      "correctAnswer": "Tia Tessie",
+      "funFact": "Nos livros, as vestes a rigor de Rony eram de segunda mão, exalavam cheiro de mofo e possuíam babados horrendos de renda."
+    },
+    {
+      "id": "q88",
+      "category": "Redenções",
+      "difficulty": "hard",
+      "question": "O que Duda Dursley deixa no chão, do lado de fora do quarto de Harry, como um gesto silencioso de paz no início de 'As Relíquias da Morte'?",
+      "options": [
+        "Um sapo de chocolate",
+        "Uma xícara de chá",
+        "Um pedaço de bolo",
+        "Um bilhete de desculpas"
+      ],
+      "correctAnswer": "Uma xícara de chá",
+      "funFact": "Harry acidentalmente pisa na xícara achando que era uma armadilha, mas depois percebe que Duda realmente tentou ser gentil com ele."
+    },
+    {
+      "id": "q89",
+      "category": "Família Dursley",
+      "difficulty": "medium",
+      "question": "Qual o nome da empresa onde Válter Dursley trabalha como diretor?",
+      "options": ["Grunnings", "Stonewall", "Smeltings", "Privet Drive Inc."],
+      "correctAnswer": "Grunnings",
+      "funFact": "A Grunnings é uma fábrica que faz brocas. O Tio Válter se orgulha muito de sua normalidade aborrecida e adora falar sobre furadeiras."
+    },
+    {
+      "id": "q90",
+      "category": "Símbolos",
+      "difficulty": "medium",
+      "question": "Por que Vítor Krum ameaça atacar Xenofílio Lovegood durante o casamento de Gui e Fleur no último livro?",
+      "options": [
+        "Xenofílio o ofendeu em búlgaro",
+        "Xenofílio roubou uma taça",
+        "Xenofílio usava o símbolo das Relíquias da Morte no pescoço",
+        "Xenofílio pisou no vestido de Hermione"
+      ],
+      "correctAnswer": "Xenofílio usava o símbolo das Relíquias da Morte no pescoço",
+      "funFact": "Krum não conhecia a lenda das Relíquias da Morte. Para ele, aquele triângulo era o símbolo sombrio do bruxo das trevas Gerardo Grindelwald."
+    },
+    {
+      "id": "q91",
+      "category": "Vítimas de Voldemort",
+      "difficulty": "hard",
+      "question": "Qual é o nome da professora de Estudo dos Trouxas que Voldemort assassina e dá para sua cobra Nagini comer, no primeiro capítulo de 'As Relíquias da Morte'?",
+      "options": [
+        "Aurora Sinistra",
+        "Báthida Bagshot",
+        "Caridade Burbage",
+        "Septima Vector"
+      ],
+      "correctAnswer": "Caridade Burbage",
+      "funFact": "Ela foi assassinada na frente dos Comensais da Morte reunidos na Mansão Malfoy por ter escrito um artigo defendendo casamentos entre trouxas e bruxos."
+    },
+    {
+      "id": "q92",
+      "category": "Invenções Mágicas",
+      "difficulty": "medium",
+      "question": "Como Fred e Jorge Weasley testavam as invenções de sua loja de logros enquanto ainda estavam em Hogwarts?",
+      "options": [
+        "Eles testavam nos elfos domésticos",
+        "Eles pagavam alunos do primeiro ano da Grifinória para servirem de cobaias",
+        "Eles testavam secretamente na Professora Umbridge",
+        "Eles usavam sapos e ratos"
+      ],
+      "correctAnswer": "Eles pagavam alunos do primeiro ano da Grifinória para servirem de cobaias",
+      "funFact": "Hermione ficou furiosa e ameaçou denunciá-los caso não parassem de testar o Nugá Sangra-Nariz nos calouros desavisados."
+    },
+    {
+      "id": "q93",
+      "category": "Desafios Ocultos",
+      "difficulty": "medium",
+      "question": "Qual obstáculo foi colocado pelo Professor Quirrell para proteger a Pedra Filosofal no primeiro livro?",
+      "options": [
+        "Uma poção explosiva",
+        "O espelho de Ojesed",
+        "Um Trasgo montanhês",
+        "Um enxame de Diabretes"
+      ],
+      "correctAnswer": "Um Trasgo montanhês",
+      "funFact": "Eles não precisaram enfrentar o trasgo porque Quirrell já o havia deixado nocauteado antes que o trio chegasse àquela câmara."
+    },
+    {
+      "id": "q94",
+      "category": "Poções Desastrosas",
+      "difficulty": "easy",
+      "question": "O que acontece com Hermione quando ela bebe a Poção Polissuco com o pelo que encontrou nas vestes de Emília Bulstrode?",
+      "options": [
+        "Ela fica presa na forma de Emília",
+        "Ela vira um gato",
+        "A poção a faz desmaiar",
+        "A poção a transforma em um corvo"
+      ],
+      "correctAnswer": "Ela vira um gato",
+      "funFact": "O pelo não era de Emília, mas do gato de estimação dela. A Poção Polissuco não foi feita para transformações animais, forçando Hermione a passar semanas na ala hospitalar."
+    },
+    {
+      "id": "q95",
+      "category": "Os Fundadores",
+      "difficulty": "hard",
+      "question": "Quem roubou o Diadema de Rowena Corvinal original e o escondeu em uma floresta na Albânia?",
+      "options": [
+        "Salazar Sonserina",
+        "Helena Corvinal (A Dama Cinzenta)",
+        "Tom Riddle",
+        "O Barão Sangrento"
+      ],
+      "correctAnswer": "Helena Corvinal (A Dama Cinzenta)",
+      "funFact": "Helena, filha de Rowena, roubou o diadema por inveja. Ela foi morta pelo Barão Sangrento, e seu fantasma acabou revelando o esconderijo séculos depois para Tom Riddle."
+    },
+    {
+      "id": "q96",
+      "category": "Magia das Trevas",
+      "difficulty": "hard",
+      "question": "Qual assassinato Voldemort utilizou para rasgar sua própria alma e criar sua primeira Horcrux, o Diário?",
+      "options": [
+        "O assassinato de seu pai Trouxa",
+        "A morte de Murta Que Geme",
+        "O assassinato de Hepzibá Smith",
+        "A morte do zelador de sua antiga mansão"
+      ],
+      "correctAnswer": "A morte de Murta Que Geme",
+      "funFact": "Ele abriu a Câmara Secreta aos 16 anos, comandou o Basilisco a matar Murta Warren no banheiro feminino, e usou esse ato atroz para criar o Diário."
+    },
+    {
+      "id": "q97",
+      "category": "Batalha Final",
+      "difficulty": "medium",
+      "question": "O que Rony e Hermione usam para destruir a Taça de Hufflepuff (que era uma Horcrux) durante a Batalha de Hogwarts?",
+      "options": [
+        "A espada de Grifinória",
+        "Fogo Maldito",
+        "Presas do esqueleto do Basilisco",
+        "O feitiço Sectumsempra"
+      ],
+      "correctAnswer": "Presas do esqueleto do Basilisco",
+      "funFact": "Como Harry não estava com eles, Rony imitou a ofidioglossia que ouviu Harry falar para abrir a Câmara Secreta novamente e pegar as presas envenenadas."
+    },
+    {
+      "id": "q98",
+      "category": "A Profecia",
+      "difficulty": "medium",
+      "question": "Após a esfera de vidro se quebrar no Departamento de Mistérios, quem finalmente revela o conteúdo da profecia inteira a Harry?",
+      "options": [
+        "Sibila Trelawney",
+        "Alvo Dumbledore",
+        "Neville Longbottom",
+        "Remo Lupin"
+      ],
+      "correctAnswer": "Alvo Dumbledore",
+      "funFact": "Dumbledore tinha a profecia armazenada na Penseira, pois foi ele quem a ouviu originalmente dos lábios de Trelawney anos antes, no Cabeça de Javali."
+    },
+    {
+      "id": "q99",
+      "category": "Nova Geração",
+      "difficulty": "easy",
+      "question": "Como se chama o filho órfão de Ninfadora Tonks e Remo Lupin, do qual Harry Potter se torna padrinho?",
+      "options": ["Teddy Lupin", "Tiago Lupin", "Rômulo Lupin", "Sirius Lupin"],
+      "correctAnswer": "Teddy Lupin",
+      "funFact": "Nomeado em homenagem ao avô materno (Ted Tonks), o menino puxou a habilidade da mãe e nasceu como um Metamorfomago (capaz de mudar a cor dos cabelos e aparência à vontade)."
+    },
+    {
+      "id": "q100",
+      "category": "O Fim",
+      "difficulty": "hard",
+      "question": "Qual é a exata última frase do último livro da saga original, 'As Relíquias da Morte'?",
+      "options": [
+        "O Expresso de Hogwarts partiu.",
+        "Tudo estava bem.",
+        "Ele sabia que estava em casa.",
+        "O mal fora derrotado para sempre."
+      ],
+      "correctAnswer": "Tudo estava bem.",
+      "funFact": "A frase encerra o epílogo 'Dezenove Anos Depois' ('A cicatriz não doera nos últimos dezenove anos. Tudo estava bem.'), marcando a paz definitiva após a juventude sombria do personagem."
+    }
+  ]
+}

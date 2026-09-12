@@ -1,0 +1,132 @@
+{
+  "houses": [
+    {
+      "house": "Grifondoro",
+      "emoji": "🦁",
+      "founder": "Godric Grifondoro",
+      "colors": {
+        "name": [
+          "rosso",
+          "oro"
+        ],
+        "hex": [
+          "#7F0909",
+          "#FFC500"
+        ]
+      },
+      "animal": "Leone",
+      "id": "gryffindor",
+      "element": "Fuoco",
+      "traits": [
+        "Coraggio",
+        "Audacia",
+        "Determinazione",
+        "Cavalleria"
+      ],
+      "description": "Casa dei nobili e degli audaci, valorizza gli atti eroici e la fermezza morale nei momenti critici.",
+      "ghost": "Nick Quasi-Senza-Testa",
+      "relic": "Spada di Godric Grifondoro",
+      "common_room": {
+        "location": "Torre di Grifondoro (7º piano)",
+        "access": "Una parola d’ordine pronunciata davanti al ritratto della Signora Grassa"
+      },
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/houses/gryffindor.png"
+    },
+    {
+      "house": "Tassorosso",
+      "emoji": "🦡",
+      "founder": "Tosca Tassorosso",
+      "colors": {
+        "name": [
+          "giallo",
+          "nero"
+        ],
+        "hex": [
+          "#ECB939",
+          "#000000"
+        ]
+      },
+      "animal": "Tasso",
+      "id": "hufflepuff",
+      "element": "Terra",
+      "traits": [
+        "Lealtà",
+        "Duro lavoro",
+        "Pazienza",
+        "Giustizia"
+      ],
+      "description": "Accoglie i giusti e i leali, dando priorità alla costanza, al cameratismo e all’impegno onesto.",
+      "ghost": "Il Frate Grasso",
+      "relic": "Tazza di Tosca Tassorosso",
+      "common_room": {
+        "location": "Vicino alle cucine di Hogwarts",
+        "access": "Bussare ritmicamente al barile giusto (con il ritmo di 'Tosca Tassorosso')"
+      },
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/houses/hufflepuff.png"
+    },
+    {
+      "house": "Corvonero",
+      "emoji": "🦅",
+      "founder": "Priscilla Corvonero",
+      "colors": {
+        "name": [
+          "blu",
+          "bronzo"
+        ],
+        "hex": [
+          "#0E1A40",
+          "#946B2D"
+        ]
+      },
+      "animal": "Corvo",
+      "id": "ravenclaw",
+      "element": "Aria",
+      "traits": [
+        "Intelligenza",
+        "Saggezza",
+        "Creatività",
+        "Curiosità"
+      ],
+      "description": "Casa dei pensatori e degli spiriti curiosi, celebra la mente acuta, l’originalità e l’intelletto aperto.",
+      "ghost": "La Dama Grigia (Helena Corvonero)",
+      "relic": "Diadema di Priscilla Corvonero",
+      "common_room": {
+        "location": "Torre di Corvonero (lato ovest)",
+        "access": "Rispondere correttamente a un enigma filosofico del battente a forma di aquila"
+      },
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/houses/ravenclaw.png"
+    },
+    {
+      "house": "Serpeverde",
+      "emoji": "🐍",
+      "founder": "Salazar Serpeverde",
+      "colors": {
+        "name": [
+          "verde",
+          "argento"
+        ],
+        "hex": [
+          "#1A472A",
+          "#AAAAAA"
+        ]
+      },
+      "animal": "Serpente",
+      "id": "slytherin",
+      "element": "Acqua",
+      "traits": [
+        "Ambizione",
+        "Astuzia",
+        "Leadership",
+        "Autoconservazione"
+      ],
+      "description": "Destinata ai determinati e agli strateghi, dove intraprendenza e ricerca della grandezza plasmano il cammino.",
+      "ghost": "Il Barone Sanguinario",
+      "relic": "Medaglione di Salazar Serpeverde",
+      "common_room": {
+        "location": "I sotterranei (sotto il Lago Nero)",
+        "access": "Una parola d’ordine pronunciata davanti a un muro di pietra nuda"
+      },
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/houses/slytherin.png"
+    }
+  ]
+}
