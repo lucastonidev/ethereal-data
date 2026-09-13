@@ -11,31 +11,28 @@
         "Lily Luna Potter"
       ],
       "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/harry_potter.png",
-      "birthdate": "Jul 31, 1980"
+      "birthdate": "Jul 31, 1980",
+      "patronus": "Cervo"
     },
     {
       "fullName": "Hermione Jean Granger",
       "nickname": "Hermione",
       "hogwartsHouse": "Grifinória",
       "interpretedBy": "Emma Watson",
-      "children": [
-        "Rose Granger-Weasley",
-        "Hugo Granger-Weasley"
-      ],
+      "children": ["Rose Granger-Weasley", "Hugo Granger-Weasley"],
       "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/hermione_granger.png",
-      "birthdate": "Sep 19, 1979"
+      "birthdate": "Sep 19, 1979",
+      "patronus": "Lontra"
     },
     {
       "fullName": "Ron Weasley",
       "nickname": "Ron",
       "hogwartsHouse": "Grifinória",
       "interpretedBy": "Rupert Grint",
-      "children": [
-        "Rose Granger-Weasley",
-        "Hugo Granger-Weasley"
-      ],
+      "children": ["Rose Granger-Weasley", "Hugo Granger-Weasley"],
       "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/ron_weasley.png",
-      "birthdate": "Mar 1, 1980"
+      "birthdate": "Mar 1, 1980",
+      "patronus": "Cão Jack Russell Terrier"
     },
     {
       "fullName": "Fred Weasley",
@@ -44,7 +41,8 @@
       "interpretedBy": "James Phelps",
       "children": [],
       "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/fred_weasley.png",
-      "birthdate": "Apr 1, 1978"
+      "birthdate": "Apr 1, 1978",
+      "patronus": "Pega"
     },
     {
       "fullName": "George Weasley",
@@ -53,7 +51,8 @@
       "interpretedBy": "Oliver Phelps",
       "children": [],
       "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/george_weasley.png",
-      "birthdate": "Apr 1, 1978"
+      "birthdate": "Apr 1, 1978",
+      "patronus": "Pega"
     },
     {
       "fullName": "Bill Weasley",
@@ -62,7 +61,8 @@
       "interpretedBy": "Domhnall Gleeson",
       "children": [],
       "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/bill_weasley.png",
-      "birthdate": "Nov 29, 1970"
+      "birthdate": "Nov 29, 1970",
+      "patronus": "Não disponível/Desconhecido"
     },
     {
       "fullName": "Percy Weasley",
@@ -71,7 +71,8 @@
       "interpretedBy": "Chris Rankin",
       "children": [],
       "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/percy_weasley.png",
-      "birthdate": "Aug 22, 1976"
+      "birthdate": "Aug 22, 1976",
+      "patronus": "Não disponível/Desconhecido"
     },
     {
       "fullName": "Charlie Weasley",
@@ -80,7 +81,8 @@
       "interpretedBy": "",
       "children": [],
       "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/charlie_weasley.png",
-      "birthdate": "Dec 12, 1972"
+      "birthdate": "Dec 12, 1972",
+      "patronus": "Não disponível/Desconhecido"
     },
     {
       "fullName": "Ginny Weasley",
@@ -93,7 +95,8 @@
         "Lily Luna Potter"
       ],
       "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/ginny_weasley.png",
-      "birthdate": "Aug 11, 1981"
+      "birthdate": "Aug 11, 1981",
+      "patronus": "Cavalo"
     },
     {
       "fullName": "Molly Weasley",
@@ -110,7 +113,8 @@
         "Ginny Weasley"
       ],
       "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/molly_weasley.png",
-      "birthdate": "Oct 30, 1949"
+      "birthdate": "Oct 30, 1949",
+      "patronus": "Não disponível/Desconhecido"
     },
     {
       "fullName": "Arthur Weasley",
@@ -127,7 +131,8 @@
         "Ginny Weasley"
       ],
       "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/arthur_weasley.png",
-      "birthdate": "Feb 6, 1950"
+      "birthdate": "Feb 6, 1950",
+      "patronus": "Doninha"
     },
     {
       "fullName": "Neville Longbottom",
@@ -136,7 +141,8 @@
       "interpretedBy": "Matthew Lewis",
       "children": [],
       "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/neville_longbottom.png",
-      "birthdate": "Jul 30, 1980"
+      "birthdate": "Jul 30, 1980",
+      "patronus": "Não disponível/Desconhecido"
     },
     {
       "fullName": "Luna Lovegood",
@@ -145,18 +151,18 @@
       "interpretedBy": "Evanna Lynch",
       "children": [],
       "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/luna_lovegood.png",
-      "birthdate": "Feb 13, 1981"
+      "birthdate": "Feb 13, 1981",
+      "patronus": "Lebre"
     },
     {
       "fullName": "Draco Lúcio Malfoy",
       "nickname": "Draco",
       "hogwartsHouse": "Sonserina",
       "interpretedBy": "Tom Felton",
-      "children": [
-        "Scorpius Malfoy"
-      ],
+      "children": ["Scorpius Malfoy"],
       "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/draco_malfoy.png",
-      "birthdate": "Jun 5, 1980"
+      "birthdate": "Jun 5, 1980",
+      "patronus": "Não disponível/Desconhecido"
     },
     {
       "fullName": "Albus Percival Wulfric Brian Dumbledore",
@@ -165,7 +171,8 @@
       "interpretedBy": "Richard Harris",
       "children": [],
       "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/albus_dumbledore.png",
-      "birthdate": "Aug 29, 1881"
+      "birthdate": "Aug 29, 1881",
+      "patronus": "Fênix"
     },
     {
       "fullName": "Minerva McGonagall",
@@ -174,18 +181,18 @@
       "interpretedBy": "Maggie Smith",
       "children": [],
       "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/minerva_mcgonagall.png",
-      "birthdate": "Oct 4, 1935"
+      "birthdate": "Oct 4, 1935",
+      "patronus": "Gato"
     },
     {
       "fullName": "Remus Lupin",
       "nickname": "Lupin",
       "hogwartsHouse": "Grifinória",
       "interpretedBy": "David Thewils",
-      "children": [
-        "Ted Lupin"
-      ],
+      "children": ["Ted Lupin"],
       "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/remus_lupin.png",
-      "birthdate": "Mar 10, 1960"
+      "birthdate": "Mar 10, 1960",
+      "patronus": "Lobo"
     },
     {
       "fullName": "Rubeus Hagrid",
@@ -194,7 +201,8 @@
       "interpretedBy": "Robbie Coltrane",
       "children": [],
       "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/rubeus_hagrid.png",
-      "birthdate": "Dec 6, 1928"
+      "birthdate": "Dec 6, 1928",
+      "patronus": "Não disponível/Desconhecido"
     },
     {
       "fullName": "Sirius Black",
@@ -203,7 +211,8 @@
       "interpretedBy": "Gary Oldman",
       "children": [],
       "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/sirius_black.png",
-      "birthdate": "Nov 3, 1959"
+      "birthdate": "Nov 3, 1959",
+      "patronus": "Cachorro"
     },
     {
       "fullName": "Severus Snape",
@@ -212,29 +221,28 @@
       "interpretedBy": "Alan Rickman",
       "children": [],
       "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/severus_snape.png",
-      "birthdate": "Jan 9, 1960"
+      "birthdate": "Jan 9, 1960",
+      "patronus": "Corça"
     },
     {
       "fullName": "Bellatrix Lestrange",
       "nickname": "Bella",
       "hogwartsHouse": "Sonserina",
       "interpretedBy": "Helena Bonham Carter",
-      "children": [
-        "Delphi"
-      ],
+      "children": ["Delphi"],
       "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/bellatrix_lestrange.png",
-      "birthdate": "Dec 13, 1951"
+      "birthdate": "Dec 13, 1951",
+      "patronus": "Não disponível/Desconhecido"
     },
     {
       "fullName": "Lord Voldemort",
       "nickname": "Voldemort",
       "hogwartsHouse": "Sonserina",
       "interpretedBy": "Ralph Fiennes",
-      "children": [
-        "Delphi"
-      ],
+      "children": ["Delphi"],
       "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/lord_voldemort.png",
-      "birthdate": "Dec 31, 1926"
+      "birthdate": "Dec 31, 1926",
+      "patronus": "Não disponível/Desconhecido"
     },
     {
       "fullName": "Cedric Diggory",
@@ -243,29 +251,328 @@
       "interpretedBy": "Robert Pattinson",
       "children": [],
       "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/cedric_diggory.png",
-      "birthdate": "Sep 29, 1977"
+      "birthdate": "Sep 29, 1977",
+      "patronus": "Não disponível/Desconhecido"
     },
     {
       "fullName": "Ninfadora Tonks",
       "nickname": "Tonks",
       "hogwartsHouse": "Lufa-lufa",
       "interpretedBy": "Natalia Tena",
-      "children": [
-        "Ted Lupin"
-      ],
+      "children": ["Ted Lupin"],
       "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/nymphadora_tonks.png",
-      "birthdate": "Dec 25, 1972"
+      "birthdate": "Dec 25, 1972",
+      "patronus": "Lobo"
     },
     {
       "fullName": "James Potter",
       "nickname": "James",
       "hogwartsHouse": "Grifinória",
       "interpretedBy": "Adrian Rawlins",
-      "children": [
-        "Harry Potter"
-      ],
+      "children": ["Harry Potter"],
       "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/james_potter.png",
-      "birthdate": "Mar 27, 1960"
+      "birthdate": "Mar 27, 1960",
+      "patronus": "Cervo"
+    },
+    {
+      "fullName": "Cho Chang",
+      "nickname": "Cho",
+      "hogwartsHouse": "Corvinal",
+      "interpretedBy": "Katie Leung",
+      "children": [],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/cho_chang.png",
+      "birthdate": "1979",
+      "patronus": "Cisne"
+    },
+    {
+      "fullName": "Filius Flitwick",
+      "nickname": "Flitwick",
+      "hogwartsHouse": "Corvinal",
+      "interpretedBy": "Warwick Davis",
+      "children": [],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/filius_flitwick.png",
+      "birthdate": "Oct 17, 1958",
+      "patronus": "Não disponível/Desconhecido"
+    },
+    {
+      "fullName": "Pomona Sprout",
+      "nickname": "Sprout",
+      "hogwartsHouse": "Lufa-lufa",
+      "interpretedBy": "Miriam Margolyes",
+      "children": [],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/pomona_sprout.png",
+      "birthdate": "May 15, 1931",
+      "patronus": "Não disponível/Desconhecido"
+    },
+    {
+      "fullName": "Horace Eugene Flaccus Slughorn",
+      "nickname": "Slughorn",
+      "hogwartsHouse": "Sonserina",
+      "interpretedBy": "Jim Broadbent",
+      "children": [],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/horace_slughorn.png",
+      "birthdate": "Apr 28, 1881",
+      "patronus": "Não disponível/Desconhecido"
+    },
+    {
+      "fullName": "Sybill Patricia Trelawney",
+      "nickname": "Trelawney",
+      "hogwartsHouse": "Corvinal",
+      "interpretedBy": "Emma Thompson",
+      "children": [],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/sybill_trelawney.png",
+      "birthdate": "Mar 9, 1962",
+      "patronus": "Não disponível/Desconhecido"
+    },
+    {
+      "fullName": "Alastor Moody",
+      "nickname": "Olho-Tonto",
+      "hogwartsHouse": "Não disponível/Desconhecido",
+      "interpretedBy": "Brendan Gleeson",
+      "children": [],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/alastor_moody.png",
+      "birthdate": "Não disponível/Desconhecido",
+      "patronus": "Não disponível/Desconhecido"
+    },
+    {
+      "fullName": "Kingsley Shacklebolt",
+      "nickname": "Kingsley",
+      "hogwartsHouse": "Não disponível/Desconhecido",
+      "interpretedBy": "George Harris",
+      "children": [],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/kingsley_shacklebolt.png",
+      "birthdate": "Não disponível/Desconhecido",
+      "patronus": "Lince"
+    },
+    {
+      "fullName": "Lucius Malfoy",
+      "nickname": "Lucius",
+      "hogwartsHouse": "Sonserina",
+      "interpretedBy": "Jason Isaacs",
+      "children": ["Draco Malfoy"],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/lucius_malfoy.png",
+      "birthdate": "1954",
+      "patronus": "Não disponível/Desconhecido"
+    },
+    {
+      "fullName": "Narcissa Malfoy",
+      "nickname": "Narcissa",
+      "hogwartsHouse": "Sonserina",
+      "interpretedBy": "Helen McCrory",
+      "children": ["Draco Malfoy"],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/narcissa_malfoy.png",
+      "birthdate": "1955",
+      "patronus": "Não disponível/Desconhecido"
+    },
+    {
+      "fullName": "Peter Pettigrew",
+      "nickname": "Rabicho",
+      "hogwartsHouse": "Grifinória",
+      "interpretedBy": "Timothy Spall",
+      "children": [],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/peter_pettigrew.png",
+      "birthdate": "1960",
+      "patronus": "Não disponível/Desconhecido"
+    },
+    {
+      "fullName": "Dolores Jane Umbridge",
+      "nickname": "Umbridge",
+      "hogwartsHouse": "Sonserina",
+      "interpretedBy": "Imelda Staunton",
+      "children": [],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/dolores_umbridge.png",
+      "birthdate": "Aug 26, 1965",
+      "patronus": "Gato Persa"
+    },
+    {
+      "fullName": "Fleur Isabelle Delacour",
+      "nickname": "Fleur",
+      "hogwartsHouse": "Beauxbatons",
+      "interpretedBy": "Clémence Poésy",
+      "children": ["Victoire Weasley", "Dominique Weasley", "Louis Weasley"],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/fleur_delacour.png",
+      "birthdate": "1977",
+      "patronus": "Não disponível/Desconhecido"
+    },
+    {
+      "fullName": "Viktor Krum",
+      "nickname": "Krum",
+      "hogwartsHouse": "Durmstrang",
+      "interpretedBy": "Stanislav Ianevski",
+      "children": [],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/viktor_krum.png",
+      "birthdate": "1976",
+      "patronus": "Não disponível/Desconhecido"
+    },
+    {
+      "fullName": "Seamus Finnigan",
+      "nickname": "Simas",
+      "hogwartsHouse": "Grifinória",
+      "interpretedBy": "Devon Murray",
+      "children": [],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/seamus_finnigan.png",
+      "birthdate": "1979",
+      "patronus": "Raposa"
+    },
+    {
+      "fullName": "Dean Thomas",
+      "nickname": "Dino",
+      "hogwartsHouse": "Grifinória",
+      "interpretedBy": "Alfred Enoch",
+      "children": [],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/dean_thomas.png",
+      "birthdate": "1979",
+      "patronus": "Não disponível/Desconhecido"
+    },
+    {
+      "fullName": "Argus Filch",
+      "nickname": "Filch",
+      "hogwartsHouse": "Não disponível/Desconhecido",
+      "interpretedBy": "David Bradley",
+      "children": [],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/argus_filch.png",
+      "birthdate": "Não disponível/Desconhecido",
+      "patronus": "Não disponível/Desconhecido"
+    },
+    {
+      "fullName": "Garrick Ollivander",
+      "nickname": "Sr. Olivaras",
+      "hogwartsHouse": "Corvinal",
+      "interpretedBy": "John Hurt",
+      "children": ["Filho desconhecido", "Filha desconhecida"],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/garrick_ollivander.png",
+      "birthdate": "Sep 25, 1907",
+      "patronus": "Não disponível/Desconhecido"
+    },
+    {
+      "fullName": "Rita Skeeter",
+      "nickname": "Rita",
+      "hogwartsHouse": "Não disponível/Desconhecido",
+      "interpretedBy": "Miranda Richardson",
+      "children": [],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/rita_skeeter.png",
+      "birthdate": "1951",
+      "patronus": "Não disponível/Desconhecido"
+    },
+    {
+      "fullName": "Gilderoy Lockhart",
+      "nickname": "Lockhart",
+      "hogwartsHouse": "Corvinal",
+      "interpretedBy": "Kenneth Branagh",
+      "children": [],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/gilderoy_lockhart.png",
+      "birthdate": "Jan 26, 1964",
+      "patronus": "Não disponível/Desconhecido"
+    },
+    {
+      "fullName": "Cornelius Oswald Fudge",
+      "nickname": "Fudge",
+      "hogwartsHouse": "Não disponível/Desconhecido",
+      "interpretedBy": "Robert Hardy",
+      "children": [],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/cornelius_fudge.png",
+      "birthdate": "Antes de 1964",
+      "patronus": "Não disponível/Desconhecido"
+    },
+    {
+      "fullName": "Vincent Crabbe",
+      "nickname": "Crabbe",
+      "hogwartsHouse": "Sonserina",
+      "interpretedBy": "Jamie Waylett",
+      "children": [],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/vincent_crabbe.png",
+      "birthdate": "1979",
+      "patronus": "Não disponível/Desconhecido"
+    },
+    {
+      "fullName": "Gregory Goyle",
+      "nickname": "Goyle",
+      "hogwartsHouse": "Sonserina",
+      "interpretedBy": "Josh Herdman",
+      "children": [],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/gregory_goyle.png",
+      "birthdate": "1979",
+      "patronus": "Não disponível/Desconhecido"
+    },
+    {
+      "fullName": "Pansy Parkinson",
+      "nickname": "Pansy",
+      "hogwartsHouse": "Sonserina",
+      "interpretedBy": "Scarlett Byrne",
+      "children": [],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/pansy_parkinson.png",
+      "birthdate": "1979",
+      "patronus": "Não disponível/Desconhecido"
+    },
+    {
+      "fullName": "Blaise Zabini",
+      "nickname": "Blásio",
+      "hogwartsHouse": "Sonserina",
+      "interpretedBy": "Louis Cordice",
+      "children": [],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/blaise_zabini.png",
+      "birthdate": "1979",
+      "patronus": "Não disponível/Desconhecido"
+    },
+    {
+      "fullName": "Lily J. Potter",
+      "nickname": "Lily",
+      "hogwartsHouse": "Grifinória",
+      "interpretedBy": "Geraldine Somerville",
+      "children": ["Harry James Potter"],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/lily_potter.png",
+      "birthdate": "Jan 30, 1960",
+      "patronus": "Corça"
+    },
+    {
+      "fullName": "Aberforth Dumbledore",
+      "nickname": "Aberforth",
+      "hogwartsHouse": "Não disponível/Desconhecido",
+      "interpretedBy": "Ciarán Hinds",
+      "children": [],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/aberforth_dumbledore.png",
+      "birthdate": "1883",
+      "patronus": "Bode"
+    },
+    {
+      "fullName": "Olympe Maxime",
+      "nickname": "Madame Maxime",
+      "hogwartsHouse": "Beauxbatons",
+      "interpretedBy": "Frances de la Tour",
+      "children": [],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/olympe_maxime.png",
+      "birthdate": "Não disponível/Desconhecido",
+      "patronus": "Não disponível/Desconhecido"
+    },
+    {
+      "fullName": "Rolanda Hooch",
+      "nickname": "Madame Hooch",
+      "hogwartsHouse": "Não disponível/Desconhecido",
+      "interpretedBy": "Zoë Wanamaker",
+      "children": [],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/rolanda_hooch.png",
+      "birthdate": "Não disponível/Desconhecido",
+      "patronus": "Não disponível/Desconhecido"
+    },
+    {
+      "fullName": "Poppy Pomfrey",
+      "nickname": "Madame Pomfrey",
+      "hogwartsHouse": "Não disponível/Desconhecido",
+      "interpretedBy": "Gemma Jones",
+      "children": [],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/poppy_pomfrey.png",
+      "birthdate": "Não disponível/Desconhecido",
+      "patronus": "Não disponível/Desconhecido"
+    },
+    {
+      "fullName": "Quirinus Quirrell",
+      "nickname": "Quirrell",
+      "hogwartsHouse": "Corvinal",
+      "interpretedBy": "Ian Hart",
+      "children": [],
+      "image": "https://raw.githubusercontent.com/lucastonidev/ethereal-data/main/image/characters/quirinus_quirrell.png",
+      "birthdate": "Sep 26, 1967",
+      "patronus": "Não disponível/Desconhecido"
     }
   ]
 }
